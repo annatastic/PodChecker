@@ -1,0 +1,242 @@
+{
+  "task_id": "411319af-b2ef-4c19-9c31-b043f4e55b2f",
+  "metadata": {
+    "finished_time": "2026-01-13T05:52:44.906915+00:00",
+    "file_name": "UPSC Podcasts",
+    "openai_model": "gpt-5-mini",
+    "temprature": "1",
+    "perplexity_model": "Sonar",
+    "source": "local",
+    "record_count": 14
+  },
+  "data": [
+    {
+      "num": 1,
+      "extracted_claim": "The speaker was talking about the Maldives.",
+      "label": "unverifiable",
+      "sources": [
+        "https://www.natucate.com/en/destinations/travel-guide-maldives",
+        "https://en.wikipedia.org/wiki/Geography_of_the_Maldives",
+        "https://www.kids-world-travel-guide.com/maldives-facts.html",
+        "https://www.workingabroad.com/travel/maldives-geography-and-climate/",
+        "https://en.wikipedia.org/wiki/Maldives",
+        "https://factsanddetails.com/south-asia/Maldives/Nature_Environment_Animals_Maldives/entry-8053.html",
+        "https://www.britannica.com/place/Maldives",
+        "https://gooceantravel.com/fun-facts-about-the-maldives/",
+        "https://www.metlink.org/resource/country-background-information-maldives/",
+        "https://www.authenticindiatours.com/blogs-and-guides/guides/10-facts-about-the-maldives/",
+        "https://www.cia.gov/the-world-factbook/countries/maldives/",
+        "https://thecommonwealth.org/our-member-countries/maldives",
+        "https://rusticpathways.com/blog/fun-facts-about-the-maldives"
+      ]
+    },
+    {
+      "num": 2,
+      "extracted_claim": "The speaker said reports about the Maldives are not very encouraging.",
+      "label": "unverifiable",
+      "sources": [
+        "* https://maldivesindependent.com/economy/between-government-optimism-and-world-bank-warnings-dissecting-the-2026-budget-9dd5",
+        "https://www.ohchr.org/en/press-releases/2024/04/maldives-stuck-between-rock-and-hard-place-un-expert",
+        "https://en.sun.mv/100458",
+        "https://maldives.un.org/en/267078-un-expert-maldives-stuck-between-rock-and-hard-place-climate-change-issue",
+        "https://en.mmtv.mv/7719",
+        "* https://www.hrw.org/news/2025/05/27/climate-change-threatens-maldives-no-island-paradise",
+        "https://atolltimes.mv/post/business/5209",
+        "https://www.ehn.org/maldives-race-to-expand-land-raises-environmental-and-social-concerns",
+        "https://en.sun.mv/100593",
+        "* https://www.weforum.org/stories/2021/05/maldives-floating-city-climate-change/",
+        "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099846210302541970",
+        "https://blogs.worldbank.org/en/endpovertyinsouthasia/thriving-in-a-warming-world--how-maldives-can-adapt-to-climate-c",
+        "https://www.imf.org/en/countries/mdv",
+        "https://www.adaptation-undp.org/projects/implementing-tourism-adaptation-climate-change-maldives",
+        "https://www.smartraveller.gov.au/destinations/asia/maldives"
+      ]
+    },
+    {
+      "num": 3,
+      "extracted_claim": "The Maldives is apparently one of the nations from which a large number of people have gone and joined the Islamic State.",
+      "label": "true",
+      "sources": [
+        "https://www.lowyinstitute.org/the-interpreter/maldives-legacy-islamic-state",
+        "https://home.treasury.gov/news/press-releases/jy1659",
+        "* https://www.nber.org/system/files/working_papers/w22190/w22190.pdf",
+        "https://www.nrc.no/perspectives/2017/where-jihadists-are-heroes",
+        "https://icsr.info/wp-content/uploads/2018/07/ICSR-Report-From-Daesh-to-%E2%80%98Diaspora%E2%80%99-Tracing-the-Women-and-Minors-of-Islamic-State.pdf",
+        "https://ctc.westpoint.edu/daesh-diaspora-challenges-posed-women-minors-fall-caliphate/",
+        "https://en.wikipedia.org/wiki/Islamic_State",
+        "https://www.state.gov/reports/country-reports-on-terrorism-2019"
+      ]
+    },
+    {
+      "num": 4,
+      "extracted_claim": "Many of those Maldivian individuals who joined the Islamic State have come back.",
+      "label": "false",
+      "sources": [
+        "https://www.lowyinstitute.org/the-interpreter/maldives-legacy-islamic-state",
+        "https://icsr.info/wp-content/uploads/2018/07/ICSR-Report-From-Daesh-to-%E2%80%98Diaspora%E2%80%99-Tracing-the-Women-and-Minors-of-Islamic-State.pdf",
+        "https://icct.nl/publication/trends-return-and-prosecution-isis-foreign-terrorist-fighters-united-states",
+        "https://ctc.westpoint.edu/daesh-diaspora-challenges-posed-women-minors-fall-caliphate/",
+        "* https://www.nber.org/system/files/working_papers/w22190/w22190.pdf",
+        "https://www.nrc.no/perspectives/2017/where-jihadists-are-heroes",
+        "https://ndupress.ndu.edu/Portals/68/Documents/stratperspective/inss/Strategic-Perspectives-21.pdf",
+        "https://en.wikipedia.org/wiki/Islamic_State",
+        "https://www.state.gov/reports/country-reports-on-terrorism-2019"
+      ]
+    },
+    {
+      "num": 5,
+      "extracted_claim": "The speaker referred to reports in the media elsewhere about the Sri Lanka attacks.",
+      "label": "unverifiable",
+      "sources": [
+        "* https://www.cfr.org/in-brief/sri-lanka-bombings-what-we-know",
+        "* https://thediplomat.com/2023/10/rohan-gunaratna-on-the-roots-of-sri-lankas-deadly-easter-sunday-attacks/",
+        "https://www.gov.uk/foreign-travel-advice/sri-lanka/safety-and-security",
+        "https://travel.state.gov/en/international-travel/travel-advisories/sri-lanka.html",
+        "https://www.smartraveller.gov.au/destinations/asia/sri-lanka",
+        "* https://www.crisisgroup.org/asia-pacific/sri-lanka/sri-lankas-easter-bombings-peaceful-coexistence-under-attack",
+        "https://mcc-covid.crc.pitt.edu/COVID19_official_websites/Mozambique/moh_situation_reports/2020-05-10_08031589112229.html?y-news-26600661-2026-01-12-viebet-reports-major-tiger-attacks-in-eastern-sri-lanka-resulting-in-20-deer-killed"
+      ]
+    },
+    {
+      "num": 6,
+      "extracted_claim": "Those media reports suggest there are traces of connection between India and the people who carried out the Sri Lanka strikes.",
+      "label": "false",
+      "sources": [
+        "https://en.wikipedia.org/wiki/2019_Sri_Lanka_Easter_bombings",
+        "https://www.youtube.com/watch?v=5gTU5pDiq9E",
+        "https://www.state.gov/reports/country-reports-on-terrorism-2019/sri-lanka",
+        "https://icct.nl/sites/default/files/2022-12/StratComms-Report-2.pdf",
+        "* https://www.crisisgroup.org/asia-pacific/sri-lanka/302-after-sri-lankas-easter-bombings-reducing-risks-future-violence",
+        "https://www.justice.gov/archives/opa/pr/three-foreign-nationals-charged-conspiring-provide-material-support-isis"
+      ]
+    },
+    {
+      "num": 7,
+      "extracted_claim": "The speaker asked what actually happens on the ground once a mechanism like this comes into force.",
+      "label": "unverifiable",
+      "sources": [
+        "https://www.lowyinstitute.org/the-interpreter/maldives-legacy-islamic-state",
+        "https://www.tamilguardian.com/content/india-behind-easter-sunday-attacks-claims-former-sri-lankan-president",
+        "https://www.nrc.no/perspectives/2017/where-jihadists-are-heroes",
+        "https://ctc.westpoint.edu/terrorism-teardrop-island-understanding-easter-2019-attacks-sri-lanka/",
+        "https://home.treasury.gov/news/press-releases/jy1659",
+        "https://en.wikipedia.org/wiki/India%E2%80%93Sri_Lanka_relations",
+        "https://icsr.info/wp-content/uploads/2018/07/ICSR-Report-From-Daesh-to-%E2%80%98Diaspora%E2%80%99-Tracing-the-Women-and-Minors-of-Islamic-State.pdf",
+        "https://www.state.gov/reports/country-reports-on-terrorism-2019/sri-lanka",
+        "https://www.washingtoninstitute.org/policy-analysis/one-year-islamic-state-worldwide-activity-map",
+        "https://www.justice.gov/archives/opa/pr/three-foreign-nationals-charged-conspiring-provide-material-support-isis",
+        "https://www.state.gov/reports/country-reports-on-terrorism-2019",
+        "https://ctc.westpoint.edu/the-financial-future-of-the-islamic-state/",
+        "* https://www.nber.org/digest/jun16/where-are-isiss-foreign-fighters-coming",
+        "https://en.wikipedia.org/wiki/Islamic_State",
+        "https://icct.nl/publication/islamic-state-2025-evolving-threat-facing-waning-global-response"
+      ]
+    },
+    {
+      "num": 8,
+      "extracted_claim": "The Maldives has a very small population.",
+      "label": "true",
+      "sources": [
+        "* https://datareportal.com/reports/digital-2026-maldives",
+        "https://www.unfpa.org/data/world-population/MV",
+        "https://en.mmtv.mv/7602",
+        "* https://www.statista.com/statistics/1044977/total-population-of-the-maldives/",
+        "https://countrymeters.info/en/Maldives",
+        "https://allcharts.info/maldives/",
+        "https://populationstat.com/maldives/",
+        "https://tradingeconomics.com/maldives/population-total-wb-data.html",
+        "* https://worldpopulationreview.com/countries/maldives",
+        "https://en.wikipedia.org/wiki/Maldives",
+        "https://www.populationpyramid.net/maldives/2026/",
+        "https://statisticsmaldives.gov.mv"
+      ]
+    },
+    {
+      "num": 9,
+      "extracted_claim": "The Maldives has a very high density (relative to its population) of citizens who went to West Asia and were inducted into the Islamic State and its own effort.",
+      "label": "unverifiable",
+      "sources": [
+        "https://countrymeters.info/en/Maldives",
+        "https://tradingeconomics.com/maldives/population-density-people-per-sq-km-wb-data.html",
+        "* https://worldpopulationreview.com/countries/maldives",
+        "https://georank.org/population-density/maldives/tuvalu",
+        "https://en.wikipedia.org/wiki/Maldives",
+        "https://www.populationpyramid.net/population-density/maldives/2026/",
+        "https://www.populationpyramid.net/maldives/2026/"
+      ]
+    },
+    {
+      "num": 10,
+      "extracted_claim": "Many Maldivian citizens who went to West Asia and joined the Islamic State have returned to the Maldives.",
+      "label": "false",
+      "sources": [
+        "https://www.lowyinstitute.org/the-interpreter/maldives-legacy-islamic-state",
+        "https://icsr.info/wp-content/uploads/2018/07/ICSR-Report-From-Daesh-to-%E2%80%98Diaspora%E2%80%99-Tracing-the-Women-and-Minors-of-Islamic-State.pdf",
+        "https://www.washingtoninstitute.org/policy-analysis/one-year-islamic-state-worldwide-activity-map",
+        "https://icct.nl/publication/trends-return-and-prosecution-isis-foreign-terrorist-fighters-united-states",
+        "https://ctc.westpoint.edu/daesh-diaspora-challenges-posed-women-minors-fall-caliphate/",
+        "* https://www.nber.org/system/files/working_papers/w22190/w22190.pdf",
+        "https://www.nrc.no/perspectives/2017/where-jihadists-are-heroes",
+        "https://www.state.gov/reports/country-reports-on-terrorism-2019",
+        "https://en.wikipedia.org/wiki/Islamic_State"
+      ]
+    },
+    {
+      "num": 11,
+      "extracted_claim": "UN Secretary-General António Guterres drew attention to an important point in his remarks when he spoke about India's effort.",
+      "label": "unverifiable",
+      "sources": [
+        "https://www.un.org/sg/en/content/ossg/latest-statements",
+        "https://www.youtube.com/watch?v=bYvnrnak3oA",
+        "https://slguardian.org/un-faces-leadership-vacuum-as-divisions-deepen-over-next-secretary-general/",
+        "https://www.un.int/srilanka/news?mini=2026-02&page=68",
+        "https://www.un.org/sg/statements/index.asp",
+        "* https://www.thenewhumanitarian.org/analysis/2026/01/05/ten-humanitarian-trends-keep-eye-2026"
+      ]
+    },
+    {
+      "num": 12,
+      "extracted_claim": "António Guterres said that after the Islamic State has been defeated militarily and no longer controls territory as it did in the past, the UN estimates there are as many as 40,000 individuals who have now been forced to leave.",
+      "label": "unverifiable",
+      "sources": [
+        "https://press.un.org/en/2026/sgsm22977.doc.htm",
+        "https://www.bernama.com/en/world/news.php?id=2511313",
+        "https://www.jpost.com/international/article-883019",
+        "https://europeansting.com/2026/01/12/un-chief-shocked-by-reports-of-excessive-force-against-protesters-in-iran/",
+        "https://www.securitycouncilreport.org/monthly-forecast/2026-01/yemen-86.php",
+        "https://www.aa.com.tr/en/middle-east/un-chief-urges-iran-to-exercise-maximum-restraint-amid-protests/3796621",
+        "https://www.un.org/sg/en/content/highlight/2026-01-12.html"
+      ]
+    },
+    {
+      "num": 13,
+      "extracted_claim": "Guterres said those individuals had been indoctrinated of their own free will and were supporting the ideology of the Islamic State.",
+      "label": "unverifiable",
+      "sources": [
+        "* https://www.thestatesman.com/world/un-tells-maldive-fm-concerns-state-emergency-1502582323.html",
+        "https://news.cgtn.com/news/3341544f31677a6333566d54/index.html",
+        "* https://orgecsnew.business-standard.com/article/pti-stories/un-s-guterres-urges-maldives-to-lift-state-of-emergency-118020601443_1.html",
+        "https://presidency.gov.mv/Press/Article/31664",
+        "https://www.un.org/sg/en/content/ossg/latest-statements?statID=1484&statements%5B0%5D=category%3A201&statements%5B1%5D=category%3A203&statements%5B2%5D=facet_statements_country_territory%3A460&page=16",
+        "https://www.youtube.com/watch?v=BQCNQeh3zZo",
+        "https://www.un.org/sg/en/content/ossg/latest-statements",
+        "https://www.un.org/sg/en/content/ossg/latest-statements?nid=5977&page=28"
+      ]
+    },
+    {
+      "num": 14,
+      "extracted_claim": "Guterres said those individuals were drawn from 110 countries.",
+      "label": "unverifiable",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ant%C3%B3nio_Guterres",
+        "https://www.un.org/sg/en/content/ossg/latest-statements?statements%5B0%5D=category%3A201&statements%5B1%5D=category%3A204&statements%5B2%5D=db%3A38344&statements%5B3%5D=facet_statements_country_territory%3A460&statements%5B4%5D=speaker%3A205&page=110",
+        "http://media.aclj.org/pdf/LTR-AntonioGuterres_Redacted.pdf",
+        "https://www.firstpost.com/world/deeply-concerned-un-chief-calls-on-israel-to-remove-ban-on-ngos-providing-aid-in-gaza-13964979.html",
+        "https://www.youtube.com/watch?v=BQCNQeh3zZo",
+        "https://pulitzercenter.org/stories/how-covid-19-facilitated-rebirth-global-jihadism",
+        "https://www.un.org/sg/en/content/ossg/latest-statements?nid=1771&statements%5B0%5D=category%3A204&statements%5B1%5D=db%3A38344&statements%5B2%5D=facet_statements_country_territory%3A460&statements%5B3%5D=speaker%3A205&page=110"
+      ]
+    }
+  ],
+  "status": "done"
+}

@@ -1,0 +1,716 @@
+{
+  "task_id": "a63ac511-a7f6-4e29-9f03-91fa36c6b0b3",
+  "metadata": {
+    "finished_time": "2026-01-08T01:58:11.459605+00:00",
+    "file_name": "the daily 0102.mp3",
+    "openai_model": "gpt-5-mini",
+    "temprature": "1",
+    "perplexity_model": "Sonar",
+    "source": "local",
+    "record_count": 46
+  },
+  "data": [
+    {
+      "num": 1,
+      "extracted_claim": "Kara Buckley and Katrin Einhorn reported a project to document small but significant climate and environmental efforts in every U.S. state.",
+      "label": "true",
+      "sources": [
+        "https://podcasts.happyscribe.com/the-daily/50-states-50-fixes",
+        "https://gss.lawrencehallofscience.org/stay-current-2022/",
+        "https://podcasts.apple.com/es/podcast/the-daily/id1200361736?l=en-GB",
+        "https://www.hottakepod.com/the-fossil-fuel-industrys-big-jobs-lie-2/",
+        "https://muckrack.com/catrineinhorn/articles",
+        "https://storytracker.solutionsjournalism.org",
+        "https://dennismeredith.com/the-climate-pandemic-references_508.html"
+      ]
+    },
+    {
+      "num": 2,
+      "extracted_claim": "The series was framed as '50 states, 50 fixes'.",
+      "label": "true",
+      "sources": [
+        "https://www.youtube.com/watch?v=bomPm-tZwhw",
+        "https://www.goloudnow.com/podcasts/the-daily-253/50-states-50-fixes-566433",
+        "https://www.iheart.com/podcast/326-the-daily-28076606/episode/50-states-50-fixes-315431308/",
+        "https://healthjournalism.org/blog/2025/06/nyts-50-states-50-fixes-exemplifies-the-climate-journalism-audiences-need/",
+        "https://podcasts.happyscribe.com/the-daily/50-states-50-fixes",
+        "https://www.rova.nz/podcasts/the-daily/episodes/50-states-50-fixes",
+        "https://podwise.ai/dashboard/episodes/6651115",
+        "https://www.editorandpublisher.com/stories/50-states-50-fixes-how-local-climate-solutions-are-resonating-across-america,259044",
+        "https://podcasts.apple.com/es/podcast/the-daily/id1200361736?l=en-GB"
+      ]
+    },
+    {
+      "num": 3,
+      "extracted_claim": "The reporting team covered all 50 states.",
+      "label": "true",
+      "sources": [
+        "https://podcasts.happyscribe.com/the-daily/50-states-50-fixes",
+        "https://www.nytco.com/press/see-our-new-byline-pages/",
+        "https://www.editorandpublisher.com/stories/50-states-50-fixes-how-local-climate-solutions-are-resonating-across-america,259044",
+        "https://www.hottakepod.com/the-fossil-fuel-industrys-big-jobs-lie-2/",
+        "https://music.youtube.com/podcast/bomPm-tZwhw",
+        "https://muckrack.com/catrineinhorn/articles",
+        "https://play.headliner.app/podcast/_cpf_clncniujk0000e9og9cxvbvjn/episode/7e0c8947-f484-4f9f-a540-a938a4c23f9d",
+        "https://storytracker.solutionsjournalism.org",
+        "https://podwise.ai/dashboard/episodes/6651115"
+      ]
+    },
+    {
+      "num": 4,
+      "extracted_claim": "The project involved 13 reporters.",
+      "label": "unverifiable",
+      "sources": [
+        "https://podcasts.happyscribe.com/the-daily/50-states-50-fixes",
+        "https://ww2.arb.ca.gov/sites/default/files/2025-12/200s%20initial%20regulation_staff%20report.pdf",
+        "https://podcasts.apple.com/ca/podcast/50-states-50-fixes/id1200361736?i=1000743500455",
+        "https://www.rebuildlocalnews.org/new-report-reveals-alarming-and-widespread-shortage-of-local-journalists-across-the-u-s/",
+        "https://music.youtube.com/podcast/bomPm-tZwhw",
+        "https://www.editorandpublisher.com/stories/50-states-50-fixes-how-local-climate-solutions-are-resonating-across-america,259044",
+        "https://play.headliner.app/podcast/_cpf_clncniujk0000e9og9cxvbvjn/episode/7e0c8947-f484-4f9f-a540-a938a4c23f9d",
+        "https://web.stanford.edu/group/efmh/jacobson/Articles/I/USStatesWWS.pdf",
+        "https://podwise.ai/dashboard/episodes/6651115",
+        "* https://www.gallup.com/workplace/349484/state-of-the-global-workplace.aspx",
+        "https://muckrack.com/catrineinhorn/articles",
+        "* https://grist.org/fix/grist-50/2022/"
+      ]
+    },
+    {
+      "num": 5,
+      "extracted_claim": "The project involved more than 50 photographers.",
+      "label": "true",
+      "sources": [
+        "https://podcasts.happyscribe.com/the-daily/50-states-50-fixes",
+        "https://www.editorandpublisher.com/stories/50-states-50-fixes-how-local-climate-solutions-are-resonating-across-america,259044",
+        "https://podcasts.apple.com/us/podcast/50-states-50-fixes/id1200361736?i=1000743500455",
+        "https://storytracker.solutionsjournalism.org",
+        "https://gss.lawrencehallofscience.org/stay-current-2022/"
+      ]
+    },
+    {
+      "num": 6,
+      "extracted_claim": "The series sought solutions that delivered multiple benefits, including reducing greenhouse gas emissions, improving ecosystems, restoring imperiled species, helping human health, and saving people money.",
+      "label": "true",
+      "sources": [
+        "https://podcasts.happyscribe.com/the-daily/50-states-50-fixes",
+        "https://audio.nrc.nl/episode/158599300",
+        "https://www.iheart.com/podcast/326-the-daily-28076606/episode/50-states-50-fixes-315431308/",
+        "https://podwise.ai/dashboard/episodes/6651115",
+        "https://www.editorandpublisher.com/stories/50-states-50-fixes-how-local-climate-solutions-are-resonating-across-america,259044"
+      ]
+    },
+    {
+      "num": 7,
+      "extracted_claim": "Kara Buckley reported on rewilding old golf courses as a way to help biodiversity.",
+      "label": "true",
+      "sources": [
+        "https://www.planetizen.com/news/2024/02/127631-rewilding-golf-course",
+        "https://www.optimistdaily.com/2023/11/from-fairways-to-green-sanctuaries-the-effort-to-rewild-abandoned-golf-courses/",
+        "https://storytracker.solutionsjournalism.org/stories/after-shutting-down-these-golf-courses-went-wild",
+        "https://rewilding.academy/rewilding/rewilding-abandoned-golf-courses/",
+        "https://organikos.net/2024/02/15/returning-golf-land-to-nature/",
+        "https://globalrewilding.earth/restoring-life-on-a-former-golf-course/",
+        "https://podcasts.happyscribe.com/the-daily/50-states-50-fixes",
+        "* https://www.dailyclimate.org/nature-s-comeback-how-rewilding-is-transforming-golf-courses-2671194019.html",
+        "https://go.gale.com/ps/i.do?id=GALE%7CA782662660&sid=sitemap&v=2.1&it=r&p=AONE&sw=w",
+        "https://natctr.org/news/directions/directions-fall-2024/why-take-on-restoring-an-old-golf-course",
+        "https://www.seversondells.com/blog/rewilding",
+        "https://www.audubon.org/magazine/bye-bye-golf-courses-hello-nature-preserves"
+      ]
+    },
+    {
+      "num": 8,
+      "extracted_claim": "Kara Buckley reported that roundabouts in Carmel, Indiana are a sustainable type of intersection that reduced emissions.",
+      "label": "true",
+      "sources": [
+        "https://wustllawreview.org/2023/05/19/turning-around-americas-traffic-crisis-one-roundabout-at-a-time-why-more-roundabouts-means-safer-roads-and-fewer-automobile-deaths/",
+        "* https://www.cbsnews.com/news/roundabouts-traffic-safety-environment-carmel-indiana/",
+        "https://donvandergriff.substack.com/p/the-roundabout-revolution-why-circles",
+        "https://eri.iu.edu/erit/case-studies/carmel-indiana-roundabouts.html",
+        "https://www.biocycle.net/commentary-roundabouts/",
+        "https://www.ite.org/technical-resources/ite-talks-transportation/podcast-transcripts/how-carmel-indiana-became-the-roundabout-capital-of-the-united-states/",
+        "https://www.advocatesforardenarcade.com/2025-06-18-roundabouts",
+        "https://www.iihs.org/news/detail/unusual-design-slashes-injury-crashes-for-roundabout-city",
+        "https://www.carmel.in.gov/311/Roundabouts"
+      ]
+    },
+    {
+      "num": 9,
+      "extracted_claim": "In northwest Missouri, funeral director Eric Chamberlain initiated a local wind energy project.",
+      "label": "true",
+      "sources": [
+        "https://themissouritimes.com/wind-energy-picking-up-momentum-in-northwest-missouri/",
+        "https://www.youtube.com/watch?v=gMmpN2yat_Y",
+        "https://www.utilitydive.com/news/road-to-100-how-one-mans-mission-to-power-his-hometown-by-wind-created-a/567159/",
+        "https://www.geni.org/globalenergy/library/technical-articles/generation/wind/associated-press/rock-port-declares-itslef-100-percent-wind-powered/index.shtml",
+        "* https://abcnews.go.com/Technology/story?id=4888310&page=1",
+        "https://www.farmprogress.com/farm-business/rock-port-on-wind-power-map",
+        "https://glasswings.com.au/blog/2025-05/05-022425.html"
+      ]
+    },
+    {
+      "num": 10,
+      "extracted_claim": "Eric Chamberlain convinced local farmers to host wind turbines, starting with four turbines in 2008.",
+      "label": "misleading/partially true",
+      "sources": [
+        "https://themissouritimes.com/wind-energy-picking-up-momentum-in-northwest-missouri/",
+        "https://www.utilitydive.com/news/road-to-100-how-one-mans-mission-to-power-his-hometown-by-wind-created-a/567159/",
+        "* https://abcnews.go.com/Technology/story?id=4888310&page=1",
+        "https://www.geni.org/globalenergy/library/technical-articles/generation/wind/associated-press/rock-port-declares-itslef-100-percent-wind-powered/index.shtml",
+        "https://www.stlpr.org/health-science-environment/2009-02-28/is-wind-power-strong-enough-to-overcome-problems",
+        "https://www.farmprogress.com/farm-business/rock-port-on-wind-power-map"
+      ]
+    },
+    {
+      "num": 11,
+      "extracted_claim": "Rock Port, Missouri became the first community in the country to produce more electricity from wind energy than it needed.",
+      "label": "true",
+      "sources": [
+        "https://www.sciencedaily.com/releases/2008/07/080715165441.htm",
+        "https://www.motherearthnews.com/sustainable-living/nature-and-environment/rock-port-missouri-zmaz09onzraw/",
+        "https://www.utilitydive.com/news/road-to-100-how-one-mans-mission-to-power-his-hometown-by-wind-created-a/567159/",
+        "https://www.livescience.com/2704-town-powered-completely-wind.html",
+        "* https://abcnews.go.com/Technology/story?id=4888310&page=1",
+        "https://www.geni.org/globalenergy/library/technical-articles/generation/wind/associated-press/rock-port-declares-itslef-100-percent-wind-powered/index.shtml",
+        "https://en.wikipedia.org/wiki/Wind_power_in_Missouri"
+      ]
+    },
+    {
+      "num": 12,
+      "extracted_claim": "The county in northwest Missouri now has more than 340 wind turbines.",
+      "label": "unverifiable",
+      "sources": [
+        "https://cleanview.co/wind-farms/missouri",
+        "https://www.motherearthnews.com/sustainable-living/nature-and-environment/rock-port-missouri-zmaz09onzraw/",
+        "https://www.firetrace.com/fire-protection-blog/top-10-us-states-for-wind-turbine-installations",
+        "https://www.gridinfo.com/plant/loess-hills/56538",
+        "https://www.eia.gov/state/analysis.php?sid=MO",
+        "https://www.livescience.com/2704-town-powered-completely-wind.html",
+        "https://www.ahec.coop/index.php/wind-energy/",
+        "https://www.fmlink.com/rock-port-michigan-becomes-first-solar-powered-town-in-us/",
+        "https://extension.missouri.edu/news/wind-farms-generate-power-revenue-say-mu-extension-specialists",
+        "https://www.earthday.org/a-renewable-revolution-how-six-us-cities-are-leading-the-charge-to-clean-energy/",
+        "https://radio.wcmu.org/2024-02-12/some-midwest-states-take-power-to-ban-wind-and-solar-projects-away-from-local-communities",
+        "https://www.farmprogress.com/farm-business/rock-port-on-wind-power-map",
+        "https://www.industrialinfo.com/news/article/missouri-generators-developing-over-1900-megawatts-of-new-renewable-energy--112319",
+        "https://en.wikipedia.org/wiki/Wind_power_in_Missouri",
+        "https://www.chooseenergy.com/data-center/wind-generation-by-state/"
+      ]
+    },
+    {
+      "num": 13,
+      "extracted_claim": "The wind turbines in that county supply 50 permanent jobs.",
+      "label": "unverifiable",
+      "sources": [
+        "https://www.indeed.com/q-wind-farm-l-missouri-jobs.html",
+        "https://www.indeed.com/q-wind-energy-l-missouri-jobs.html",
+        "https://www.indeed.com/q-wind-turbine-l-maryville,-mo-jobs.html",
+        "https://www.indeed.com/q-wind-energy-l-kansas-city,-mo-jobs.html",
+        "https://www.ziprecruiter.com/Jobs/Wind-Turbine-Energy/--in-Missouri",
+        "https://www.ziprecruiter.com/Jobs/Wind-Turbines/--in-Missouri",
+        "https://www.ziprecruiter.com/Jobs/Wind-Energy/--in-Missouri"
+      ]
+    },
+    {
+      "num": 14,
+      "extracted_claim": "Wind turbines in that county generate about $6 million a year in tax revenue, which is more than half of the county's real estate tax revenue.",
+      "label": "unverifiable",
+      "sources": [
+        "https://extension.missouri.edu/news/wind-farms-generate-power-revenue-say-mu-extension-specialists",
+        "https://www.100-percent.org/rockport-missouri-usa/",
+        "https://www.mortenson.com/news-insights/clear-creek-wind-project-complete",
+        "https://dnr.mo.gov/energy/energy-resources/wind",
+        "https://www.crestonnews.com/news/local/2025/05/16/wind-turbine-revenue-funding-county-projects/",
+        "https://www.windsystemsmag.com/favorable-winds-in-missouri/",
+        "https://radio.wcmu.org/2024-02-12/some-midwest-states-take-power-to-ban-wind-and-solar-projects-away-from-local-communities",
+        "https://www.farmprogress.com/farm-business/rock-port-on-wind-power-map",
+        "https://www.eia.gov/state/analysis.php?sid=MO"
+      ]
+    },
+    {
+      "num": 15,
+      "extracted_claim": "Hosting wind turbines provided extra revenue for farmers in that county.",
+      "label": "true",
+      "sources": [
+        "https://www.livescience.com/2704-town-powered-completely-wind.html",
+        "https://www.motherearthnews.com/sustainable-living/nature-and-environment/rock-port-missouri-zmaz09onzraw/",
+        "https://extension.missouri.edu/news/wind-farms-generate-power-revenue-say-mu-extension-specialists",
+        "https://www.utilitydive.com/news/road-to-100-how-one-mans-mission-to-power-his-hometown-by-wind-created-a/567159/",
+        "https://www.ecmag.com/magazine/articles/article-detail/green-building-first-100-percent-wind-powered-city-united-states",
+        "https://dnr.mo.gov/energy/energy-resources/wind",
+        "https://www.windsystemsmag.com/wp-content/uploads/pdfs/Articles/2011_June/0611_Missouri.pdf"
+      ]
+    },
+    {
+      "num": 16,
+      "extracted_claim": "Grizzly bears have been rebounding into areas of the U.S. lower 48 after being largely eradicated earlier.",
+      "label": "true",
+      "sources": [
+        "https://mountainjournal.org/grizzly-bears-in-lower-48-to-remain-protected-under-esa/",
+        "* https://worldpopulationreview.com/state-rankings/grizzly-bear-population-by-state",
+        "https://defenders.org/blog/2025/01/history-of-grizzly-bears-and-their-protections-lower-48",
+        "https://wyofile.com/feds-yellowstone-lower-48-grizzlies-to-remain-protected-by-endangered-species-act/",
+        "https://defenders.org/blog/2025/11/spirit-of-american-wilderness-why-proposed-lower-48-grizzly-bear-listing-nothing-new",
+        "https://blog.nwf.org/2025/11/lg-spotlights-the-majesty-of-the-grizzly-bear-in-times-square/",
+        "https://www.federalregister.gov/documents/2025/01/15/2025-00329/endangered-and-threatened-wildlife-and-plants-grizzly-bear-listing-on-the-list-of-endangered-and",
+        "https://wildlifemanagement.institute/node/1659",
+        "https://www.fws.gov/grizzlyrulemaking"
+      ]
+    },
+    {
+      "num": 17,
+      "extracted_claim": "Grizzly bears returning to the plains of Montana began raiding wheat and barley farms and grain bins.",
+      "label": "true",
+      "sources": [
+        "https://www.youtube.com/watch?v=uCSKzgZdd_c",
+        "https://kbulnewstalk.com/3-hunters-injured-in-2-montana-grizzly-attacks/",
+        "https://newstalkkgvo.com/grizzly-bear-conflicts-montana/",
+        "https://www.youtube.com/watch?v=ONgUMR8tH9k",
+        "https://flatheadbeacon.com/2025/07/16/grizzy-bear-deaths-conflicts-continue-to-rise-in-northwest-montana/",
+        "https://www.youtube.com/watch?v=lbp4aTUU-tY",
+        "https://www.youtube.com/watch?v=mwiEn0ek7Fg",
+        "https://cowboystatedaily.com/2025/07/04/tiny-montana-towns-adjust-to-prairie-grizzlies-and-attacks-on-livestock/",
+        "https://www.rfdtv.com/the-answer-to-deterring-grizzly-bears-from-montana-farms-livestock-guardian-dogs",
+        "https://www.gravel.org/2025/07/23/grizzlies-were-raiding-montana-farms-then-came-some-formidable-dogs/"
+      ]
+    },
+    {
+      "num": 18,
+      "extracted_claim": "Livestock guardian dogs (large breeds such as Kangals and Anatolian shepherds) were deployed in Montana to deter grizzly bears from farms and protect people.",
+      "label": "true",
+      "sources": [
+        "https://www.rfdtv.com/montana-farmers-who-have-livestock-guardian-dogs-saw-a-90-drop-in-bear-activity",
+        "* https://www.thecooldown.com/outdoors/grizzly-bears-livestock-guardian-dogs-conservation/",
+        "https://www.science.org/content/article/grizzly-bears-were-pillaging-farms-could-canine-keep-them-away",
+        "https://www.youtube.com/watch?v=wpMGgb_tCD4",
+        "https://www.outsideonline.com/outdoor-adventure/exploration-survival/guard-dog-grizzly-bears/",
+        "https://adamwilkins.substack.com/p/grizzly-bears-and-dogs-the-best-of",
+        "https://www.youtube.com/watch?v=uz3WlChNm0E",
+        "https://fwp.mt.gov/binaries/content/assets/fwp/conservation/bears/12---young-and-sarmento-2024-lgd-efficacy.pdf",
+        "https://forum.chronofhorse.com/t/grizzly-bears-and-livestock-guard-dogs/807043"
+      ]
+    },
+    {
+      "num": 19,
+      "extracted_claim": "Studies and local trials in Montana using livestock guardian dogs reduced bear visits and promoted coexistence between farmers and bears.",
+      "label": "true",
+      "sources": [
+        "https://nbcmontana.com/news/local/study-finds-guard-dogs-significantly-reduce-grizzly-encounters-on-farms",
+        "https://fwp.mt.gov/binaries/content/assets/fwp/conservation/bears/12---young-and-sarmento-2024-lgd-efficacy.pdf",
+        "https://www.science.org/content/article/grizzly-bears-were-pillaging-farms-could-canine-keep-them-away",
+        "https://www.outsideonline.com/outdoor-adventure/exploration-survival/guard-dog-grizzly-bears/",
+        "https://www.youtube.com/watch?v=uz3WlChNm0E",
+        "https://mountainjournal.org/wildlife-services-sued-judge-orders-eis-for-violating-nepa/",
+        "https://www.usda.gov/about-usda/news/blog/usda-serving-montana-ranchers-farmers",
+        "https://fwp.mt.gov/conservation/wildlife-management/bear/be-bear-aware/agricultural"
+      ]
+    },
+    {
+      "num": 20,
+      "extracted_claim": "The use of livestock guardian dogs helped protect both people and bears by reducing the likelihood that bears would be killed.",
+      "label": "true",
+      "sources": [
+        "https://nbcmontana.com/news/local/study-finds-guard-dogs-significantly-reduce-grizzly-encounters-on-farms",
+        "https://www.rfdtv.com/montana-farmers-who-have-livestock-guardian-dogs-saw-a-90-drop-in-bear-activity",
+        "https://fwp.mt.gov/binaries/content/assets/fwp/conservation/bears/12---young-and-sarmento-2024-lgd-efficacy.pdf",
+        "https://www.science.org/content/article/grizzly-bears-were-pillaging-farms-could-canine-keep-them-away",
+        "https://www.outsideonline.com/outdoor-adventure/exploration-survival/guard-dog-grizzly-bears/",
+        "https://www.youtube.com/watch?v=uz3WlChNm0E",
+        "https://fwp.mt.gov/conservation/wildlife-management/bear/be-bear-aware/agricultural"
+      ]
+    },
+    {
+      "num": 21,
+      "extracted_claim": "The Standing Rock tribe has been installing electric vehicle (EV) chargers throughout tribal lands as part of an inter-tribal charging network.",
+      "label": "true",
+      "sources": [
+        "https://theorcasonian.com/news-brief-a-tribally-owned-network-of-chargers-will-soon-be-complete-in-the-dakotas/",
+        "https://createenergy.org/renewable-energy-news/driving-an-e-v-across-north-dakota-thank-the-standing-rock-tribe/",
+        "https://sittingbull.edu/news/standing-rock-sioux-tribe-celebrates-new-electric-vehicles-charging-station/",
+        "https://sagesrst.com/projects/ev-charging-network/",
+        "https://www.lung.org/blog/zero-emission-vehicles-native-nations",
+        "https://nativenewsonline.net/environment/red-lake-standing-rock-prepare-for-electric-vehicle-corridor",
+        "https://www.evinfrastructurenews.com/ev-networks/upper-midwest-developer-and-oati-partner-for-ev-charging-on-tribal-lands"
+      ]
+    },
+    {
+      "num": 22,
+      "extracted_claim": "Standing Rock received a $6 million Department of Energy grant to help fund the EV charging effort.",
+      "label": "true",
+      "sources": [
+        "* https://grist.org/indigenous/midwest-tribes-awarded-6-6-million-to-build-their-own-ev-charging-network/",
+        "https://createenergy.org/renewable-energy-news/driving-an-e-v-across-north-dakota-thank-the-standing-rock-tribe/",
+        "https://www.nativesun.org/post/newyorktimes-11082025",
+        "https://sittingbull.edu/news/standing-rock-sioux-tribe-celebrates-new-electric-vehicles-charging-station/",
+        "https://driveelectric.gov/tribal-nations",
+        "https://pluginamerica.org/electric-nation-is-providing-access-to-clean-and-affordable-transportation-for-underserved-tribal-communities/",
+        "https://www.lung.org/blog/zero-emission-vehicles-native-nations",
+        "https://www.ccam-tac.org/news/standing-rock-nation-receives-funding-for-an-intertribal-electric-vehicle-charging-network/"
+      ]
+    },
+    {
+      "num": 23,
+      "extracted_claim": "Fayetteville, Arkansas reduced methane emissions from its landfill through composting.",
+      "label": "unverifiable",
+      "sources": [
+        "https://www.fayetteville-ar.gov/3845/Food-Waste-Compostables-Drop-Off",
+        "https://www.youtube.com/watch?v=AUqi0QbHrIc",
+        "https://nwarecycles.org/fayetteville-adds-new-compost-drop-off-bins/",
+        "https://ozarkcompost.com/pages/city-of-fayetteville-trial-signup",
+        "https://fayettevilleflyer.com/wp-content/uploads/2025/12/a8.pdf",
+        "https://wasteadvantagemag.com/fayetteville-ar-to-test-out-curbside-food-waste-program/"
+      ]
+    },
+    {
+      "num": 24,
+      "extracted_claim": "Fayetteville had to shelve two $20 million climate resilience projects amid changes in federal funding.",
+      "label": "unverifiable",
+      "sources": [
+        "https://www.fayetteville-ar.gov/3845/Food-Waste-Compostables-Drop-Off",
+        "https://www.youtube.com/watch?v=dp9oGTGH8PI",
+        "https://www.fayetteville-ar.gov/CivicAlerts.aspx?aid=3498",
+        "https://www.southernclimate.org/wp-content/uploads/Theme-4-Fayetteville-Report.pdf",
+        "https://ozarkcompost.com/pages/city-of-fayetteville-trial-signup",
+        "https://climatechangeresources.org/learn-more/states/arkansas/",
+        "https://fayettevilleflyer.com/wp-content/uploads/2025/12/a8.pdf",
+        "https://www.fayetteville-ar.gov/CivicAlerts.asp?AID=3540",
+        "https://nwarecycles.org/fayetteville-adds-new-compost-drop-off-bins/",
+        "https://wasteadvantagemag.com/fayetteville-ar-to-test-out-curbside-food-waste-program/"
+      ]
+    },
+    {
+      "num": 25,
+      "extracted_claim": "Pittsburgh implemented dimmable streetlights that city officials can control via phone.",
+      "label": "true",
+      "sources": [
+        "https://www.dimonoff.com/news/pittsburgh-undertakes-connected-led-street-lighting-project-through-smart-city-management-system/",
+        "https://engage.pittsburghpa.gov/PGHLED",
+        "https://safety21.cmu.edu/2025/07/31/why-this-pennsylvania-city-put-its-streetlights-on-a-dimmer/",
+        "https://smartpittsburgh.org/programs/smart-streetlights",
+        "https://www.pittsburghpa.gov/News-articles/Homepage/MAYOR-ED-GAINEY-CITY-COUNCIL-AND-CITY-DEPARTMENTS-KICK-OFF-LED-STREETLIGHT-MODERNIZATION-PROJECT-WITH-SYMBOLIC-LIGHTING-EVENT",
+        "https://www.youtube.com/watch?v=Jv_n1M2KkDU"
+      ]
+    },
+    {
+      "num": 26,
+      "extracted_claim": "Pittsburgh also implemented hooded streetlight fixtures to direct light downward and reduce upward glare.",
+      "label": "unverifiable",
+      "sources": [
+        "http://www.softlights.org/wp-content/uploads/2022/02/Pittsburgh-Lighting-Analysis.pdf",
+        "https://www.dimonoff.com/news/pittsburgh-undertakes-connected-led-street-lighting-project-through-smart-city-management-system/",
+        "https://www.pghled.org",
+        "https://engage.pittsburghpa.gov/PGHLED",
+        "https://americawalks.org/light-pollution-safety-lighting/",
+        "https://www.pghled.org/resources",
+        "https://www.pittsburghpa.gov/News-articles/Homepage/MAYOR-ED-GAINEY-CITY-COUNCIL-AND-CITY-DEPARTMENTS-KICK-OFF-LED-STREETLIGHT-MODERNIZATION-PROJECT-WITH-SYMBOLIC-LIGHTING-EVENT",
+        "https://www.youtube.com/watch?v=-wnxNTII-4Y",
+        "https://www.bocklighting.com/lp/exigences-dclairage--pittsburgh-pennsylvanie",
+        "https://sargentelectric.com/project/duquesne-light-street-light-program/",
+        "https://ecode360.com/45500260",
+        "https://smartpittsburgh.org/programs/smart-streetlights"
+      ]
+    },
+    {
+      "num": 27,
+      "extracted_claim": "Pittsburgh's streetlight changes are projected to save $942,000 in energy costs per year.",
+      "label": "true",
+      "sources": [
+        "https://www.pghled.org/resources",
+        "https://www.dimonoff.com/news/pittsburgh-undertakes-connected-led-street-lighting-project-through-smart-city-management-system/",
+        "https://engage.pittsburghpa.gov/PGHLED",
+        "http://www.softlights.org/wp-content/uploads/2022/02/Pittsburgh-Lighting-Analysis.pdf",
+        "https://www.pittsburghpa.gov/News-articles/Homepage/MAYOR-ED-GAINEY-CITY-COUNCIL-AND-CITY-DEPARTMENTS-KICK-OFF-LED-STREETLIGHT-MODERNIZATION-PROJECT-WITH-SYMBOLIC-LIGHTING-EVENT",
+        "https://www.esri.com/about/newsroom/arcnews/pittsburgh-lights-an-innovative-path-to-streetlight-design",
+        "* https://www.post-gazette.com/local/city/2023/06/06/pittsburgh-led-street-lights-city-council/stories/202306060103",
+        "https://www.youtube.com/watch?v=-wnxNTII-4Y",
+        "https://blog.tensaves.com/ten-and-the-city-of-pittsburgh-led-modernization-project/",
+        "* https://www.post-gazette.com/local/city/2025/06/04/gainey-streetlights-pittsburgh-modernization/stories/202506040075",
+        "https://www.unionprogress.com/2025/06/04/the-right-light-pittsburgh-begins-installing-led-streetlights/"
+      ]
+    },
+    {
+      "num": 28,
+      "extracted_claim": "Pittsburgh's streetlight changes are projected to prevent 12,000 metric tons of carbon dioxide emissions each year.",
+      "label": "true",
+      "sources": [
+        "https://www.dimonoff.com/news/pittsburgh-undertakes-connected-led-street-lighting-project-through-smart-city-management-system/",
+        "https://urbanengineers.com/news/urban-advances-citywide-led-streetlight-upgrade-initiative-in-pittsburgh",
+        "https://www.pittsburghmagazine.com/proposed-legislation-aims-to-decrease-light-pollution-and-bring-back-the-stars/",
+        "https://engage.pittsburghpa.gov/PGHLED",
+        "https://vibrantneo.org/led-street-lights-taking-over-in-pittsburgh-pa/",
+        "https://safety21.cmu.edu/2025/07/31/why-this-pennsylvania-city-put-its-streetlights-on-a-dimmer/",
+        "https://www.pghled.org/resources",
+        "https://www.alleghenyinstitute.org/bad-light-pittsburghs-led-street-lighting-project/",
+        "https://www.youtube.com/watch?v=-wnxNTII-4Y",
+        "https://smartpittsburgh.org/programs/smart-streetlights",
+        "* https://www.post-gazette.com/local/city/2023/06/06/pittsburgh-led-street-lights-city-council/stories/202306060103"
+      ]
+    },
+    {
+      "num": 29,
+      "extracted_claim": "According to a 2023 study cited in the series, global artificial light is growing at about 10% per year.",
+      "label": "true",
+      "sources": [
+        "https://www.thebrainyinsights.com/report/artificial-lights-market-14135",
+        "https://www.precedenceresearch.com/artificial-lights-market",
+        "https://www.coherentmi.com/industry-reports/artificial-lights-market",
+        "https://www.vynzresearch.com/semiconductor-electronics/grow-light-market",
+        "https://www.custommarketinsights.com/report/led-grow-light-market/",
+        "https://www.greenhousegrower.com/technology/horticulture-lighting-market-to-reach-25-billion-by-2031/",
+        "https://www.fortunebusinessinsights.com/industry-reports/lighting-market-101542",
+        "https://aas.org/posts/news/2023/03/rapid-brightening-night-skies-globally-recent-results-citizen-science-and",
+        "https://www.precedenceresearch.com/grow-lights-market",
+        "https://darksky.org/news/artificial-light-at-night-state-of-the-science-2023-report/"
+      ]
+    },
+    {
+      "num": 30,
+      "extracted_claim": "The reporting cited research that increasing nighttime light exposure affects human melatonin levels.",
+      "label": "true",
+      "sources": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC5536841/",
+        "https://www.explorationpub.com/Journals/en/Article/100657",
+        "https://journals.sagepub.com/doi/10.1177/14771535221078765",
+        "https://axial.acs.org/physical-chemistry/using-blue-light-for-sleep-regulation-and-melatonin-control",
+        "https://www.pnas.org/doi/10.1073/pnas.1418490112",
+        "https://www.chronobiologyinmedicine.org/journal/view.php?number=167&viewtype=pubreader",
+        "https://aacrjournals.org/cebp/article/20/11/2404/68334/The-Influence-of-Light-at-Night-Exposure-on",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12109716/",
+        "https://www.uclahealth.org/news/article/artificial-light-interrupts-circadian-cycle"
+      ]
+    },
+    {
+      "num": 31,
+      "extracted_claim": "The reporting cited research that increasing global light interferes with atmospheric processes that help clean the air and that those processes need nighttime darkness.",
+      "label": "true",
+      "sources": [
+        "https://cires.colorado.edu/news/bright-city-lights-affect-air-pollution",
+        "* https://www.weforum.org/stories/2025/03/light-pollution-health-climate/",
+        "https://www.darkskyconsulting.com/blog/the-air-light-pollution-connection",
+        "https://www.scarce.org/light-pollution-harms-life-on-earth-but-the-solutions-are-simple/",
+        "https://darksky.org/app/uploads/2021/01/Light-Pollution-Wastes-Energy-and-Money-English.pdf",
+        "https://www.science.org/doi/10.1126/science.adg0269"
+      ]
+    },
+    {
+      "num": 32,
+      "extracted_claim": "Some interviewees in the series avoided using the term 'climate change' and some farmers avoid saying it is human-caused, often because the topic is politicized or they fear community blowback.",
+      "label": "unverifiable",
+      "sources": [
+        "https://www.pghled.org/resources",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC4359208/",
+        "https://engage.pittsburghpa.gov/PGHLED",
+        "https://www.farmaid.org/issues/soil-water-climate/farmers-and-climate-change-essential-questions-and-answers/",
+        "https://www.alleghenyinstitute.org/bad-light-pittsburghs-led-street-lighting-project/",
+        "https://www.growfurther.org/keeping-it-green-ensuring-climate-change-doesnt-push-farmers-toward-maladaptation/",
+        "https://northeast-group.com/wp-content/uploads/2022/01/CityLab-Northeast-Group-the-benefits-of-led-and-smart-street-lighting.pdf",
+        "https://www.americanprogress.org/article/ten-reasons-for-farmers-to-support-action-against-global-warming/",
+        "* https://www.post-gazette.com/local/city/2023/06/06/pittsburgh-led-street-lights-city-council/stories/202306060103",
+        "https://sustainability.stanford.edu/news/climate-change-cuts-global-crop-yields-even-when-farmers-adapt",
+        "https://catalog.data.gov/dataset/smart-streetlight-rfi-responses",
+        "https://www.epa.gov/climateimpacts/climate-change-impacts-agriculture-and-food-supply",
+        "http://climatesmartfarming.org/changing-climate/",
+        "http://www.ers.usda.gov/topics/natural-resources-environment/climate-change"
+      ]
+    },
+    {
+      "num": 33,
+      "extracted_claim": "Oklahoma has restored more streams than any other state, according to the series.",
+      "label": "true",
+      "sources": [
+        "https://www.americanrivers.org/media-item/tar-creek-named-among-americas-most-endangered-rivers/",
+        "https://conservation.ok.gov/wp-content/uploads/2021/07/Watershed-Restoration-Action-Strategy-for-the-Grand-Lake-Watershed-2004.pdf",
+        "https://extension.okstate.edu/fact-sheets/natural-stream-restoration-and-enhancement.html",
+        "https://www.eli.org/sites/default/files/files-pdf/ELI%202024%20State%20Wetland%20Reports%20ES_0.pdf",
+        "https://journalrecord.com/2012/02/24/state-ranks-second-in-nation-for-reducing-pollution-in-streams-rivers-general-news/",
+        "https://extension.okstate.edu/fact-sheets/whose-water-is-it-anyway.html",
+        "https://www.kgou.org/science-technology-and-environment/2023-06-12/oklahoma-has-restored-nearly-100-unhealthy-streams-thanks-to-water-monitoring-regenerative-agriculture",
+        "https://www.irwp.org/ecoassessment",
+        "https://riverstreamassessment.epa.gov/webreport/",
+        "https://restorestreams.org/c5-abstract-2023",
+        "https://conservation.ok.gov/oklahoma-leads-nation-again-in-water-quality/",
+        "* https://www.indiatimes.com/news/world/us-state-restores-nearly-100-unhealthy-streams-623806.html",
+        "https://conservation.ok.gov/oklahoma-a-national-leader-in-pollution-reduction-to-streams/",
+        "https://www.oklahomaconservation.org/about-rawa-and-oklahoma.html",
+        "https://ctic.org/files/OK_NWQI_Report%20FINAL_20200117_web.pdf"
+      ]
+    },
+    {
+      "num": 34,
+      "extracted_claim": "In Oklahoma, fencing cattle out of streams led to healthier cattle (more weight gain and lower veterinary bills) and allowed stream banks to recover.",
+      "label": "unverifiable",
+      "sources": [
+        "https://conservation.ok.gov/wp-content/uploads/2021/07/Stream-Corridor-Riparian-Restoration-2008.pdf",
+        "https://19january2021snapshot.epa.gov/sites/static/files/2015-10/documents/ok_salt.pdf",
+        "https://www.kgou.org/science-technology-and-environment/2023-06-12/oklahoma-has-restored-nearly-100-unhealthy-streams-thanks-to-water-monitoring-regenerative-agriculture",
+        "https://water.okstate.edu/our-work/site-files/vf-qpr-7-a.pdf",
+        "https://water.okstate.edu/our-work/site-files/vf-qpr-10-report-a.pdf",
+        "https://www.wlj.net/virtual-fencing-technology-to-improve-grazing-and-water-quality/",
+        "https://storytracker.solutionsjournalism.org/stories/how-a-water-conservation-idea-won-over-oklahoma-farmers",
+        "https://www.beefmagazine.com/grazing-systems/osu-virtual-fencing-research-gets-1-4-million-boost"
+      ]
+    },
+    {
+      "num": 35,
+      "extracted_claim": "Stream bank recovery in Oklahoma after excluding cattle led to returns of wildlife, including nesting bald eagles.",
+      "label": "unverifiable",
+      "sources": [
+        "https://conservation.ok.gov/wp-content/uploads/2021/07/Bank-Stabilization-Through-Stream-Restoration-2002.pdf",
+        "https://conservation.ok.gov/wp-content/uploads/2021/07/Stream-Corridor-Riparian-Restoration-2008.pdf",
+        "https://www.wildlifedepartment.com/outdoorok/ooj/i-struck-water",
+        "https://extension.okstate.edu/fact-sheets/natural-stream-restoration-and-enhancement.html",
+        "https://extension.okstate.edu/fact-sheets/riparian-buffer-systems-for-oklahoma.html",
+        "https://kerrcenter.com/conservation/stream-pond-protection/",
+        "https://www.wildlifedepartment.com/sites/default/files/2021-11/Oklahoma%20Comprehensive%20Wildlife%20Conservation%20Strategy.pdf",
+        "https://www.swt.usace.army.mil/Portals/41/docs/missions/regulatory/Mitigation/OSMM_February%202024%20final.pdf",
+        "https://www.fsa.usda.gov/news-events/news/03-06-2024/usda-offers-disaster-assistance-oklahoma-farmers-livestock-producers",
+        "https://www.fsa.usda.gov/news-events/news/04-01-2025/usda-offers-disaster-assistance-agricultural-producers-oklahoma"
+      ]
+    },
+    {
+      "num": 36,
+      "extracted_claim": "Standing Rock is widely known for the Dakota Access Pipeline protests.",
+      "label": "true",
+      "sources": [
+        "https://www.britannica.com/event/Standing-Rock-protests",
+        "https://www.ebsco.com/research-starters/political-science/dakota-access-pipeline-protests",
+        "https://americanindian.si.edu/nk360/plains-treaties/dapl",
+        "https://www.zinnedproject.org/materials/our-history-is-the-future/",
+        "https://www.aclu.org/campaigns-initiatives/stand-with-standing-rock",
+        "https://www.hks.harvard.edu/faculty-research/library-research-services/collections/diversity-inclusion-belonging/our-history"
+      ]
+    },
+    {
+      "num": 37,
+      "extracted_claim": "The reporters noted that as some federal climate and environmental policies are reversed or dismantled, states, cities, and local groups are stepping in to pursue projects and solutions.",
+      "label": "unverifiable",
+      "sources": [
+        "https://drilled.media/news/drilled-trfst-standingrock",
+        "https://conbio.org/publications/scb-news-blog/scientists-sign-letter-against-dakota-access-pipeline",
+        "https://eelp.law.harvard.edu/tracker/dakota-access-pipeline/",
+        "https://en.wikipedia.org/wiki/Dakota_Access_Pipeline_protests",
+        "https://teachingamericanhistory.org/document/resolution-regarding-dakota-access-pipeline/",
+        "https://standingrock.org/dapl-eis/",
+        "https://www.newsfromthestates.com/article/us-army-corps-says-oil-should-keep-flowing-through-dakota-access-pipeline-long-awaited"
+      ]
+    },
+    {
+      "num": 38,
+      "extracted_claim": "Kara Buckley and Katrin Einhorn observed that many local solutions spread as neighbors and communities saw successful results and adopted similar approaches.",
+      "label": "true",
+      "sources": [
+        "https://podcasts.happyscribe.com/the-daily/50-states-50-fixes",
+        "https://podcasts.apple.com/mz/podcast/50-states-50-fixes/id1200361736?i=1000743500455",
+        "https://podwise.ai/dashboard/episodes/6651115",
+        "https://muckrack.com/catrineinhorn/articles",
+        "https://www.hottakepod.com/the-fossil-fuel-industrys-big-jobs-lie-2/",
+        "https://storytracker.solutionsjournalism.org"
+      ]
+    },
+    {
+      "num": 39,
+      "extracted_claim": "Zoran Mamdani was sworn in as mayor of New York City just after midnight on Thursday.",
+      "label": "misleading/partially true",
+      "sources": [
+        "* https://abcnews.go.com/Politics/wireStory/zohran-mamdani-set-sworn-mayor-nyc-rings-new-128798281",
+        "* https://abc7ny.com/live-updates/zohran-mamdani-inauguration-live-updates-nyc-mayor-sworn-new-years-day/18333683/",
+        "https://www.transition2025.com",
+        "https://www.youtube.com/watch?v=rsAZ0D_0tIU",
+        "https://www.youtube.com/watch?v=utnY7NMcWmw",
+        "https://www.youtube.com/watch?v=Dfr3o4PVkxY",
+        "* https://www.cityandstateny.com/politics/2026/01/whos-who-zohran-mamdanis-administration/409701/",
+        "https://www.youtube.com/watch?v=MopvxOh-ly8",
+        "https://www.youtube.com/watch?v=1guOByHgC0E"
+      ]
+    },
+    {
+      "num": 40,
+      "extracted_claim": "In his inauguration speech, Zoran Mamdani vowed to represent all New Yorkers, including those who may view his administration with 'distrust or disdain.'",
+      "label": "true",
+      "sources": [
+        "https://www.nyc.gov/mayors-office/news/2026/01/mayor-zohran-mamdani-inaugural-address",
+        "https://www.youtube.com/watch?v=cfuPXc64RsA",
+        "https://www.youtube.com/watch?v=ItYzJHgOAUs",
+        "https://www.youtube.com/watch?v=Dfr3o4PVkxY",
+        "https://www.youtube.com/watch?v=rsAZ0D_0tIU",
+        "https://www.youtube.com/watch?v=pYJb7ueMJp0",
+        "https://www.youtube.com/watch?v=iazY_UDQdck",
+        "https://www.youtube.com/watch?v=yZoAGU1is5w",
+        "* https://www.wnyc.org/story/special-coverage-zohran-mamdanis-inaugural-speech/"
+      ]
+    },
+    {
+      "num": 41,
+      "extracted_claim": "Zoran Mamdani pledged to govern as a democratic socialist and to run the city 'expansively and audaciously.'",
+      "label": "true",
+      "sources": [
+        "https://www.nyc.gov/mayors-office/news/2026/01/mayor-zohran-mamdani-inaugural-address",
+        "https://socialists.nyc/zohran-mayor-nyc-dsa/",
+        "https://www.youtube.com/watch?v=ERyGBr1D43U",
+        "https://en.wikipedia.org/wiki/Zohran_Mamdani",
+        "https://www.youtube.com/watch?v=cfuPXc64RsA",
+        "https://www.youtube.com/watch?v=fUuwwlLio6Y",
+        "https://www.youtube.com/watch?v=yZoAGU1is5w",
+        "https://www.transition2025.com",
+        "* https://www.wnyc.org/story/special-coverage-zohran-mamdanis-inaugural-speech/",
+        "https://www.dsausa.org/statements/zohran-mamdani-wins-national-political-committee-statement/",
+        "https://www.youtube.com/watch?v=pYJb7ueMJp0",
+        "https://www.zohranfornyc.com/platform"
+      ]
+    },
+    {
+      "num": 42,
+      "extracted_claim": "In his speech, Mamdani referenced and praised working-class New Yorkers, including taxi drivers, public park cleaners, and people who serve biryani and beef patties.",
+      "label": "true",
+      "sources": [
+        "https://www.nyc.gov/mayors-office/news/2026/01/mayor-zohran-mamdani-inaugural-address",
+        "https://www.youtube.com/watch?v=V52L7u5j9yY",
+        "https://politicsny.com/2026/01/01/mayor-zohran-mamdanis-inauguration-address-to-new-york-city/",
+        "https://www.youtube.com/watch?v=t3daMqnzmiU",
+        "https://www.youtube.com/watch?v=8FiagzwLBmw",
+        "https://www.youtube.com/watch?v=AY6YBXMXiWc",
+        "* http://www.wnyc.org/story/special-coverage-zohran-mamdanis-inaugural-speech/?tab=transcript",
+        "* https://www.wnyc.org/story/special-coverage-zohran-mamdanis-inaugural-speech/"
+      ]
+    },
+    {
+      "num": 43,
+      "extracted_claim": "Tatiana Schlossberg, an environmental journalist and daughter of Caroline Kennedy, died at age 35.",
+      "label": "true",
+      "sources": [
+        "* https://news.mongabay.com/2025/12/tatiana-schlossberg-environmental-journalist-has-died-aged-35/",
+        "https://www.mvtimes.com/2026/01/02/tatiana-schlossberg-seasonal-aquinnah-resident-journalist-dies/",
+        "https://www.powershealth.org/about-us/newsroom/health-library/2026/01/02/tatiana-schlossberg-environmental-journalist-and-jfks-granddaughter-dies-at-35",
+        "https://www.townandcountrymag.com/society/tradition/a69917516/tatiana-schlossberg-family-photo-tribute/",
+        "* https://vineyardgazette.com/news/2025/12/31/tatiana-schlossberg-seasonal-resident-aquinnah-dies-35"
+      ]
+    },
+    {
+      "num": 44,
+      "extracted_claim": "Tatiana Schlossberg published a New Yorker essay about being diagnosed with leukemia right after giving birth to her daughter.",
+      "label": "true",
+      "sources": []
+    },
+    {
+      "num": 45,
+      "extracted_claim": "The essay by Tatiana Schlossberg discussed her battle with a rare form of leukemia, concerns about the changing health care landscape in the U.S., and themes of dying, parenting, and memory.",
+      "label": "true",
+      "sources": [
+        "* https://abcnews.go.com/US/tatiana-schlossberg-granddaughter-jfk-died/story?id=128788014"
+      ]
+    },
+    {
+      "num": 46,
+      "extracted_claim": "Jane Goodall was mentioned as having died in October.",
+      "label": "true",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Jane_Goodall",
+        "https://abc7.com/post/dr-jane-goodall-dies-before-scheduled-pasadena-event/17920144/",
+        "https://janegoodall.org/jane-goodall-renowned-ethologist-conservationist-and-animal-behavior-expert-passes-away-at-age-91/",
+        "https://janegoodall.org",
+        "https://wildlife.org/jane-goodall-dies-at-the-age-of-91/"
+      ]
+    }
+  ],
+  "status": "done"
+}

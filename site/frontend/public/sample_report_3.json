@@ -1,0 +1,607 @@
+{
+  "task_id": "4966566b-c25f-4834-a364-03d5a3977de2",
+  "metadata": {
+    "finished_time": "2026-01-13T06:01:21.908140+00:00",
+    "file_name": "Bill O’Reilly’s No Spin News and Analysis",
+    "openai_model": "gpt-5-mini",
+    "temprature": "1",
+    "perplexity_model": "Sonar",
+    "source": "local",
+    "record_count": 36
+  },
+  "data": [
+    {
+      "num": 1,
+      "extracted_claim": "The tariffs are a national security issue.",
+      "label": "misleading/partially true",
+      "sources": [
+        "* https://www.schulztradelaw.com/post/exploring-national-security-and-trade-tariffs",
+        "https://www.wita.org/blogs/national-security-exception-trade/",
+        "https://scholarship.law.upenn.edu/cgi/viewcontent.cgi?article=1637&context=jbl",
+        "* https://www.whitehouse.gov/presidential-actions/2025/04/regulating-imports-with-a-reciprocal-tariff-to-rectify-trade-practices-that-contribute-to-large-and-persistent-annual-united-states-goods-trade-deficits/",
+        "* https://www.cfr.org/article/national-security-costs-trumps-tariffs",
+        "https://www.dwt.com/insights/2025/11/current-status-of-trump-section-232-tariffs",
+        "* https://www.brennancenter.org/our-work/analysis-opinion/whats-stake-supreme-court-tariffs-case",
+        "* https://www.piie.com/blogs/realtime-economics/2025/how-unprecedented-are-trumps-emergency-tariffs",
+        "* https://www.congress.gov/crs-product/IF11030"
+      ]
+    },
+    {
+      "num": 2,
+      "extracted_claim": "The corrupt media has not portrayed the tariffs as a national security issue.",
+      "label": "false",
+      "sources": [
+        "* https://www.politico.com/news/2026/01/12/trump-threatens-25-percent-tariff-on-any-country-that-trades-with-iran-00723448",
+        "* https://www.cfr.org/article/national-security-costs-trumps-tariffs",
+        "https://www.trtworld.com/article/7a45d1793a63",
+        "https://www.lowyinstitute.org/the-interpreter/us-has-finally-paid-its-wto-fees-now-what",
+        "* https://www.france24.com/en/live-news/20260112-us-screwed-if-supreme-court-rules-against-tariffs-trump",
+        "https://www.forvismazars.us/forsights/2026/01/how-to-prepare-for-the-upcoming-tariff-supreme-court-case-decision",
+        "https://www.youtube.com/watch?v=qLbXUDrDjfE",
+        "https://www.dwt.com/insights/2025/11/current-status-of-trump-section-232-tariffs",
+        "https://www.state.gov/wp-content/uploads/2025/05/FY-2026-State-CBJ-.pdf",
+        "https://www.usitc.gov/sites/default/files/documents/fy_2026_congressional_budget_justification.pdf",
+        "* https://newrepublic.com/post/205206/donald-trump-panics-supreme-court-tariff-ruling"
+      ]
+    },
+    {
+      "num": 3,
+      "extracted_claim": "A country that is declining economically is a threat to national security.",
+      "label": "true",
+      "sources": [
+        "* https://www.brookings.edu/articles/the-real-national-security-threat-americas-debt/",
+        "* https://www.cato.org/blog/national-security-implications-unsustainable-spending-debt",
+        "* https://www.everycrsreport.com/reports/R41589.html",
+        "* https://www.pgpf.org/programs-and-projects/convening-experts/expert-views/lessons-from-history-for-america-today/the-debt-crisis-and-american-national-security/",
+        "* https://www.defenseone.com/threats/2021/11/us-manufacturing-decline-hurting-national-security-report-warns/186861/",
+        "* https://bipartisanpolicy.org/explainer/why-the-national-debt-matters-for-national-security/",
+        "* https://www.csis.org/analysis/beyond-economics-how-us-policies-can-undermine-national-security-goals",
+        "https://www.heritage.org/government-regulation/commentary/where-the-line-between-national-security-and-economic-prosperity",
+        "* https://www.cfr.org/task-force-report/us-economic-security",
+        "* https://www.atlanticcouncil.org/content-series/atlantic-council-strategy-paper-series/why-the-us-cannot-afford-to-lose-dollar-dominance/",
+        "* https://warontherocks.com/2021/06/economics-and-u-s-national-security/",
+        "https://thescif.org/nsi-experts-weigh-in-u-s-national-security-challenges-in-2026-cee1ce8fb808",
+        "https://ndupress.ndu.edu/Portals/68/Documents/Books/economic-security.pdf"
+      ]
+    },
+    {
+      "num": 4,
+      "extracted_claim": "Germany is in bad economic shape.",
+      "label": "misleading/partially true",
+      "sources": [
+        "https://economic-research.bnpparibas.com/html/en-US/Germany-country-launches-growth-cycle-12/18/2025,53106",
+        "https://www.telegraph.co.uk/business/2026/01/10/no-end-in-sight-for-germanys-economic-crisis/",
+        "https://www.luxuo.com/business/opinion-a-broken-germany-europe-confronts-its-economic-suicide.html",
+        "https://www.kfw.de/About-KfW/Newsroom/Latest-News/Pressemitteilungen-Details_861248.html",
+        "https://www.aa.com.tr/en/economy/german-economy-to-gradually-recover-next-year-bundesbank/3775756",
+        "https://www.bundesbank.de/en/press/press-releases/bundesbank-s-forecast-for-germany-economy-will-gradually-recover-965032",
+        "https://economy-finance.ec.europa.eu/economic-surveillance-eu-member-states/country-pages/germany/economic-forecast-germany_en",
+        "* https://www.spglobal.com/ratings/en/regulatory/article/economic-research-economic-outlook-europe-q1-2026-germanys-fiscal-reawakening-s101657610"
+      ]
+    },
+    {
+      "num": 5,
+      "extracted_claim": "Germany's bad economic shape is because of its woke posture and quasi-socialism.",
+      "label": "false",
+      "sources": [
+        "https://www.goldmansachs.com/insights/articles/germanys-economy-is-forecast-to-outperform-in-2026",
+        "https://www.kfw.de/About-KfW/Newsroom/Latest-News/Pressemitteilungen-Details_861248.html",
+        "https://www.ifo.de/en/press-release/2025-12-11/ifo-institute-sees-growth-germany-2026",
+        "https://www.bundesbank.de/en/press/press-releases/bundesbank-s-forecast-for-germany-economy-will-gradually-recover-965032",
+        "https://economy-finance.ec.europa.eu/economic-surveillance-eu-member-states/country-pages/germany/economic-forecast-germany_en",
+        "* https://www.spglobal.com/ratings/en/regulatory/article/economic-research-economic-outlook-europe-q1-2026-germanys-fiscal-reawakening-s101657610"
+      ]
+    },
+    {
+      "num": 6,
+      "extracted_claim": "The United States is fairly strong.",
+      "label": "true",
+      "sources": [
+        "https://www.fticonsulting.com/insights/reports/what-major-financial-institutions-expect-2026",
+        "* https://www.cfr.org/article/trade-trends-watch-2026",
+        "https://www.goldmansachs.com/insights/articles/the-global-economy-forecast-to-post-sturdy-growth-in-2026",
+        "https://www.conference-board.org/topics/us-leading-indicators/",
+        "https://www.morganstanley.com/insights/articles/global-economic-outlook-2026",
+        "https://www.rbc.com/en/economics/us-analysis/us-featured-analysis/five-themes-for-the-us-economy-in-2026/",
+        "https://desapublications.un.org/publications/world-economic-situation-and-prospects-2026",
+        "https://www.bea.gov",
+        "https://www.deloitte.com/us/en/insights/topics/economy/global-economic-outlook-2026.html",
+        "* https://www.whitehouse.gov/wp-content/uploads/2025/09/pfei_schedule_release_dates_cy2026.pdf",
+        "https://www.stlouisfed.org/on-the-economy/2025/dec/professional-forecasters-past-performance-outlook-2026",
+        "https://www.census.gov/economic-indicators/calendar-listview.html",
+        "https://www.jpmorgan.com/about-us/corporate-news/2026/businessleadersoutlook2026",
+        "https://www.newyorkfed.org/research/calendars/nationalecon_cal",
+        "* https://www.spglobal.com/ratings/en/regulatory/article/economic-outlook-us-q1-2026-steady-as-she-goes-but-on-a-narrow-path-s101658550"
+      ]
+    },
+    {
+      "num": 7,
+      "extracted_claim": "The United States is stronger than Russia and China as adversaries.",
+      "label": "true",
+      "sources": [
+        "https://www.youtube.com/watch?v=pNRN6_IzAPo",
+        "https://www.globalfirepower.com/countries-comparison-detail.php?country1=china&country2=russia",
+        "https://www.youtube.com/watch?v=SxfY1fjHeto",
+        "https://defence24.com/geopolitics/america-and-its-adversaries-an-overview-of-the-military-potential-of-world-powers",
+        "https://www.youtube.com/watch?v=3R9MSvLszFU",
+        "https://www.globalfirepower.com/countries-comparison.php",
+        "* https://worldpopulationreview.com/country-rankings/military-strength-index-by-country"
+      ]
+    },
+    {
+      "num": 8,
+      "extracted_claim": "A recession in the United States would weaken the country.",
+      "label": "true",
+      "sources": [
+        "https://thescif.org/nsi-experts-weigh-in-u-s-national-security-challenges-in-2026-cee1ce8fb808",
+        "https://advisor.morganstanley.com/the-wolfslau-group/documents/field/w/wo/wolfslau-group/2026_US_Economics_Outlook.pdf",
+        "* https://www.politico.com/news/magazine/2026/01/02/black-swan-events-2026-00708074",
+        "* https://www.cfr.org/article/visualizing-2026-five-foreign-policy-trends-watch",
+        "https://www.deloitte.com/us/en/insights/topics/economy/global-economic-outlook-2026.html",
+        "https://maristpoll.marist.edu/polls/2026-economic-outlook-december-2025/",
+        "https://www.jpmorgan.com/about-us/corporate-news/2026/businessleadersoutlook2026"
+      ]
+    },
+    {
+      "num": 9,
+      "extracted_claim": "A recession contributed to the election of Barack Obama.",
+      "label": "true",
+      "sources": [
+        "https://obamawhitehouse.archives.gov/the-record/economy",
+        "https://www.aei.org/pethokoukis/obama-didnt-end-the-great-recession-that-bush-didnt-cause/",
+        "https://presidentialtransition.org/wp-content/uploads/sites/6/2020/11/How-Bush-and-Obama-Collaborated-to-Address-the-Great-Recession.pdf",
+        "https://www.pewresearch.org/short-reads/2013/09/19/how-the-lehman-bros-crisis-impacted-the-2008-presidential-race/",
+        "https://en.wikipedia.org/wiki/Great_Recession",
+        "https://www.obama.org/stories/wall-street-reform/",
+        "https://heri.ucla.edu/2008-the-great-recession-and-the-election-of-obama/",
+        "https://www.americanprogress.org/article/obamas-legacy-economy-anything-mess/",
+        "https://www.bemidjistate.edu/academics/honors/wp-content/uploads/sites/73/2022/11/The-Impact-of-Short-Term-Economic-Data-on-the-Perception-of-Public-Officials-Foster-James.pdf"
+      ]
+    },
+    {
+      "num": 10,
+      "extracted_claim": "President Trump is determined not to allow a recession that would weaken the country.",
+      "label": "true",
+      "sources": [
+        "* https://reason.com/2026/01/06/is-this-the-end-of-american-capitalism/",
+        "* https://www.epi.org/blog/the-macroeconomics-of-the-trump-administration-chaotic-and-harmful-policies-will-make-the-united-states-poorer-either-rapidly-or-gradually/",
+        "* https://rooseveltinstitute.org/publications/how-should-progressives-respond-to-the-next-recession/",
+        "https://budgetmodel.wharton.upenn.edu/issues/2025/4/10/economic-effects-of-president-trumps-tariffs",
+        "https://goodauthority.org/news/trumps-economy-policies-are-endangering-the-economy/",
+        "* https://tcf.org/content/commentary/trumps-tariffs-and-economy-of-uncertainty-are-already-causing-pain/",
+        "https://truthout.org/articles/2025-was-the-worst-non-recession-year-for-jobs-growth-since-2003/",
+        "https://msbonline.georgetown.edu/recent-articles/trump-trade-policy-ideas-could-trigger-recession-stagflation-economists-say",
+        "https://global.morningstar.com/en-gb/economy/fed-independence-question-trumps-doj-targets-powell",
+        "https://cepr.org/voxeu/columns/economic-consequences-second-trump-administration-preliminary-assessment",
+        "https://paulkrugman.substack.com/p/one-year-of-trumponomics",
+        "https://www.jpmorgan.com/insights/global-research/current-events/us-tariffs"
+      ]
+    },
+    {
+      "num": 11,
+      "extracted_claim": "President Trump instituted tariffs to stop the federal trade deficit.",
+      "label": "misleading/partially true",
+      "sources": [
+        "https://prosperousamerica.org/october-trade-deficit-falls-39-lowest-in-years-but-u-s-will-still-surpass-1-trillion-goods-gap-in-2025/",
+        "* https://www.cfr.org/article/trade-tariffs-and-treasuries-hidden-cost-trumps-protectionism",
+        "* https://fortune.com/2025/12/26/trump-tariffs-trade-deficit-year-in-review-charts/",
+        "https://danieldrezner.substack.com/p/about-those-trump-tariffs"
+      ]
+    },
+    {
+      "num": 12,
+      "extracted_claim": "A trade deficit is when the United States sends more money (corporate money) out than it takes in.",
+      "label": "misleading/partially true",
+      "sources": [
+        "https://www.wita.org/ustrade/us-trade-trends/the-us-trade-deficit/",
+        "* https://www.cbsnews.com/news/us-trade-gap-smallest-since-2009-imports-fall/",
+        "* https://www.cfr.org/backgrounder/us-trade-deficit-how-much-does-it-matter",
+        "https://tradingeconomics.com/united-states/balance-of-trade",
+        "https://www.stlouisfed.org/open-vault/2019/september/five-things-to-know-united-states-trade-deficit",
+        "https://www.bea.gov/data/intl-trade-investment/international-trade-goods-and-services",
+        "* https://www.americanactionforum.org/insight/what-the-u-s-trade-deficit-really-means/",
+        "https://www.chicagofed.org/publications/chicago-fed-letter/1995/june-94",
+        "https://en.wikipedia.org/wiki/United_States_balance_of_trade",
+        "* https://www.congress.gov/crs-product/IF13047"
+      ]
+    },
+    {
+      "num": 13,
+      "extracted_claim": "U.S. trade deficits over the past 10 years have been astronomical.",
+      "label": "misleading/partially true",
+      "sources": [
+        "https://www.sharecafe.com.au/2026/01/09/us-trade-deficit-plunges-to-15-year-low/",
+        "https://en.wikipedia.org/wiki/United_States_balance_of_trade",
+        "https://tradingeconomics.com/united-states/balance-of-trade",
+        "https://www.census.gov/foreign-trade/Press-Release/current_press_release/ft900.pdf",
+        "https://www.bea.gov/news/2026/us-international-trade-goods-and-services-october-2025"
+      ]
+    },
+    {
+      "num": 14,
+      "extracted_claim": "In 2017 the U.S. had a $552 billion trade deficit.",
+      "label": "misleading/partially true",
+      "sources": [
+        "https://www.bea.gov/news/blog/2018-02-06/2017-trade-gap-5660-billion",
+        "https://www.bea.gov/index.php/news/blog/2018-03-07/2017-trade-gap-5684-billion",
+        "https://www.census.gov/foreign-trade/balance/c0004.html",
+        "https://en.wikipedia.org/wiki/United_States_balance_of_trade",
+        "https://www.hks.harvard.edu/centers/mrcbg/programs/growthpolicy/inconvenient-truths-about-us-trade-deficit",
+        "https://wits.worldbank.org/CountryProfile/en/Country/USA/Year/2017/TradeFlow/EXPIMP/Partner/by-country",
+        "* https://www.epi.org/blog/increased-u-s-trade-deficit-in-2017-illustrates-dangers-of-ignoring-the-overvalued-dollar/"
+      ]
+    },
+    {
+      "num": 15,
+      "extracted_claim": "In 2018 the U.S. had a $621 billion trade deficit.",
+      "label": "true",
+      "sources": [
+        "https://www.bea.gov/news/blog/2019-03-06/2018-trade-gap-6210-billion",
+        "https://www.bea.gov/news/2019/us-international-trade-goods-and-services-december-2018",
+        "https://www.census.gov/foreign-trade/balance/c0004.html",
+        "https://en.wikipedia.org/wiki/United_States_balance_of_trade",
+        "* https://www.politico.com/news/2021/02/05/2020-trade-figures-trump-failure-deficit-466116",
+        "https://www.stlouisfed.org/on-the-economy/2019/may/historical-u-s-trade-deficits",
+        "https://www.usitc.gov/publications/332/pub4986.pdf"
+      ]
+    },
+    {
+      "num": 16,
+      "extracted_claim": "In 2019 the U.S. had a $617 billion trade deficit.",
+      "label": "true",
+      "sources": [
+        "https://www.bea.gov/news/blog/2020-02-05/2019-trade-gap-6168-billion",
+        "https://www.bea.gov/news/2020/us-international-trade-goods-and-services-december-2019",
+        "https://www.usitc.gov/research_and_analysis/trade_shifts_2019/us.htm",
+        "https://datamarnews.com/noticias/after-tariff-hikes-u-s-records-lowest-trade-deficit-since-2009/",
+        "https://www.census.gov/foreign-trade/balance/c0004.html",
+        "https://tradingeconomics.com/united-states/balance-of-trade",
+        "https://en.wikipedia.org/wiki/United_States_balance_of_trade",
+        "https://wits.worldbank.org/CountryProfile/en/Country/USA/Year/2019/Summarytext"
+      ]
+    },
+    {
+      "num": 17,
+      "extracted_claim": "In 2020 the U.S. had a $679 billion trade deficit.",
+      "label": "true",
+      "sources": [
+        "https://www.bea.gov/news/blog/2021-02-05/2020-trade-gap-6787-billion",
+        "* https://www.epi.org/blog/u-s-trade-deficit-hits-record-high-in-2020-biden-administration-must-prioritize-rebuilding-domestic-manufacturing/",
+        "https://www.trade.gov/feature-article/year-no-other-overview-us-trade-2020",
+        "https://www.census.gov/foreign-trade/balance/c0004.html",
+        "https://tradingeconomics.com/united-states/balance-of-trade",
+        "https://www.jec.senate.gov/public/index.cfm/republicans/2025/12/september-trade-deficit-of-52-83-billion-is-lowest-since-june-2020",
+        "https://en.wikipedia.org/wiki/United_States_balance_of_trade"
+      ]
+    },
+    {
+      "num": 18,
+      "extracted_claim": "During Trump's first term he ran big trade deficits.",
+      "label": "true",
+      "sources": [
+        "* https://www.politico.com/news/2021/02/05/2020-trade-figures-trump-failure-deficit-466116",
+        "https://www.intereconomics.eu/contents/year/2025/number/4/article/the-trade-deficit-delusion-why-tariffs-will-not-make-america-great-again.html",
+        "* https://www.cfr.org/backgrounder/us-trade-deficit-how-much-does-it-matter",
+        "* https://bipartisanpolicy.org/report/deficit-tracker/",
+        "https://tradingeconomics.com/united-states/balance-of-trade",
+        "https://en.wikipedia.org/wiki/United_States_balance_of_trade"
+      ]
+    },
+    {
+      "num": 19,
+      "extracted_claim": "Under Biden, the U.S. trade deficit in his first year was $861 billion.",
+      "label": "true",
+      "sources": [
+        "https://www.bea.gov/news/blog/2022-03-08/2021-trade-gap-8614-billion",
+        "* https://thefulcrum.us/governance-legislation/trumps-trade-deficit",
+        "* https://bipartisanpolicy.org/report/deficit-tracker/",
+        "* https://www.cfr.org/backgrounder/us-trade-deficit-how-much-does-it-matter",
+        "https://tradingeconomics.com/united-states/balance-of-trade"
+      ]
+    },
+    {
+      "num": 20,
+      "extracted_claim": "Under Biden, the U.S. trade deficit in his second year was $945 billion (almost a trillion dollars).",
+      "label": "misleading/partially true",
+      "sources": [
+        "https://www.commonfund.org/blog/u.s.-trade-deficit-reaches-record-high-amid-global-trade-shifts",
+        "* https://bipartisanpolicy.org/report/deficit-tracker/",
+        "* https://thefulcrum.us/governance-legislation/trumps-trade-deficit",
+        "* https://www.cfr.org/backgrounder/us-trade-deficit-how-much-does-it-matter",
+        "https://tradingeconomics.com/united-states/balance-of-trade",
+        "https://www.census.gov/foreign-trade/balance/c5700.html",
+        "https://www.bea.gov/news/blog/2024-02-07/2023-trade-gap-7734-billion"
+      ]
+    },
+    {
+      "num": 21,
+      "extracted_claim": "Under Biden in another year the U.S. trade deficit was $773 billion.",
+      "label": "false",
+      "sources": [
+        "https://www.bea.gov/news/blog/2022-03-08/2021-trade-gap-8614-billion",
+        "* https://www.epi.org/blog/u-s-trade-deficits-hit-record-highs-in-2021-more-effective-trade-industrial-and-currency-policies-are-needed-to-create-more-domestic-manufacturing-jobs/",
+        "https://tradingeconomics.com/united-states/balance-of-trade",
+        "https://en.wikipedia.org/wiki/United_States_balance_of_trade",
+        "* https://www.cfr.org/backgrounder/us-trade-deficit-how-much-does-it-matter",
+        "https://www.census.gov/foreign-trade/balance/c0004.html",
+        "https://ycharts.com/indicators/us_trade_deficit_monthly"
+      ]
+    },
+    {
+      "num": 22,
+      "extracted_claim": "In Biden's last year the U.S. trade deficit was $918 billion.",
+      "label": "false",
+      "sources": [
+        "https://tradingeconomics.com/united-states/balance-of-trade",
+        "https://www.jec.senate.gov/public/vendor/_accounts/JEC-R/trade/Monthly%20Trade%20Update%20(PDF).pdf",
+        "https://www.morningstar.com/news/marketwatch/20260108153/trade-deficit-plunges-to-16-year-low-due-to-us-gold-rush-and-shrinking-imports",
+        "https://kpmg.com/us/en/articles/2025/september-2025-international-trade.html",
+        "https://www.bea.gov/news/2026/us-international-trade-goods-and-services-october-2025",
+        "https://www.census.gov/foreign-trade/Press-Release/current_press_release/ft900.pdf"
+      ]
+    },
+    {
+      "num": 23,
+      "extracted_claim": "The speaker claims Biden did not pay attention to trade deficit numbers.",
+      "label": "unverifiable",
+      "sources": [
+        "https://rbaldwin.substack.com/p/did-trumpian-tariffs-fix-americas",
+        "* https://www.cfr.org/backgrounder/us-trade-deficit-how-much-does-it-matter",
+        "* https://www.epi.org/blog/u-s-trade-deficit-hits-record-high-in-2020-biden-administration-must-prioritize-rebuilding-domestic-manufacturing/",
+        "* https://jasonsmith.house.gov/2024/04/26/failed-biden-trade-policies-mean-falling-ag-exports-hurting-american-farmers/",
+        "* https://thefulcrum.us/governance-legislation/trumps-trade-deficit",
+        "https://www.commerce.gov/news/fact-sheets/2024/05/fact-sheet-president-biden-takes-action-protect-american-workers-and",
+        "https://www.aei.org/foreign-and-defense-policy/big-biden-win-on-china-trade-deficit/",
+        "* https://bipartisanpolicy.org/report/deficit-tracker/",
+        "https://tradingeconomics.com/united-states/balance-of-trade",
+        "https://www.heritage.org/debt/commentary/the-lefts-7-trillion-lie-biden-far-outpaces-trump-racking-the-national-debt"
+      ]
+    },
+    {
+      "num": 24,
+      "extracted_claim": "The speaker says massive amounts of money were going out of the country to enemies.",
+      "label": "unverifiable",
+      "sources": [
+        "https://rbaldwin.substack.com/p/did-trumpian-tariffs-fix-americas",
+        "https://crossdockinsights.com/p/us-trade-deficit-by-country",
+        "* https://www.epi.org/blog/u-s-trade-deficit-hits-record-high-in-2020-biden-administration-must-prioritize-rebuilding-domestic-manufacturing/",
+        "* https://www.voronoiapp.com/trade/-US-Trade-Deficit-by-Region-Asia-Leads-Chinas-Share-Falls-5217",
+        "* https://thefulcrum.us/governance-legislation/trumps-trade-deficit",
+        "* https://worldpopulationreview.com/country-rankings/us-trade-deficit-by-country",
+        "https://www.aei.org/foreign-and-defense-policy/big-biden-win-on-china-trade-deficit/",
+        "* https://www.statista.com/chart/34964/map-of-us-trade-balance/",
+        "https://tradingeconomics.com/united-states/balance-of-trade",
+        "https://www.census.gov/foreign-trade/balance/c5700.html",
+        "* https://bipartisanpolicy.org/report/deficit-tracker/",
+        "https://www.bea.gov/data/intl-trade-investment/international-trade-goods-and-services",
+        "https://www.heritage.org/debt/commentary/the-lefts-7-trillion-lie-biden-far-outpaces-trump-racking-the-national-debt",
+        "https://en.wikipedia.org/wiki/United_States_balance_of_trade"
+      ]
+    },
+    {
+      "num": 25,
+      "extracted_claim": "Biden sent billions to Iran by unfreezing Iranian funds.",
+      "label": "unverifiable",
+      "sources": [
+        "https://rbaldwin.substack.com/p/did-trumpian-tariffs-fix-americas",
+        "https://www.bea.gov/news/blog/2024-02-07/2023-trade-gap-7734-billion",
+        "* https://www.epi.org/blog/u-s-trade-deficit-hits-record-high-in-2020-biden-administration-must-prioritize-rebuilding-domestic-manufacturing/",
+        "* https://www.cfr.org/backgrounder/us-trade-deficit-how-much-does-it-matter",
+        "* https://thefulcrum.us/governance-legislation/trumps-trade-deficit",
+        "https://en.wikipedia.org/wiki/United_States_balance_of_trade",
+        "https://www.aei.org/foreign-and-defense-policy/big-biden-win-on-china-trade-deficit/",
+        "https://www.bea.gov/index.php/?page=34",
+        "https://tradingeconomics.com/united-states/balance-of-trade",
+        "https://www.census.gov/foreign-trade/balance/c0004.html",
+        "* https://bipartisanpolicy.org/report/deficit-tracker/",
+        "https://ycharts.com/indicators/us_trade_deficit_monthly",
+        "https://www.heritage.org/debt/commentary/the-lefts-7-trillion-lie-biden-far-outpaces-trump-racking-the-national-debt"
+      ]
+    },
+    {
+      "num": 26,
+      "extracted_claim": "China was receiving large amounts of U.S. dollars.",
+      "label": "true",
+      "sources": [
+        "* https://www.cfr.org/backgrounder/contentious-us-china-trade-relationship",
+        "https://www.aei.org/foreign-and-defense-policy/big-biden-win-on-china-trade-deficit/",
+        "https://www.commonfund.org/blog/u.s.-trade-deficit-reaches-record-high-amid-global-trade-shifts",
+        "https://rbaldwin.substack.com/p/did-trumpian-tariffs-fix-americas",
+        "https://en.wikipedia.org/wiki/China%E2%80%93United_States_trade_war",
+        "https://www.commerce.gov/news/fact-sheets/2024/05/fact-sheet-president-biden-takes-action-protect-american-workers-and"
+      ]
+    },
+    {
+      "num": 27,
+      "extracted_claim": "When Trump returned to office he decided he had to stop the outflow of money.",
+      "label": "misleading/partially true",
+      "sources": [
+        "https://heygotrade.com/en/news/2025-reality-check-trumps-tariffs-the-widening-us-deficit",
+        "https://prosperousamerica.org/october-trade-deficit-falls-39-lowest-in-years-but-u-s-will-still-surpass-1-trillion-goods-gap-in-2025/",
+        "https://tradingeconomics.com/united-states/balance-of-trade",
+        "* https://bipartisanpolicy.org/report/deficit-tracker/",
+        "https://rethinktrade.org/trumptrademanufacturing/",
+        "https://www.intereconomics.eu/contents/year/2025/number/4/article/the-trade-deficit-delusion-why-tariffs-will-not-make-america-great-again.html",
+        "* https://www.cfr.org/backgrounder/us-trade-deficit-how-much-does-it-matter"
+      ]
+    },
+    {
+      "num": 28,
+      "extracted_claim": "The way to stop the trade deficit, according to the speaker, is to charge other countries a fee (a tariff) to do business in the U.S.",
+      "label": "true",
+      "sources": [
+        "https://prosperousamerica.org/october-trade-deficit-falls-39-lowest-in-years-but-u-s-will-still-surpass-1-trillion-goods-gap-in-2025/",
+        "* https://www.cfr.org/article/trade-tariffs-and-treasuries-hidden-cost-trumps-protectionism",
+        "* https://fortune.com/2025/12/26/trump-tariffs-trade-deficit-year-in-review-charts/",
+        "https://www.intereconomics.eu/contents/year/2025/number/4/article/the-trade-deficit-delusion-why-tariffs-will-not-make-america-great-again.html",
+        "https://danieldrezner.substack.com/p/about-those-trump-tariffs",
+        "https://www.cbo.gov/publication/61877",
+        "https://www.jpmorgan.com/insights/global-research/current-events/us-tariffs"
+      ]
+    },
+    {
+      "num": 29,
+      "extracted_claim": "The United States consumer buys more stuff than anyone on earth by far.",
+      "label": "true",
+      "sources": [
+        "https://tradingeconomics.com/united-states/consumer-spending",
+        "https://www.morganstanley.com/insights/articles/us-consumer-spending-trends-2025",
+        "https://www.visualcapitalist.com/americas-19-trillion-consumer-economy-in-one-chart/",
+        "* https://worldpopulationreview.com/country-rankings/consumer-spending-by-country",
+        "https://en.wikipedia.org/wiki/Economy_of_the_United_States",
+        "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/state-of-consumer",
+        "https://www.census.gov/foreign-trade/Press-Release/current_press_release/ft900.pdf",
+        "* https://www.spglobal.com/ratings/en/regulatory/article/the-state-of-the-consumer-will-cracks-worsen-for-economic-giants-china-and-the-us-s101660806",
+        "https://store.mintel.com/report/us-consumers-the-economic-outlook-market-report"
+      ]
+    },
+    {
+      "num": 30,
+      "extracted_claim": "The United States has more assets and more money than other countries.",
+      "label": "false",
+      "sources": [
+        "https://www.bestbrokers.com/forex-trading/us-dollar-share-of-global-currency-reserves/",
+        "* https://worldpopulationreview.com/country-rankings/forex-reserves-by-country",
+        "https://tradingeconomics.com/united-states/foreign-exchange-reserves",
+        "https://home.treasury.gov/data/us-international-reserve-position/09122025",
+        "https://en.wikipedia.org/wiki/List_of_countries_by_foreign_exchange_reserves",
+        "https://economictimes.com/news/international/us/gold-overtakes-u-s-treasuries-as-the-worlds-largest-foreign-reserve-asset-in-2026-can-gold-challenge-the-u-s-dollars-dominance-and-hold-its-ground/articleshow/126420128.cms",
+        "https://www.mufgresearch.com/fx/monthly-foreign-exchange-outlook-january-2026/",
+        "https://www.visualcapitalist.com/ranked-the-worlds-most-powerful-reserve-currencies/",
+        "https://www.idnfinancials.com/news/60237/first-time-gold-surpass-us-bonds-as-largest-foreign-exchange-reserve",
+        "https://data.imf.org/en/datasets/IMF.STA:COFER"
+      ]
+    },
+    {
+      "num": 31,
+      "extracted_claim": "The United States is a consumer-based economy.",
+      "label": "true",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Consumer_economy",
+        "* https://www.statista.com/chart/18550/gdp-components/",
+        "https://jobenomics.com/consumption-based-economy/",
+        "https://tradingeconomics.com/united-states/gdp-growth",
+        "https://blogs.cfainstitute.org/investor/2023/11/30/the-weakening-us-consumer/",
+        "https://coloradobiz.com/consumer-spending-us-gdp-third-quarter/",
+        "https://www.econ.iastate.edu/ask-an-economist/us-consumer-economy",
+        "https://fred.stlouisfed.org/series/DPCERE1Q156NBEA",
+        "https://www.marketplace.org/episode/the-origins-of-americas-consumer-driven-economy",
+        "https://www.bostonfed.org/publications/current-policy-perspectives/2025/why-has-consumer-spending-remained-resilient.aspx",
+        "https://www.rtdna.org/news/how-to-report-on-consumer-markers-in-the-us-economy",
+        "https://www.bea.gov/news/2025/gross-domestic-product-3rd-quarter-2025-initial-estimate-and-corporate-profits",
+        "* https://www.congress.gov/crs-product/IF11657",
+        "https://data.worldbank.org/indicator/NE.CON.TOTL.ZS?locations=US",
+        "https://www.brickleywealth.com/learn/how-consumer-spending-supports-the-economy-and-markets"
+      ]
+    },
+    {
+      "num": 32,
+      "extracted_claim": "In a consumer-based economy, consumer purchases make companies prosper.",
+      "label": "true",
+      "sources": [
+        "https://www.geeksforgeeks.org/marketing/consumerism-meaning-impact-advantages-and-disadvantages/",
+        "https://int-jecse.net/article/Consumer+Behaviour+in+Financial+Decision-Making%253A+Implications+for+Marketing+Strategies_5457/",
+        "https://bschool.pepperdine.edu/personal-growth/article/conscious-consumerism.htm",
+        "https://rsmus.com/insights/industries/consumer-goods/from-growth-to-profitability.html",
+        "https://www.indeed.com/career-advice/career-development/consumer-spending",
+        "https://theblackandwhite.net/81243/opinion/sales-arent-the-same-anymore-the-impacts-of-profit-maximization/",
+        "https://en.wikipedia.org/wiki/Consumer_economy",
+        "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/a-multi-lens-approach-to-finding-growth-in-consumer-goods",
+        "https://jobenomics.com/consumption-based-economy/",
+        "https://www.alexandergroup.com/insights/media-consumer-technology-why-companies-are-focusing-on-profitability/",
+        "https://www.brickleywealth.com/learn/how-consumer-spending-supports-the-economy-and-markets",
+        "https://jbam.scholasticahq.com/api/v1/articles/142913-factors-that-affect-company-profitability-in-retail.pdf",
+        "https://www.masterclass.com/articles/consumerism-definition",
+        "https://www.globest.com/2024/08/09/more-careful-consumer-spending-shows-up-in-corporate-profits/",
+        "https://www.ey.com/en_us/insights/consumer-products/changing-consumption-will-reshape-business-priorities"
+      ]
+    },
+    {
+      "num": 33,
+      "extracted_claim": "China is not consumer-based.",
+      "label": "misleading/partially true",
+      "sources": [
+        "https://www.chinabankingnews.com/p/five-bold-predictions-for-the-fate",
+        "https://cf40research.substack.com/p/china-consumption-basket-value-comparison-us-japan-france-germany-mexico-2025-analysis-household-spending-ppp-exchange-rate-undervaluation-rmb-global-investor-insights",
+        "https://en.qstheory.cn/2025-12/15/c_1147872.htm",
+        "https://www.baiguan.news/p/is-chinas-consumption-88-or-80-of",
+        "https://www.goldmansachs.com/insights/articles/chinas-economy-expected-to-grow-in-2026-amid-surging-exports",
+        "* https://www.weforum.org/stories/2015/10/us-v-china-who-are-the-consumers-of-the-future/",
+        "https://www.deloitte.com/cn/en/our-thinking/research/issue101.html",
+        "* https://www.piie.com/blogs/realtime-economics/2025/china-vs-us-which-gdp-bigger",
+        "https://www.china-briefing.com/news/chinas-economy-in-november-2025-year-end-review-and-2026-outlook/",
+        "https://statisticstimes.com/economy/united-states-vs-china-economy.php",
+        "https://rhg.com/research/chinas-economy-rightsizing-2025-looking-ahead-to-2026/",
+        "* https://www.spglobal.com/ratings/en/regulatory/article/the-state-of-the-consumer-will-cracks-worsen-for-economic-giants-china-and-the-us-s101660806",
+        "https://asiasociety.org/policy-institute/chinas-next-move-economic-priorities-and-policy-shifts-2026",
+        "* https://www.nationmaster.com/country-info/compare/China/United-States/Economy",
+        "https://merics.org/en/merics-briefs/china-2026"
+      ]
+    },
+    {
+      "num": 34,
+      "extracted_claim": "People in China have little consumer purchasing power ('nobody has any money there').",
+      "label": "false",
+      "sources": [
+        "https://tradingeconomics.com/china/consumer-confidence",
+        "https://english.www.gov.cn/archive/statistics/202507/18/content_WS6879dfe8c6d0868f4e8f441b.html",
+        "https://www.china-briefing.com/news/chinas-economy-in-november-2025-year-end-review-and-2026-outlook/",
+        "https://tradingeconomics.com/china/consumer-spending",
+        "https://www.goldmansachs.com/insights/articles/chinas-economy-expected-to-grow-in-2026-amid-surging-exports",
+        "https://www.stats.gov.cn/english/PressRelease/202501/t20250124_1958443.html",
+        "https://www.deloitte.com/cn/en/our-thinking/research/issue101.html",
+        "https://santandertrade.com/en/portal/analyse-markets/china/reaching-the-consumers",
+        "https://www.scmp.com/economy/china-economy/article/3337950/consumer-demand-and-public-services-top-chinas-financial-priorities-2026",
+        "https://www.mckinsey.com/cn/~/media/mckinsey/locations/asia/greater%20china/our%20insights/five%20consumer%20trends%20shaping%20the%20next%20decade%20of%20growth%20in%20china/china%20article%20on%20redrawing%20consumer%20map%20article_11.pd",
+        "https://rhg.com/research/chinas-economy-rightsizing-2025-looking-ahead-to-2026/",
+        "https://data.worldbank.org/indicator/NE.CON.TOTL.ZS?locations=CN",
+        "* https://www.statista.com/outlook/co/consumption-indicators/china"
+      ]
+    },
+    {
+      "num": 35,
+      "extracted_claim": "China is export-based.",
+      "label": "true",
+      "sources": [
+        "* https://www.cfr.org/blog/chinas-stunning-2024-export-growth",
+        "https://english.www.gov.cn/archive/statistics/202507/18/content_WS6879dfe8c6d0868f4e8f441b.html",
+        "https://en.wikipedia.org/wiki/Economy_of_China",
+        "https://tradingeconomics.com/china/consumer-spending",
+        "https://www.intereconomics.eu/contents/year/2024/number/6/article/the-development-of-china-s-exports-is-there-a-decoupling-from-the-eu-and-the-us.html",
+        "https://www.stats.gov.cn/english/PressRelease/202501/t20250124_1958443.html",
+        "https://www.ebsco.com/research-starters/law/chinese-exports-overview",
+        "https://santandertrade.com/en/portal/analyse-markets/china/reaching-the-consumers",
+        "https://oec.world/en/profile/country/chn",
+        "https://www.mckinsey.com/cn/~/media/mckinsey/locations/asia/greater%20china/our%20insights/five%20consumer%20trends%20shaping%20the%20next%20decade%20of%20growth%20in%20china/china%20article%20on%20redrawing%20consumer%20map%20article_11.pd",
+        "https://www.trade.gov/knowledge-product/exporting-china-market-overview",
+        "https://data.worldbank.org/indicator/NE.CON.TOTL.ZS?locations=CN",
+        "https://data.worldbank.org/indicator/NE.EXP.GNFS.ZS?locations=CN",
+        "* https://www.statista.com/outlook/co/consumption-indicators/china",
+        "https://ustr.gov/countries-regions/china-mongolia-taiwan/peoples-republic-china"
+      ]
+    },
+    {
+      "num": 36,
+      "extracted_claim": "China's money comes from exporting goods to the United States (shipping stuff here).",
+      "label": "misleading/partially true",
+      "sources": [
+        "* https://www.cfr.org/article/trade-trends-watch-2026",
+        "https://www.chathamhouse.org/publications/the-world-today/2025-12/chinas-five-year-plan-bets-risky-new-direction",
+        "https://www.chinausfocus.com/finance-economy/china-us-trade-lessons-for-2026",
+        "https://www.china-briefing.com/news/chinas-economy-in-november-2025-year-end-review-and-2026-outlook/",
+        "https://www.newyorklifeinvestments.com/assets/documents/perspectives/2026-epoch-outlook.pdf",
+        "https://www.franklintempleton.com/articles/2026/equity/china-2026-outlook",
+        "https://www.youtube.com/watch?v=m8vhno9bRrY",
+        "https://www.citigroup.com/global/insights/china-economics-2026-outlook-mind-the-gap",
+        "* https://www.politico.com/news/2025/12/26/china-u-s-relations-could-fracture-2026-00703020",
+        "https://www.worldbank.org/ext/en/country/china",
+        "https://www.omfif.org/2026/01/outlook-2026-trade-drama-will-shift-from-washington-to-beijing/",
+        "https://asiasociety.org/policy-institute/chinas-next-move-economic-priorities-and-policy-shifts-2026",
+        "* https://thediplomat.com/2025/12/what-will-2026-bring-for-china-us-relations/",
+        "https://merics.org/en/merics-briefs/china-2026",
+        "https://www.visiontimes.com/2026/01/04/chinas-economic-model-shows-signs-of-breakdown-as-hardship-looms.html"
+      ]
+    }
+  ],
+  "status": "done"
+}
