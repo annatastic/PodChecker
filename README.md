@@ -19,9 +19,13 @@ git clone https://github.com/annatastic/PodChecker.git
 Install dependencies:
 
 ```
-pip3 install pandas install openai
+pip3 install pandas
+pip3 install openai
 pip3 install --upgrade pip 
 pip install openai-whisper
+pip install perplexityai
+pip install feedparser
+pip install requests
 brew install ffmpeg
 ```
 
