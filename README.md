@@ -10,17 +10,21 @@ PodChecker is a user-facing automated fact-checking companion for podcasts. It i
 
 ### 1. Installation
 
+Clone this repository:
+
+```
+git clone https://github.com/annatastic/PodChecker.git
+```
+
+Install dependencies:
+
+```
 pip3 install pandas install openai
 pip3 install --upgrade pip 
-pip install openai-whisper   
-
-download small english model:
-https://openaipublic.azureedge.net/main/whisper/models/f953ad0fd29cacd07d5a9eda5624af0f6bcf2258be67c92b79389873d91e0872/small.en.pt
-
-mkdir -p ~/.cache/whisper
-mv ~/Downloads/small.en.pt ~/.cache/whisper/
-
+pip install openai-whisper
 brew install ffmpeg
+```
+
 
 which ffmpeg
 ```# add ffmpeg path
@@ -29,11 +33,19 @@ os.environ["PATH"] += os.pathsep + "/opt/homebrew/bin"
 ```
 
 ### 2. Run the web app
-Run backend: `python3 app.py`
+Run backend: 
+```
+cd site/backend
+python3 app.py
+```
 
-Run frontend: `TODO`
+In a seperate terminal, run frontend: 
+```
+cd site/frontend
+npm run dev
+```
 
-The application will be available at TODO: url
+The application will be available at port `5173`
 
 ### 3. Provide input
 Paste your OpenAI and Perplexity API keys into the provided fields. Upload an audio file from your computer or paste an RSS feed link to the podcast and hit `submit analysis`
