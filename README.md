@@ -49,6 +49,16 @@ For macOS (Homebrew):
 brew install ffmpeg
 ```
 
+For Windows:
+
+Download from: https://ffmpeg.org/download.html
+
+For Ubuntu:
+
+```bash
+sudo apt install ffmpeg
+```
+
 Verify ffmpeg installation:
 
 ```bash
