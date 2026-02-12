@@ -1,13 +1,10 @@
 # PodChecker
-
 ## Overview
-
 PodChecker is a user-facing automated fact-checking companion for podcasts. It ingests podcast episode audio and uses LLMs to extract and fact-check the claims made within. This tool provides claim-level factuality assessments with supporting source URLs as well as an aggregated overview.
 
 ![PodChecker system flowchart](assets/systemflowchart2.png)
 
 ## Quickstart
-
 ### 1. Installation
 
 Clone this repository:
@@ -21,9 +18,6 @@ Enter the project directory:
 ```bash
 cd PodChecker
 ```
-
----
-
 ### 2. Prerequisites
 
 Make sure the following are installed on your system:
@@ -31,8 +25,6 @@ Make sure the following are installed on your system:
 - Python 3.x  
 - Node.js and npm  
 - ffmpeg (required for audio processing)
-
----
 
 ### 3. Backend Setup
 
@@ -76,8 +68,6 @@ Run the backend server:
 python3 app.py
 ```
 
----
-
 ### 4. Frontend Setup
 
 Open a separate terminal and navigate to the frontend folder:
@@ -98,8 +88,6 @@ Start the frontend development server:
 npm run dev
 ```
 
----
-
 ### 5. Access the Application
 
 Once both backend and frontend are running, open your browser and go to:
@@ -114,6 +102,7 @@ The application should now be ready to use.
 Paste your OpenAI and Perplexity API keys into the provided fields. Upload an audio file from your computer or paste an RSS feed link to the podcast and hit `submit analysis`
 
 To view a pre-processed example, select a sample report from the `sample report` dropdown. 
+
 
 ## Citation
 
