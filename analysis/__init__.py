@@ -18,6 +18,7 @@ from .podchecker_client import (
     download_audio,
     sanitize_filename,
     DEFAULT_DATA_DIR,
+    DEFAULT_MAX_AUDIO_SIZE_MB,
 )
 
 __all__ = [
@@ -36,4 +37,5 @@ __all__ = [
     "download_audio",
     "sanitize_filename",
     "DEFAULT_DATA_DIR",
+    "DEFAULT_MAX_AUDIO_SIZE_MB",
 ]
