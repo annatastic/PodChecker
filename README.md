@@ -4,6 +4,8 @@ PodChecker is a user-facing automated fact-checking companion for podcasts. It i
 
 ![PodChecker system flowchart](assets/systemflowchart2.png)
 
+For analysis notebook that shows fact checking results for podcasts over time, see [episode_credibility_analysis.ipynb](analysis/episode_credibility_analysis.ipynb).
+
 ## Quickstart
 ### 1. Installation
 
@@ -38,7 +40,7 @@ Install Python dependencies:
 
 ```bash
 pip3 install --upgrade pip
-pip3 install pandas openai openai-whisper perplexityai feedparser requests
+pip3 install -r requirements
 ```
 
 Install ffmpeg:
