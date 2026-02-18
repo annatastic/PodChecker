@@ -1,0 +1,8 @@
+# Ignore all cached audio files
+*.mp3
+*.m4a
+*.wav
+*.ogg
+
+# Keep this .gitignore
+!.gitignore
