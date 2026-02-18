@@ -75,11 +75,7 @@ def factcheck(transcript, openai_api_key, perplexity_api_key):
   "Output: [ {1: \"She currently stars in Love and Destiny.\"}, {2: \"Love and and Destiny is a romantic comedy series.\"}, {3 : \"Love and Destiny premiered in 2019.\"} ]"
 
   #initialize client with explicit OpenAI API key
-  os.environ['OPENAI_API_KEY'] = openai_api_key
-  client = OpenAI(
-    organization='org-OJ8ihAvp3ut0vdG4Vnxzk7oR',
-    project='proj_VcduimxcQxgSopyyOglx06vQ',
-  )
+  client = OpenAI(api_key=openai_api_key)
 
   response = client.chat.completions.create(
     model="gpt-5-mini",
