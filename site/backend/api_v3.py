@@ -7,6 +7,8 @@ import os
 from perplexity import Perplexity
 import ast
 
+_whisper_model = whisper.load_model("small.en")
+
 def process_file(podoption):
   '''
   Prepares an audio file for fact checking and calls the factcheck function with it.
@@ -14,8 +16,7 @@ def process_file(podoption):
   Returns: the results of fact checking the podoption file
   '''
 
-  model = whisper.load_model("small.en")
-  transcript = model.transcribe(podoption)["text"]
+  transcript = _whisper_model.transcribe(podoption)["text"]
   return transcript
 
 def process_rss(rss_url):
@@ -56,8 +57,7 @@ def process_rss(rss_url):
       print("This RSS does not contain an audio enclosure.")
       return
 
-  model = whisper.load_model("small.en")
-  transcript = model.transcribe(file_name)["text"]
+  transcript = _whisper_model.transcribe(file_name)["text"]
 
   return transcript
 
