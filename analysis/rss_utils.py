@@ -5,8 +5,21 @@ Utility functions for parsing podcast RSS feeds and computing credibility metric
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
-from typing import Optional
+from typing import Optional, Union
 from dataclasses import dataclass
+import urllib.request
+
+
+def _parse_rss_tree(rss_source: str) -> ET.Element:
+    """
+    Parse an RSS source (file path or URL) into an ElementTree root.
+    """
+    if rss_source.startswith("http://") or rss_source.startswith("https://"):
+        with urllib.request.urlopen(rss_source) as response:
+            content = response.read()
+        return ET.fromstring(content)
+    else:
+        return ET.parse(rss_source).getroot()
 
 
 @dataclass
@@ -20,18 +33,17 @@ class Episode:
     duration: Optional[int]  # in seconds
 
 
-def get_podcast_name(rss_path: str) -> str:
+def get_podcast_name(rss_source: str) -> str:
     """
-    Extract the podcast name from an RSS feed.
+    Extract the podcast name from an RSS feed (file path or URL).
 
     Args:
-        rss_path: Path to the RSS XML file
+        rss_source: Path to the RSS XML file, or a URL
 
     Returns:
         The podcast title, or "podcast" if not found
     """
-    tree = ET.parse(rss_path)
-    root = tree.getroot()
+    root = _parse_rss_tree(rss_source)
 
     # Try to find the channel title
     channel = root.find('.//channel')
@@ -43,18 +55,17 @@ def get_podcast_name(rss_path: str) -> str:
     return "podcast"
 
 
-def parse_rss_file(rss_path: str) -> list[Episode]:
+def parse_rss_file(rss_source: str) -> list[Episode]:
     """
-    Parse a podcast RSS file and return all episodes.
+    Parse a podcast RSS feed (file path or URL) and return all episodes.
 
     Args:
-        rss_path: Path to the RSS XML file
+        rss_source: Path to the RSS XML file, or a URL
 
     Returns:
         List of Episode objects sorted by publication date (newest first)
     """
-    tree = ET.parse(rss_path)
-    root = tree.getroot()
+    root = _parse_rss_tree(rss_source)
 
     # Define namespaces used in podcast RSS feeds
     namespaces = {

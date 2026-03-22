@@ -279,8 +279,14 @@ class PodCheckerClient:
         task_id = str(uuid.uuid4())
 
         try:
-            # Transcribe audio
-            transcript = self._process_file(audio_path)
+            # Use cached transcript if available (e.g. pre-populated by prepare_data.py)
+            transcript_path = Path(audio_path).with_suffix(".txt")
+            if transcript_path.exists():
+                print(f"  Using cached transcript: {transcript_path.name}")
+                transcript = transcript_path.read_text(encoding="utf-8")
+            else:
+                transcript = self._process_file(audio_path)
+                transcript_path.write_text(transcript, encoding="utf-8")
 
             # Fact-check claims
             df = self._factcheck(transcript, self.openai_api_key, self.perplexity_api_key)

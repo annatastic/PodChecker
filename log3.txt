@@ -1,0 +1,2800 @@
+nohup: ignoring input
+Found 40 RSS feed(s) in us_news_podcasts_rss.csv
+Fetching episodes published in 2025
+Loading Whisper model...
+
+The Tucker Carlson Show — 161 episode(s) in 2025
+  [skip] The Private Equity Veterinary Scam Making You Poorer and Killing Your Pets
+  [skip] Gold, Crypto, the Debt Crisis, and How to Survive When the US Needs a Bailout 
+  [skip] Matt Gaetz: Ted Cruz’s Delusional 2028 Bid, the ADL, and Identity Politics Taking Over the Right
+  [skip] FULL SPEECH: Tucker on the America First Movement & New “Deplatforming” Agenda of Some on the Right
+  [skip] Tucker Carlson on the Somali Invasion and the Self-Loathing Ideology Destroying America
+  [skip] James Tour: Super Humans, Genetic Engineering, Cloning, Lies of Evolution, and What Really Is Life?
+  [skip] Matt Walsh Responds to Demands to Disavow His Allies, and How to Resolve the Right-Wing Civil War
+  [skip] What If Everything You Were Told About America’s “Closest Ally” Is Wrong?
+  [skip] John Leake: The Demonic Rituals to Replicate God and Mankind’s New Religion of Science
+  [skip] Tucker and Qatar’s Prime Minister React to Trump’s Move Against Bibi
+  [skip] Rupert Lowe Warns of the Globalist Agenda Destroying the West and the Revolution Soon to Come
+  [skip] Why Are You Gay? Milo Yiannopoulos Explains.
+  [skip] John Rich on Diddy, Demons, the Antichrist, How to Hear God, and His War on Child Predators
+  [skip] George Galloway Speaks Out on Being Forced Into Exile After Criticizing Ukraine War
+  [skip] Tucker Puts Piers Morgan’s Views on Free Speech to the Ultimate Test
+  [skip] One of America’s Biggest Gold Wholesalers Exposes the Most Common Gold Scam Enslaving the Country
+  [skip] Kristen Breitweiser: 9-11 Cover-Ups, Building 7, and the Billion-Dollar Scam to Steal From Victims
+  [skip] Why Is Nick Fuentes So Popular? Nikki Haley's Son Explains.
+  [skip] Big Pharma’s Most Dangerous Lie and the Dark Truth About Weed
+  [skip] Who Is Thomas Crooks?
+  [skip] Tucker Carlson on the Israel First Meltdown and the Future of the America First Movement
+  [skip] US Government Admits Chemtrails Are Real (It's Worse Than You Think). Dane Wigington Reveals All.
+  [skip] The Global War on Christianity Just Got a Whole Lot Worse, and Ted Cruz Doesn’t Care
+  [skip] It’s Time to Decide: America First or Lindsey Graham’s Psychosexual Death Cult?
+  [skip] Chris Williamson’s Advice to Men: How to Survive a World of OnlyFans and AI Girlfriends
+  [skip] George Santos: Being Tortured, Finding God, and Hearing of Charlie Kirk’s Murder From Behind Bars
+  [skip] Tucker and Col. MacGregor Warn How Neocons Are Exploiting the Drug Crisis to Drag America Into War
+  [skip] Tucker Carlson Interviews Nick Fuentes
+  [skip] Cheryl Hines: Stories From “Curb Your Enthusiasm” and Sticking by RFK on His Way to the White House
+  [skip] Tucker and MTG on the 5 Pillars of MAGA and the Snakes in Washington Trying to Tear Them Down
+  [skip] The 9/11 Files: From Tragedy to Tyranny | Ep 5
+  [skip] Covid Whistleblower: Predicting Pandemics & Exposing the CIA and Peter Daszak’s Alliance With China
+  [skip] Nuclear Expert Predicts How Launching a Single Nuke Could Wipe Out All of Humanity
+  [skip] Tucker & Steve Bannon on Jay Jones’ Desire to Genocide Republican Kids and the Future of the Right
+  [skip] The 9/11 Files: From Cover-up to Conspiracy | Ep 4
+  [skip] Alex Jones Warns of the Globalist Death Cult Fueling the Next Civil War and Rise of the Antichrist
+  [skip] New Underwater UFO Sightings and the Non-Human Tech the Government Is Hiding | Rep. Tim Burchett
+  [skip] ICE Protests and Antifa Riots: Tucker Carlson Warns of Total Destruction if America Doesn’t Act Fast
+  [skip] The 9/11 Files: They Could Have Stopped It | Ep 3
+  [skip] Everything You Should Know About Dan Crenshaw, How He Got Rich & Why He’s So in Love With Ukraine
+  [skip] The Occult, Kabbalah, the Antichrist’s Newest Manifestation, and How to Avoid the Mark of the Beast
+  [skip] Blackmail, Bribes, and Fear: Netanyahu Claims He Controls Donald Trump and America. Tucker Responds.
+  [skip] The 9/11 Files: The Cover-up Commission | Ep 2
+  [skip] Wikipedia Co-Creator Reveals All: CIA Infiltration, Banning Conservatives, & How to Fix the Internet
+  [skip] Charlie Sheen’s Craziest Hollywood Stories and Why He Refuses to Believe the Official Story of 9/11
+  [skip] Tucker Carlson LIVE: The End of Free Speech
+  [skip] The 9/11 Files: The CIA’s Secret Mission Gone Wrong | Ep 1
+  [skip] Full Speech: Tucker’s Charlie Kirk Memorial & Their Best Moments on God, Christianity, and Hope
+  [skip] Tucker Carlson Hosts The Charlie Kirk Show
+  [skip] Tucker Carlson: America After Charlie Kirk
+  [skip] Sam Altman on God, Elon Musk and the Mysterious Death of His Former Employee
+  [skip] Bill Gates, Truth About Vaccines, & Big Pharma’s Plot to Destroy Doctors Who Question ”The Science”
+  [skip] Whistleblower Exposes the Real Puppet Masters Controlling the State Department and Plans for Gaza
+  [skip] Michael Knowles: Attacks on Christians, Norm McDonald, and Leaving Atheism for Catholicism
+  [skip] Lee Strobel: Possession, Miracles, Visions, and Encounters With Angels & Demons
+  [skip] SSRIs and School Shootings, FDA Corruption, and Why Everyone on Anti-Depressants Is Totally Unhappy
+  [skip] Christopher Caldwell: Is It Too Late to Save the English-Speaking World?
+  [skip] Cliffe Knechtle Answers Tough Questions About the Bible, Demons, Israel, Judas, Free Will, and Death
+  [skip] Aaron Lewis on Being Blacklisted from Radio & Why Record Labels Intentionally Promote Terrible Music
+  [skip] Dave Collum: Financial Crisis, Diddy, Energy Weapons, QAnon, and the Deep State’s Digital Evolution
+  [skip] Auron MacIntyre: The American Empire Is Racing Towards Collapse. Here’s How to Prevent It.
+  [skip] Seth Harp Exposes the Murder & Drug Trafficking Taking Place Inside America’s Largest Military Base
+  [skip] Sen. Eric Schmitt: FBI and DOJ Corruption, and How Politicized Judges Are Undermining America
+  [skip] Here’s What It’s Really Like to Live as a Christian in the Holy Land
+  [skip] Jeremiah Johnston: Shroud of Turin, Dead Sea Scrolls, & Attempts to Hide Historical Proof of Jesus
+  [skip] Whistleblower Tony Aguilar Responds to Attacks After Exposing Israel’s War Crimes in Gaza
+  [skip] Margaret Roberts Exposes the True Story of the Oklahoma City Bombing and the Ongoing Cover-Up
+  [skip] Candace Owens: Macron, Harvey Weinstein, and Why “Christ Is King” Totally Broke People’s Brains
+  [skip] Tony Aguilar Details the Shocking War Crimes He’s Witnessing in Gaza
+  [skip] John Mearsheimer: The Palestinian Genocide and How the West Has Been Deceived Into Supporting It
+  [skip] Richard Werner Exposes the Evils of the Fed & the Link Between Banking, War, and the CIA
+  [skip] Ana Kasparian: Epstein Cover-Up, Israel Strikes Gaza Church, & the Great American Political Shift
+  [skip] How Wall Street & the FBI Colluded to Destroy Trevor Milton After His Tech Threatened Big Oil
+  [skip] Charlie Kirk: How Debt Has Radicalized Young America and Why Boomers Deserve the Blame
+  [skip] Tucker Carlson and Darryl Cooper on the True History of Jeffrey Epstein and Ongoing Cover-Up
+  [skip] Braxton McCoy: Iraq, Opioids, and Defending US Land From Foreign Governments & Corporate Giants
+  [skip] Walter Kirn Provides Update on Luigi Mangione Case and the Strange Parallels to Lee Harvey Oswald
+  [skip] George Santos Airs All of Congress’ Dirty Laundry in Final Interview Before Prison
+  [skip] Steve Robinson Exposes the Chinese Mafia’s Secret Drug Empire in the US & the Politicians Involved
+  [skip] Saagar Enjeti: Elon’s America Party, Iran, and Jeffrey Epstein Is Apparently Innocent Now
+  [skip] The President Of Iran 
+  [skip] Why We’re Interviewing President of Iran Mosoud Pezeshkian
+  [skip] Scott Horton: Coups, WMDs, & CIA – A Deep Dive Into What Led to the US/Israeli War With Iran
+  [skip] Rob O’Neill: Near-Death Experiences, Top Secret Area 51 Helicopter, & the Disgusting Push for War
+  [skip] RFK Jr. Provides an Update on His Mission to End Skyrocketing Autism and Declassifying Kennedy Files
+  [skip] Marjorie Taylor Greene: AIPAC, NYC’s Future Mayor, and the Warmongers Trying to Undermine Trump
+  [skip] Everything You Need to Know About the Minnesota Assassinations and Tim Walz Destroying His State
+  [skip] Thank God Trump Brokered a Ceasefire. That’s the Last Thing Mark Levin Wanted.
+  [skip] Military Expert Dan Caldwell Breaks Down What Will Happen Next in Israel’s War With Iran
+  [skip] Tucker Confronts Ted Cruz on His Support for Regime Change in Iran 
+  [skip] Tucker and Steve Bannon Respond to Israel’s War on Iran and How It Could Destroy MAGA Forever
+  [skip] Jeffrey Sachs: Ukraine/Russia Dangerous New Escalation, & the Dark Forces Pushing for War With Iran
+  [skip] Pavel Durov Speaks Out for the First Time Since His Politically-Motivated Arrest in France
+  [skip] Laura Delano: The Dark Truth About Antidepressants, SSRIs, and the Psychiatrists Lying for Profit
+  [skip] John Kiriakou: CIA’s Secret Torture Programs, MK-Ultra, 9-11, and Jailing Political Opponents
+  [skip] Bishop Barron on the New Pope, the Foolishness of Atheism, and Why Young Men Are Turning to Christ
+  [skip] Glenn Greenwald: The Truth About Epstein, Jake Tapper's Humiliation, & Insane New Push to Nuke Gaza
+  [skip] Sen. Ron Johnson: What’s Really in the “Big Beautiful Bill,” and Uncovering the Truth About 9-11
+  [skip] Mike Benz: The CIA’s Use of NGOs to Coup Foreign Governments, and How They’re Doing It to Trump
+  [skip] Vadym Novynskyi: Zelensky’s Mission to End Christianity in Ukraine & Why America Is Still Funding It
+  [skip] Harmeet Dhillon’s War on the Discrimination Against White Christians and DOJ Corruption
+  [skip] Shawn Ryan: Biden’s Cancer, Kash & Bongino on Epstein, & CIA Attempts to Infiltrate Podcasts
+  [skip] Oren Cass: How Trump’s Tariffs Are Reversing the Foreign Policy That Doomed America’s Economy
+  [skip] Ed Martin on Dan Bongino vs. DOJ, and Republicans in Congress Secretly Plotting Against Trump
+  [skip] Dave Smith: Debating Douglas Murray, the “Woke Right” Narrative, and the Moment He Found God
+  [skip] Glenn Loury: Ousted for Opposing Middle Eastern Wars, MLK Files, & the One Thing Malcolm X Got Right
+  [skip] Tucker and Bret Weinstein Debate Evolution, God’s Existence, Israel, and Will AI Gain Consciousness?
+  [skip] Ben of Ben & Jerry’s Exposes the Motives Behind War With Russia & the Politicians That Sold Out
+  [skip] Chris Cella: Opioids, Robbing the Mafia, Burning Down the Entourage House, and How God Saved Him
+  [skip] Matt Walsh: Dave Smith/Douglas Murray Debate, Transgenderism, and What It Really Means to Be a Man
+  [skip] Catherine Fitts: Bankers vs. the West, Secret Underground Bases, and the Oncoming Extinction Event
+  [skip] Patrick Lancaster From the Frontlines of Ukraine/Russia War: Kamikaze Drones & Attacks on Christians
+  [skip] George Friedman Predicts the Next 50 Years of Global Affairs and the Importance of Space Domination
+  [skip] The Pentagon Didn’t Fire Dan Caldwell Over Leaks. They Fired Him for Opposing War With Iran.
+  [skip] Conor McGregor’s Presidential Bid, Tariffs, Erasing Irish Culture, and Deporting Rosie O’Donnell
+  [skip] Maxime Bernier: Trump’s Tariffs, Mass Immigration, and the Oncoming Canadian Revolution
+  [skip] Rep. Curt Weldon: It’s Time to Finally Tell the Truth About 9-11
+  [skip] Banned Opposition Leader Călin Georgescu: Antony Blinken & Emmanuel Macron Killed Romanian Democracy
+  [skip] Alex Jones: Trump, Israel, Secret WW3 Plans, Dire Wolf Resurrection, Infowars Reporter Assassination
+  [skip] Anson Frericks: Bud Light’s Fall & Comeback Attempt, Zyn’s DEI Agenda, & Why Big Business Hates You
+  [skip] Treasury Secretary Scott Bessent Breaks Down Trump's Tariff Plan and Its Impact on the Middle Class
+  [skip] Dr. Mary Talley Bowden: How Vaccines Got Politicized and the Medical Industry Lost All Credibility
+  [skip] Andrew Isker: Building a Christian Refuge to Fight Wokeness, Transgenderism, and Paganism
+  [skip] How Casey Putsch Built the Most Efficient Car in the World, and Why the EPA Hates Him for It
+  [skip] Dr. Patrick Soon-Shiong: You’re Being Lied to About Cancer, How It’s Caused, and How to Stop It
+  [skip] Captain Sherry Walker Reveals the Real Reason for All These Plane Crashes
+  [skip] Steve Witkoff’s Critical Role in Negotiating Global Peace, and the Warmongers Trying to Stop Him
+  [skip] Bob Lighthizer: Why Trump's Tariffs are the Only Way to Save the Middle Class
+  [skip] Rick Sanchez: Fired and Threatened With Jail for Refusing to Spout Zelensky’s Talking Points
+  [skip] Clayton Morris: Truth About the USS Liberty, Europe’s Self-Destruction, & Is Brigitte Macron a Man?
+  [skip] BREAKING: Tucker and Doug Macgregor React to Proposed Ceasefire Deal Between Ukraine and Russia
+  [skip] Tucker and Chris Cuomo Debate JFK/Epstein Files, DOGE, Joe Rogan, NATO, Transgenderism, and DEI
+  [skip] War With Iran? The Prime Minister of Qatar Is Being Attacked in the Media for Wanting to Stop It
+  [skip] Sam Bankman-Fried on Life in Prison With Diddy, and How Democrats Stole His Money and Betrayed Him
+  [skip] Jonathan Roumie: The Weight of Playing Jesus in The Chosen, & How to Raise Your Spiritual Awareness
+  [skip] Ernst Roets: Attacks on Whites in South Africa, Attempts to Hide It, and Trump’s Plan to End It
+  [skip] Dr. Richard Bosshardt Reveals Deadly Truth: Most Surgeons Aren’t Fit to Practice. Here’s Why.
+  [skip] Nancy Pelosi Stock Tracker Chris Josephs: How to Get Rich by Investing Like a Politician
+  [skip] Luke Gromen: Why the CIA Doesn’t Want You Owning Gold, & Is Fort Knox Lying About Our Gold Reserve?
+  [skip] Ray Dalio: America’s Hidden Civil War, and the Race to Beat China in Tech, Economics, and Academia
+  [skip] Bob Amsterdam: How USAID Is Helping Zelensky Destroy Christianity With Fake Churches and Violence
+  [skip] Jeffrey Sachs: Tulsi Gabbard’s Confirmation, and the Dangerous Global Chess Game Trump Is Winning
+  [skip] Hungary Prime Minister Viktor Orban on USAID, Trump, Immigration, NATO, and the Russia/Ukraine War
+  [skip] Ken Paxton: How Soros Protects Drug Cartels, Being Blacklisted by Fox News, and the Laken Riley Act
+  [skip]  Ukraine Is Selling American Weapons to Mexican Drug Cartels. Col. Daniel Davis on How to Stop It.
+  [skip] Mike Benz Takes Us Down the USAID Rabbit Hole (It’s Worse Than You Think)
+  [skip] Saudi Arabia’s Richest Man Prince Alwaleed bin Talal on Trump’s Tariffs, DeepSeek, Israel, and Iran
+  [skip]  Dana White: Joining the Board at Meta, the Bryce Mitchell Controversy, and His Friendship With Trump
+  [skip] Tucker & Piers Morgan Debate Foreign Aid, Hate Speech, NATO, Gun Control, & Is Zelensky a Dictator?
+  [skip] JFK Assassination Expert Reacts to Trump’s Effort to Declassify Files, and What You Should Expect
+  [skip] Matt Taibbi: All the Top Secret Information Trump Is Releasing & What He Should Declassify Next
+  [skip] Curt Mills: Trump Can Save America or Wage Another War, but He Can’t Do Both. Here’s Why.
+  [skip] Chamath Palihapitiya: Zuckerberg, Rogan, Musk, and the Incoming “Golden Age” Under Trump 
+  [skip] Eric Adams on His Attempt to Fix New York and How Democrats Weaponized the Law to Stop Him
+  [skip] Sean Davis: Trump Shooting Update, & the Real Reason Congress Refuses to Investigate
+  [skip] Mother of Likely Murdered OpenAI Whistleblower Reveals All, Calls for Investigation of Sam Altman
+  [skip] Tucker Carlson and Michael Shellenberger Break Down the California Fires
+  [skip] Oliver Stone & Peter Kuznick: War Profiteering, Nuclear Tech, NATO v. Russia, & War With Iran
+  [skip] Ned Ryun on Who’s Planning to Sabotage Trump From Within, Is DOGE Too Ambitious, & the FBI’s Future
+  [skip] Billy Bush: The Infamous Trump Tape, Secrets of Corporate Media, & Megyn Kelly v. Harvey Weinstein
+  [skip] Bernard Hudson: New Orleans Attack, Cybertruck Explosion, CIA Corruption, & Tulsi Gabbard
+
+The Daily — 20 episode(s) in 2025
+  [skip] Sunday Special: The Best Movies of 2025
+  [skip] Sunday Special: The Best TV of 2025
+  [skip] Sunday Special: The Best Music of 2025
+  [skip] Sunday Special: ’Tis the Season for Cookies
+  [skip] Sunday Special: Gifting Books for the Holidays
+  [skip] Sunday Special: Wicked, Good?
+  [skip] Sunday Special: A Sea of Streaming Docs
+  [skip] Sunday Special: The Year in Gaming
+  [skip] Sunday Special: The 10 Best Horror Movie Franchises
+  [skip] Sunday Special: Springsteen, Dylan and the Art of the Biopic
+  [skip] Sunday Special: Bringing Broadway Home
+  [skip] Sunday Special: The Enduring Power of Amusement Parks
+  [skip] Sunday Special: The Fashion Episode
+  [skip] Sunday Special: What Makes a Restaurant Great?
+  [skip] Sunday Special: TV's Big Night
+  [skip] Sunday Special: The Books We Read in School
+  [skip] Sunday Special: This Summer in Culture
+  [skip] The New Co-Hosts of 'The Daily'
+  [skip] The Sunday Read: ‘This Is the Holocaust Story I Said I Wouldn’t Write’
+  [skip] The Sunday Read: ‘What I Found on the 365-Mile Trail of a Lost Folk Hero’
+
+Up First from NPR — 306 episode(s) in 2025
+  [skip] U.S. Strikes Inside Venezuela, Iran Protests, Flu Cases Surge
+  [skip] Trump Pushes Hamas Disarmament, Ukraine Peace Talks, A Year Of DOGE 
+  [skip] Trump Zelensky Meeting, Netanyahu Mar-a-Lago Meeting, Rough Year For Poverty Aid 
+  [skip] A New Chapter, Later in Life
+  [skip] The Second Trump Administration, South America Shifts Right, Time For Sports
+  [skip] U.S. Strikes ISIS In Nigeria, The Year In Congress, Holiday Spending
+  [skip] Christmas In Bethlehem, Honduras Election Result, Immigration Crackdown
+  [skip] New Epstein Documents, SCOTUS National Guard, GDP Growth
+  [skip] Trump Announces 'Golden Fleet', Judge Rules Deportations Illegal, Heritage Exodus
+  [skip] Coast Guard Pursues Tanker, Epstein Files Release, Immigration Court No-Shows
+  [skip] Where Kids Play
+  [skip] Epstein Files Release, Health Care Subsidies, Surviving The Holiday Season
+  [skip] Brown University Suspect Found Dead, Epstein Files Deadline, Kennedy Center Renamed
+  [skip] Trump Addresses Nation, Congress ACA Vote, Venezuela Oil Tankers
+  [skip] Republican Healthcare Vote, Susie Wiles Interview, Nuclear Reactor Regulations
+  [skip] Nick Reiner Arrested, Brown University Suspect Search, Bondi Beach Aftermath
+  [skip] Bondi Beach Attack, Brown University Latest, Reiner Investigation
+  [skip] Best Friends and Life Partners
+  [skip] Health Care Subsidies, Flooding In Washington, DOJ Under President Trump
+  [skip] Zelenskyy and Peace Promises, Abrego Garcia Release, Indiana Rejects Redistricting
+  [skip] ACA Vote, Fed Cuts Interest Rates, US-Venezuela
+  [skip] Trump Economy, Federal Reserve December, Afghan Fighters' Struggles
+  [skip] Trump Defends Affordability, SCOTUS & Presidential Power, Indiana Redistricting
+  [skip] SCOTUS FTC Case, ACA Extension Vote, Zelenskyy In London
+  [skip] The Families Hiding from ICE
+  [skip] CDC Vaccine Vote; Netflix Buys Warner Bros; Economic Outlook
+  [skip] Hegseth Scrutiny, Jan 6th Pipe Bomb Suspect, Texas Redistricting Ruling
+  [skip] Trump's Racist Somali Remarks, Signalgate Report, CDC Vaccine Meeting
+  [skip] Russia Rejects Peace Proposal, Hegseth Defends Boat Strikes, Tennessee House Election
+  [skip] Hegseth Boat Strikes, Witkoff To Moscow, National Guard Shooting Suspect
+  [skip] National Guard Shooting & Immigration, Venezuela Latest, Ukraine Negotiations 
+  [skip] Your Next Great Listen
+  [skip] Airbus A-320 Inspections, Afghan Asylum Seekers in Limbo, Real Video or AI Generated?
+  [skip] Trump Suspends Immigration After Guard Attack, Holiday Economy, Retail Spending
+  [skip] Targeted Attack On National Guard, Trump Case Dismissed, Russia Awaits Peace Terms
+  [skip] Ukraine Peace Negotiations, Trump's Ukraine Motivations, Holiday Travel
+  [skip] One-on-one with Utah Governor Spencer Cox
+  [skip] Comey and James Indictments Dismissed, New Ukraine Peace Plan, Pressure On Venezuela
+  [skip] Updated Ukraine Peace Plan, MAGA Fractures, Fragile Gaza Ceasefire
+  [skip] Higher Education’s AI Problem
+  [skip] Parsing the Peace Deal, MAGA Star Quits, Obesity Pills, (Bonus!) Books We Love
+  [skip] CDC Links Vaccines and Autism, Trump's Ukraine Peace Plan, Mamdani Meets Trump
+  [skip] Comey Prosecution Troubles, New Findings In Epstein Documents, Nvidia & A.I. Bubble
+  [skip] Trump Defends Saudi Prince, Epstein Bill Passes, Trump Low Approval Rating
+  [skip] House Votes On Epstein Files, MAGA Coalition Cracks, Saudi Leader Visits White House
+  [skip] Trump's Epstein Reversal, US Military Pressure On Venezuela, Charlotte Border Patrol
+  [skip] What is a ceasefire?
+  [skip] Congressional To-Do List, Trump V. BBC, Ukraine Update
+  [skip] Epstein Files Fallout, Charlotte Immigration Patrols, Economic Impact Of Shutdown 
+  [skip] Epstein Documents Dump, Government Reopens, Affordable Care Act Limbo
+  [skip] House Shutdown Vote, Aviation Challenges, USS Ford Heads to the Caribbean
+  [skip] House Votes on Funding Bill, Shutdown Deal Dissent, COP30 Global Emissions
+  [skip] Senate Shutdown Breakthrough, SNAP Legal Battle, COP30 Climate Summit Starts
+  [skip] Carlson’s War: Part 1
+  [skip] Carlson’s War: Part 2
+  [skip] Who's Been Paying Tariffs, DHS Surveillance Tools, Israel Holds Florida Teen
+  [skip] FAA Cuts Flights, SNAP Ruling, Trump Focused Abroad
+  [skip] State Of The Shutdown, SCOTUS Tariff Arguments, Chicago ICE Ruling
+  [skip] VA NJ Governor Races, Mamdani Elected NYC Mayor, California Redistricting
+  [skip] Four Big Races To Watch, Partial SNAP Funding, Sudan Famine, Dick Cheney Dies at 84
+  [skip] Trump's Shutdown Travel, SNAP Benefits Gap, NYC Mayoral Race
+  [skip] How Smaller Families are Changing the World
+  [skip] SNAP decision, Open Enrollment, Electricity Prices Increase
+  [skip] Democrats' Shutdown Pressure, SNAP Deadline, Nuclear Testing
+  [skip] Trump-Xi Meeting, Head Start Funding, Surgeon General Nominee
+  [skip] Hurricane Melissa Aftermath, Israel Strikes Gaza Again, Air-Traffic Controllers
+  [skip] SNAP Benefits Shutdown, Trump In Japan, Hurricane Melissa
+  [skip] Trump In Asia, U.S. Military In Caribbean, Shutdown Week 4
+  [skip] Kiwi vs. Predator
+  [skip] House Members During Shutdown; Trump Visits Asia; US Military Buildup in Caribbean
+  [skip] Missed Paychecks, NBA Gambling Scandal, Russia Reacts
+  [skip] Ukraine-EU Meeting, National Guard Deployment Cases, Pentagon Press Corps
+  [skip] VP Vance In Israel, Shutdown Politics, White House Under Construction
+  [skip] Shutdown Economics, U.S.- Colombia Tensions, Louvre Heist Fallout
+  [skip] Airstrikes On Gaza, Shutdown Pressure Points, Venezuela Boat Strikes
+  [skip] A Tiny Plot to Call Home
+  [skip] "No Kings" Protests; Aid Slow for Gaza; U.S. - China Trade War Heats Up
+  [skip] Bolton Indicted, Trump and Zelenskyy Meeting, Rebuilding Gaza
+  [skip] Venezuela Escalation, Shutdown Layoffs Paused, Military Pay
+  [skip] Gaza Ceasefire Tested, Shutdown Stalemate, SCOTUS Voting Rights
+  [skip] What's Next For Gaza?, Trump Return From Middle East Trip, ICE Tactics
+  [skip] Hostages Released, Trump In The Middle East, Shutdown Layoffs
+  [skip] ICE Under Trump
+  [skip] Nobel Laureate Maria Corina Machado on Regime Change in Venezuela
+  [skip] Israel, Hamas Peace Deal Latest; Federal Worker Layoffs; Health Care Subsidies
+  [skip] Gaza Ceasefire, Trump's Middle East Peace Plan, Letitia James Indicted
+  [skip] Gaza Ceasefire Reached, Shutdown Day 9, Chicago National Guard
+  [skip] Shutdown Politics, Air Traffic Control Issues, Comey Arraignment
+  [skip] National Guard Powers, Marking October 7th, SCOTUS: Conversion Therapy
+  [skip] National Guard Portland, Gaza Talks In Egypt, SCOTUS Term Begins
+  [skip] National Security, Unlocked
+  [skip] Hamas Agrees to Trump Plan, Shutdown Day 4, Medicaid Cuts
+  [skip] Shutdown Day 3, No Jobs Report, Trump Pressures Universities
+  [skip] Kentucky’s governor on the shutdown and political divisions
+  [skip] White House Shutdown Cuts, Government Services Interrupted, Gaza City Evacuation
+  [skip] Government Shutdown Begins, Impact Of Shutdown, Trump Hegseth Military Meeting
+  [skip] Shutdown Deadline, Gaza Deal Reaction, Top Military Leaders Meeting
+  [skip] Michigan Church Shooting, Government Shutdown Negotiations, Trump Netanyahu Meeting
+  [skip] American Voices on Trump
+  [skip] Comey And Beyond, Costs Of TikTok Deal, Dreamers Amid Deportations
+  [skip] Comey Indictment, Hegseth Summons Military Leaders, Impending Shutdown
+  [skip] ICE Shooting In Texas, UNGA: Ukraine Warning, Government Shutdown Standoff
+  [skip] Government Shutdown Looms, UNGA: Trump Slams Russia, Jimmy Kimmel Returns
+  [skip] Autism and Tylenol, Jimmy Kimmel Returns, Trump At The UN
+  [skip] Charlie Kirk Memorial, Trump Pressures DOJ, Palestinian State Recognition
+  [skip] Casualties of Trump’s War on Higher Ed
+  [skip] The Week In Politics, The Week In Free Speech, The Week In Vaccines
+  [skip] Trump And Free Speech, CDC On Childhood Vaccines, Antifa Terror Designation
+  [skip] CDC Meeting On Vaccines, Fed Rate Cuts, Kimmel Suspended
+  [skip] Kirk Suspect Charged, Trump Visits The King, FBI Director Patel Testifies
+  [skip] Vance and Charlie Kirk, Patel On The Hill, Fed Preview
+  [skip] Kirk Probe Latest, Rubio in Israel, Emmys Recap
+  [skip] Life in a Christian Commune
+  [skip] Utah Suspect in Custody, Campuses React, Missouri Passes Redistricting
+  [skip] Kirk Shooting Investigation, Economic Round-up, Brazil's Bolsanaro Convicted
+  [skip] Latest on the Kirk Investigation, Who Was Charlie Kirk?, Russian Drones Over Poland
+  [skip] IL Gov. Pritzker On Crime, Immigration, Trump's 'Power Grab'
+  [skip] Israel Strikes Qatar, ICE In Chicago, MAHA and Kids
+  [skip] SCOTUS Immigration Sweeps Ruling, Limited Epstein Files, Trump's Handling of Russia
+  [skip] Trump and Chicago, Trump Assassination Attempt Trial, Russia Ukraine Drone Attacks
+  [skip] When the Oil Runs Dry
+  [skip] Feds Eye More Cities, Hyundai Plant Raid, Influential Pastor
+  [skip] RFK Jr. Grilled, Europeans Pledge Troops to Ukraine, DC Sues Trump Admin
+  [skip] RFK Jr. Testifies Before Senate, Fed Confirmation Hearing, Harvard's Legal Victory
+  [skip] Lawmakers Call For Epstein Files, Trump's Crypto Token, China's Military Parade
+  [skip] Government Shutdown Looms, Brazil's Ex-President on Trial, Earthquake in Afghanistan
+  [skip] European Troop Coalition, Heads of State Meet in China, Trump and Labor Day
+  [skip] A CLEAR Path to the Front of the Line
+  [skip] Trump Tariff Ruling, Texas Abortion Medication Bill, New Dietary Guidelines
+  [skip] Minneapolis Shooting Latest, New Acting CDC Director, North Korean Leader to Beijing
+  [skip] Minneapolis Mass Shooting, CDC Director Fired, Biden Admin and Gaza Aid
+  [skip] Fed Governor Legal Fight, DNC Summer Meeting, Taylor Swift Engaged
+  [skip] Fed Governor Fired, Trump Expands National Guard, Abrego Garcia  Back in Custody
+  [skip] Trump Threatens Chicago, DOJ Latest, US-South Korea Summit
+  [skip] How Katrina Transformed New Orleans Schools
+  [skip] DOJ’s Maxwell Transcripts, Possible Interest Rate Cut, DC Immigrants Fearful
+  [skip] Famine in Northern Gaza, Epstein Docs, CA/TX Maps
+  [skip] Israel Calls Reservists, NATO & Ukraine, Hurricane Erin
+  [skip] Governors and the National Guard, Europe and Ukraine, Texas Redistricting
+  [skip] Trump and Ukraine, Kremlin's View, California Redistricting
+  [skip] Zelenskyy Meets Trump, Gaza Latest, More National Guard Troops to D.C.
+  [skip] The Horror of Codependency
+  [skip] After The Summit, The Week In Politics
+  [skip] Trump and Putin Meet For A Summit in Alaska. What Are the Views From Moscow and Kyiv?
+  [skip] Ukraine Battlefield, New Immigrant Detention Center, Kennedy Center Honors
+  [skip] Trump-Putin Expectations, Trump and D.C. Homelessness, Inflation Check-In
+  [skip] D.C. Crackdown, Europe's Putin-Trump Scramble, Ford's Cheaper EV Rollout
+  [skip] Putin U.S. Meeting, Netanyahu's Gaza Plan, Trump D.C. Action
+  [skip] Is Tech Really Helping Parents?
+  [skip] Israel Expands War, Dems Enter Redistricting Fight, Setback For Asylum Seekers 
+  [skip] Gaza Occupation Decision, Redistricting Update, Trump Orders New Census
+  [skip] Fort Stewart Shooting, Tariff Deadline, Trump And Putin Meeting Prospects
+  [skip] White House Envoy In Moscow, MAGA Split On Gaza, Redefining The Attorney General Role
+  [skip] Gaza Pressure On Israel, Texas Redistricting, NASA Carbon Dioxide Satellites
+  [skip] US Economic Outlook, Mexico Tariff Uncertainty, Gaza Hunger And Hostages
+  [skip] Can Psychedelic Therapy Go Mainstream?
+  [skip] Economic Worries, Redistricting Battles, Reconsidering BMI
+  [skip] Tariffs Deadline, Texas Flood Hearing, Witkoff In Israel
+  [skip] Fed Keeps Interest Rates, Texas Redistricting, US Middle East Envoy In Israel
+  [skip] Gaza Famine and Diplomacy, EPA Emissions Standards, GOP's Epstein Troubles
+  [skip] NYC Office Shooting, Trump In Scotland, Gaza Aid Latest
+  [skip] Pete Buttigieg warns democrats can't go back to pre-Trump status quo
+  [skip] Trump In Scotland, Gaza Aid, Pete Buttigieg on Democrats
+  [skip] How is Trump Changing the Justice Department?
+  [skip] Trump In Scotland, Detainee Abuse Allegations in Florida, Stocks Surging
+  [skip] Trump Pressures The Fed, Epstein Town Halls, France Recognizes Palestinian State
+  [skip] Epstein Files Subpoena, Columbia $221 Million Settlement, 'Woke' AI
+  [skip] Epstein Troubles In Congress, 2016 Election Interference, Columbia Student Discipline
+  [skip] Troops In Central Gaza, Military Detention Centers, Harvard Hearing
+  [skip] Gaza Aid Violence, Harvard On Trial, Congress Redistricting
+  [skip] The Talk
+  [skip] Epstein Conspiracies, US Drug Manufacturing, Student Loan Overhaul
+  [skip] Congress has voted to eliminate government funding for public media
+  [skip] Rescission Vote, Trump And The Wall Street Journal, Trump's Health
+  [skip] Public Media Cuts, Trump And Fed Chair, Israel Strikes Syria
+  [skip] Tariffs And Inflation, Epstein Conspiracy Theories, Public Broadcasting Cuts
+  [skip] Moscow On Trump, Supreme Court On Education Department, Epstein Files
+  [skip] Texas Flooding Update, Tariff Limbo, Health Groups Sue RFK, Jr.
+  [skip] One-on-One with Zohran Mamdani
+  [skip] Supreme Court Decision on Nationwide Injunctions
+  [skip] Iran Intelligence, NATO Summit, Trump Judicial Nod
+  [skip] Trump And Iran, Iran's Nuclear Program, ICE Farm Raids Continue
+  [skip] Israel Strikes Iran, National Guard Ruling, Padilla Handcuffed, Rescission Vote
+  [skip] Public Opinion on Immigration, New Power Plant Rules, College Cost Sharing 
+  [skip] Military in LA, Immigration Raids and Business, Trump's Hush Money Appeal 
+  [skip] Marines Deployed to LA, CDC Vaccine Board Ousted, Overdose Deaths Drop 
+  [skip] Dave Portnoy on Trump, the manosphere, and his advice for Democrats
+  [skip] Trump and Musk Break Up, Tariffs Raise $70 billion, ICE Detention Conditions
+  [skip] Trump Issues Travel Ban, Musk Criticizes Budget Bill, Iran Nuclear Talks Latest
+  [skip] Shangri-La Dialogue, Nippon/U.S. Steel Deal, Taylor Swift Gets Her Masters
+  [skip] Court Blocks Most Trump Tariffs, Trump Grows Frustrated With Putin, CPAC Hungary
+  [skip] Gaza Food Distribution Chaos, New COVID-19 Vaccine Guidelines, Children Of ISIS
+  [skip] Harvard President says critics' "fire is misdirected"
+  [skip] New Gaza Aid Group Faces Criticism, Harvard President Speaks Out, DEI Rollbacks
+  [skip] Russia Intensifies Attacks On Ukraine, Summer Travel Season, Wildfire Forecast
+  [skip] The Class of 2025
+  [skip] National Security Council Shakeup, George Floyd Murder and Political Extremism 
+  [skip] Suspected D.C. Shooter Charged, Trump vs. Harvard, SCOTUS Ruling On Agency Firings
+  [skip] Israeli Embassy Employees Killed, Israel's Occupation Plans, Trump Bill Latest
+  [skip] Negotiating Trump's Sweeping Agenda, South Africa's President, DOGE Cuts
+  [skip] Trump's Talk With Putin, Israel's Incursion, Weather Service Budget Cuts
+  [skip] Biden Cancer Diagnosis, Escalation In Gaza, Kentucky Storm Recovery
+  [skip] Deadly Kentucky Storms, Supreme Court Ruling, European Presidential Elections
+  [skip] Trump Meets Syria's President, Russia-Ukraine Peace Talks, RFK Jr. On Capitol Hill
+  [skip] Scene From Vatican City, Life Of Pope Leo XIV, China Trade Talks
+  [skip] Trump And The Constitution, Gaza Food Aid Plan, Sean 'Diddy' Combs Trial Begins
+  [skip] Economy In The Next 100 Days, Ukraine Minerals Deal, India And Pakistan Tension 
+  [skip] Trump Marks 100 Days, Steve Bannon On Trump's Presidency, The "Big Beautiful Bill"
+  [skip] Continued Crackdown on Illegal Immigration, Canada Votes, Measles Outbreak
+  [skip] Pope Francis's Funeral Ceremony; Gaza Goes Hungry Under Israeli Blockade 
+  [skip] Ukraine-Russia Peace, Noncitizens And Due Process, Khartoum Destroyed
+  [skip] Global Economic Forecast Dims, Ukraine Peace Talks, Pope Francis Lies In State
+  [skip] Pope's Life And Legacy, What Happens Now In Rome, Reaction From South America
+  [skip] China Tariffs, El Salvador President In DC, Meta Antitrust Trial
+  [skip] Trump's Tariffs Hit Groceries; GOP Spending Bill; College Basketball and Hockey 
+  [skip] Trump's 'Liberation Day', Wisconsin Supreme Court Race, Mistaken Deportation 
+  [skip] Myanmar Quake, Who Pays Tariffs, E.O. Impacts On Arts
+  [skip] ICE Student Arrests, HHS Cuts, Stefanik Nomination Pulled, China Trade City
+  [skip] Intelligence Officials Testify, Trump's Auto Tariffs, DOGE Access
+  [skip] Intel Hearing On Group Chat, Return To Office Mandate, Black Sea Deal
+  [skip] War Plans Group Chat, Alien Enemies Act, U.S. Greenland Visit
+  [skip] Occupy Gaza Plan, Ukraine Ceasefire Talks, China Economy
+  [skip] The Long Shadow of Duterte's Drug War
+  [skip] DHS job cuts, Travel troubles under Trump, Sudan Civil War latest 
+  [skip] School Funding, Venezuelan Deportation Hearing, Key Bridge Inspection
+  [skip] Fed Rates Pause, USIP Loses Case, Israel Restarts Gaza Ground Invasion 
+  [skip] USAID Ruling, Ukraine On Trump Putin Agreement, Gaza Ceasefire Collapse
+  [skip] Israel Strikes Gaza, Trump And The Courts, Takeover At US Institute Of Peace
+  [skip] Alien Enemies Act, Legal US Immigrants Denied Entry, Deadly Storm System
+  [skip] A Palestinian Reporter Returns Home to Gaza City
+  [skip] Democrat In-Fighting; Conservative Media on Trump; Mahmoud Khalil's Wife Speaks
+  [skip] Congress Budget Vote, Trump Speaks At DOJ, Federal Workers Reinstated
+  [skip] Russia Mulls Ceasefire, EPA Rollbacks, Iran Rebuffs Trump
+  [skip] Ukraine Ceasefire Talks, Education Department Layoffs, Spending Bill 
+  [skip] Ukraine Ceasefire Talks, Stock Market Slide, Columbia University Arrest Latest
+  [skip] Canada's New Leader, ICE Arrest Columbia Student, Congress and The Budget
+  [skip] Who gets to be an American?
+  [skip] Limiting Musk's Powers; VA Employees On DOGE Emails; No Cure For Long COVID 
+  [skip] BONUS: America's Shifting Alliances
+  [skip] Jobs Report, White House Crypto Summit, Gaza Ceasefire Uncertainty
+  [skip] EU Leaders On Ukraine, Auto Tariffs Paused, USDA Workers Return
+  [skip] What Trump Said Last Night, Trump On Immigration, China Tariff Confidence
+  [skip] Ukraine Funds Paused, Trump Addresses Congress, Tariffs Begin
+  [skip] Zelenskyy in London, Gaza Ceasefire Status, Judicial Accountability
+  [skip] Who Will Win at the Oscars
+  [skip] Zelenskyy-Vance-Trump Blow Up, DOJ Demotions, Feds Plan for Bird Flu 
+  [skip] Alexandria Ocasio-Cortez Says She's Fighting President Trump's "Illusion of Power"
+  [skip] Zelenskyy Visits DC, Tate Brothers In Florida, USAID Standoff, AOC and DOJ 
+  [skip] Foreign Aid Terminated, Migrants At Guantánamo, Legal Challenges To Federal Firings
+  [skip] House Budget Plan, DOGE Resignations, Battle Against Bird Flu 
+  [skip] Federal Worker Email Confusion, UN On Ukraine, Colorado River, France Surgeon Trial
+  [skip] Federal Worker Confusion, European Leaders In DC, German Election, Greenpeace Lawsuit
+  [skip] Alternate Realities
+  [skip] Pentagon Upheaval, Hamas Releases More Hostages, NY State Prisons
+  [skip] Migrants Leave Guantanamo, Israeli Hostages Update, Changes at FEMA
+  [skip] Trump and Zelenskyy Feud, DOGE Savings Claims, Hamas Releases Four Hostage Bodies 
+  [skip] Measles Outbreak, Foreign Aid Cuts, Bolsonaro Charges
+  [skip] Ukraine Talks, U.S. Health Agency Cuts, NYC Mayor Eric Adams Fallout
+  [skip] Paris Emergency Summit,  Marco Rubio in the Middle East, Trump's First Month
+  [skip] A Home But Not A Cure
+  [skip] The Future of Ukraine ... and a US Consumer Agency. More on Black Hawk Crash
+  [skip] Justice Department Shakeup, Guantanamo Migrants Lawsuit, Immigration Crackdown Poll
+  [skip] Migration and Trade with India, Trump and Putin Chat, Future of Education Department
+  [skip] Federal Worker Surveillance, Trump's Team In Europe, Elon Musk And Mars
+  [skip] Jordan's King In Washington, New Tariffs, NYC Mayor's Corruption Charges 
+  [skip] Trump At The Superbowl, Consumer Financial Protection Bureau Turmoil, Air Aid To Gaza
+  [skip] When Chatbots Play Human
+  [skip] Trump Administration Latest, USAID Ruling, Super Bowl Preview
+  [skip] Trump's Justice Department, Disappearing DEI,  Flu Peaks Again
+  [skip] Deadline For Federal Workers, Reaction To Trump's Gaza Plan, Future Of US Foreign Aid
+  [skip] Trump And Gaza, Migrants At Guantanamo, USAID Staff On Leave
+  [skip] Canada Tariffs, Education Department Targeted, DOGE
+  [skip] USAID Programs Halted, Netanyahu in Washington, Rubio Visits Panama, Cannabis Safety 
+  [skip] Time to Leave
+  [skip] Tariffs Come Due, Chopper Traffic After Crash
+  [skip] Plane Crash Latest, German Far Right, Nuclear Testing
+  [skip] D.C. Plane Crash, Migrant Housing At Guantanamo, January 6th Criminal Records
+  [skip] Trump Remaking Government, RFK Jr. Confirmation Hearings, US Education Report Card
+  [skip] Justice Department Firings, Humanitarian Parole Ends, China And AI
+  [skip] Mideast Ceasefire, Florida Immigration Session, Congolese City Captured
+  [skip] Reckoning with the Assad Regime's 'Machinery of Death'
+  [skip] More Hostages Go Free, Trump Halts Foreign Aid, RFK Jr.'s Confirmation
+  [skip] Trump Visits Disaster Zones, DEI and the Military, London Hacking Hearing
+  [skip] Immigration Crackdown, Health Officials Muted, Oscar Nominations
+  [skip] New ICE Policies, Hegseth Claims, West Bank Attacks
+  [skip] Trump Day One, Immigration, January 6 Pardons
+  [skip] Inauguration Day, Israel-Hamas Ceasefire, TikTok
+  [skip] Can Old Age Be a New Beginning?
+  [skip] Ceasefire On Track, Pandemic Preparedness, Pepsi Sued
+  [skip] Gaza Ceasefire Deal Reached, Next Steps For TikTok, Anger Over Private Firefighters
+  [skip] The Contours of a Ceasefire in Gaza, Preventing Future Wildfires In LA
+  [skip] Smooth Sailing For Trump's Nominees?, LA Fire Outlook, South Korea President Arrested
+  [skip] Election Interference Report Goes Public, Wildfires and Mental Health, Pete Hegseth
+  [skip] Dozens Dead in L.A. Fires, Middle East Ceasefire Talks, Homeland Security Chief
+  [skip] Theocrats on the Doorstep of Power
+  [skip] Palisades Fire Expands, 2024 Hottest On Record, TikTok Arguments Pro And Con
+  [skip] LA Fires Latest, Trump's Sentencing, TikTok At The Supreme Court
+  [skip] LA Wildfires, Carter's State Funeral, Trump's Agenda
+  [skip] Facebook And MAGA, Winter Virus Season, LA Palisades Fire
+  [skip] Trudeau Resigns, Guantanamo Prisoner Release, Minneapolis Police Reform
+  [skip] Ex-U.S. Capitol Police Officer Remembers Jan. 6, CNN Defamation Trial, Golden Globes
+  [skip] Does the Military Have an Extremism Problem?
+  [skip] Latest On New Orleans Attack; New Congress Comes Into Session; Carter's Funeral
+  [skip] New Orleans Answers, House Speaker Vote, Golan Heights Tensions
+  [skip] New Orleans Attack, Suspect's Texas Home, Las Vegas Truck Explosion
+  [skip] Ukraine's New Year's Agony, Puerto Rico Power Outages, Dry January Tips
+
+Candace — 181 episode(s) in 2025
+  [skip] What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283
+  [skip] EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282
+  [skip] BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281
+  [skip] Erika And I Sat Down. Here’s What Happened. | Candace Ep 280
+  [skip] Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279
+  [skip] UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278
+  [skip] Charlie Kirk’s Last Trip To Asia… | Candace Ep 277
+  [skip] Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276
+  [skip] Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275
+  [skip] BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273
+  [skip] BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273
+  [skip] Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272
+  [skip] Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271
+  [skip] Operation: “See you in Valhalla, Charlie”. | Candace Ep 270
+  [skip] Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269
+  [skip] Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268
+  [skip] The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267
+  [skip] Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266
+  [skip] From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265
+  [skip] What Did Charlie Kirk Discover Near The End? | Candace Ep 264
+  [skip] Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263
+  [skip] Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262
+  [skip] Ben Shapiro Is Crying Again. | Candace Ep 261
+  [skip] #1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260
+  [skip] Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259
+  [skip] EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258
+  [skip] MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257
+  [skip] Candace Owens x Norman Finkelstein
+  [skip] INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256
+  [skip] BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255
+  [skip] Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254
+  [skip] Charlie Ripped A Hole In Reality | Candace Ep 253
+  [skip] Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252
+  [skip] REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251
+  [skip] Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250
+  [skip] TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249
+  [skip] TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248
+  [skip] INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247
+  [skip] BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246
+  [skip] DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245
+  [skip] They Are Lying About Tyler Robinson. | Candace Ep 244
+  [skip] Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243
+  [skip] BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242
+  [skip] Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241
+  [skip] Erika Kirk Forgives. The Feds Forget... | Candace Ep 240
+  [skip] Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239
+  [skip] EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238
+  [skip] Who Ordered The Hit On Charlie Kirk? | Candace Ep 237
+  [skip] Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236
+  [skip] They Are Lying About Charlie Kirk. | Candace Ep 235
+  [skip] To My Friend, Charlie Kirk.
+  [skip] Becoming Brigitte: The God Of Amiens.
+  [skip] Becoming Brigitte: MK Ultra And The French Gold Rush.
+  [skip] Candace x Milo: The Rise of the Gaytriarchy | Candace Ep 234
+  [skip] I’M BACK! And STILL Asking Questions (Sorry Brigitte). | Candace Ep 233
+  [skip] BREAKING NEWS! Jean “M” Trogneux FOUND In The United States In The 60’s. | Candace Ep 232
+  [skip] The MOST MORAL Blackmail In The World | Candace EP 231
+  [skip] President Macron Gives His Victim Impact Statement. | Candace Ep 230
+  [skip] Drama Club Reunion: Macron, Zelensky, And House Inhabit Are Back! | Candace Ep 229
+  [skip] Emmanuel Macron Had A “Sugar Daddy". Kanye Drops A Documentary. | Candace Ep 228
+  [skip] The Epstein Files: "Mega", Maga, And The Mossad. | Ep 3
+  [skip] BREAKING NEWS! The Macrons Hired A Detective To Investigate Me. | Candace Ep 227
+  [skip] INSANE UPDATE! Brigitte, Blake Lively, And The Globalized Press. | Ep 226
+  [skip] Yes, Trump WILL Pardon Ghislaine Maxwell. | Candace Ep 225
+  [skip] What Does Israel Have On Donald Trump? | Candace Ep 224
+  [skip] Tucker Carlson And I Discuss Brigitte’s Genes & Trump Commits Treason. | Candace Ep 223
+  [skip] First Epstein, Now Diddy. What Is Donald Trump Thinking?! | Candace Ep 222
+  [skip] Harvey Speaks: Exclusive Interview On His Retrial
+  [skip] Brigitte Presents “Proof” Her Brother Is Alive. | Candace Ep 221
+  [skip] EXCLUSIVE! Brigitte Macron's Lawyer Has A Dark Past. Dan Bongino Speaks Out. | Candace Ep 220
+  [skip] WOAH! Trump Named In Epstein Files. ‘Becoming Brigitte’ Goes International. | Candace Ep 219
+  [skip] BREAKING! Brigitte Sues Me For Defamation | Candace Ep 218
+  [skip] The Epstein Files: The House Of Maxwell | Ep 2
+  [skip] Trump Loses Control Of His Base. What Is He Hiding? | Candace Ep 217
+  [skip] Candace Owens x E. Michael Jones
+  [skip] The Epstein Files: The Midas Touch | Ep 1
+  [skip] The Epstein Files: Dead Men Tell No Tales | An Introduction
+  [skip] BREAKING NEWS! Brigitte Macron Sends Italian Police To Xavier Poussard! | Candace Ep 216
+  [skip] Trump Gone Wild! Is Jeffrey Epstein Even Dead? | Candace Ep 215
+  [skip] BREAKING NEWS: Brigitte Macron Loses In Court! (It’s A Dude.) | Candace Ep 214
+  [skip] Yes, The MAGA Movement Is Now Compromised. | Candace Ep 213
+  [skip] Trump Shuts Down Epstein Questions. Elon Musk Names Names. | Candace Ep 212
+  [skip] Epstein Is INNOCENT. Tucker Carlson Is GUILTY! (Trust The Science) | Candace Ep 211
+  [skip] DOUBLE SERVED! Blake Lively And Brigitte Macron | Candace Ep 210
+  [skip] BREAKING NEWS: I Just Got Subpoenaed By Blake Lively And Ryan Reynolds | Candace Ep 209
+  [skip] BREAKING NEWS! I’ve Been Keeping A Secret. | Candace Ep 208
+  [skip] TO CATCH A PREDATOR! Israel BRIBING Pastors And Influencers. | Candace Ep 207
+  [skip] Candace Owens x Russell Brand | Candace Ep 206
+  [skip] Trump Drops "F" Bombs On Israel | Candace Ep 205
+  [skip] BREAKING: The United States Of Israel Strikes Again | Candace Ep 204
+  [skip] Justin Baldoni Wins Taylor Swift's Texts | Candace Ep 203
+  [skip] Sabrina Carpenter NAKED. Ted Cruz AFRAID. | Candace Ep 202
+  [skip] Trump Chooses War And Attacks Tucker Carlson | Candace Ep 201
+  [skip] I’m BACK! Just In Time For World War 3. | Candace Ep 200
+  [skip] From WW3 To McDonald’s Ice Cream Machines: All Conspiracies Connected | Candace Ep 199
+  [skip] Why The Bibi Files Is the Documentary Everyone Needs to See | Candace Ep 198
+  [skip] Everything In The Epstein Files Kash Patel Is Missing | Candace Ep 197
+  [skip] The American Trucking Industry Runs on Exploitation — Here’s The Proof | Candace Ep 196
+  [skip] JD Vance’s Mysterious Past & Palantir’s Plan To Control The White House | Candace Ep 195
+  [skip] Dan Bongino & Kash Patel EXPOSE Secret Service Cover Up!  | Candace Ep 194
+  [skip] DROPPED! Blake Lively Withdraws Part of Her Lawsuit! | Candace Ep 193
+  [skip] New Hacking Blackmail Scandal & CIA Market Control | Candace Ep 192
+  [skip] Elon Musk, Secret Underground Bases, & UFOs | Candace Ep 191
+  [skip] Inside The Elites’ Secret Courts Where You Have No Rights | Candace Ep 190
+  [skip] MANHANDLED! Mr. Macron Pummels The French President. | Candace Ep 189
+  [skip] Theo Von Speaks Out | Big Names Missing In The Diddy Trial | Candace Ep 188
+  [skip] Taylor Swift Is Now Team Baldoni…Here’s Why. | Candace Ep 187
+  [skip] Harvey Speaks: Harvey Weinstein’s On-Camera Interview
+  [skip] Harvey Speaks: "I Never Knew This Woman" | Ep 4
+  [skip] SHOCKING! The Sinister Group Behind Your Grocery Items | Candace Ep 186
+  [skip] Ian Carroll Unleashed 2 | Urban Air Gets Darker And Trump Turns On Israel | Candace Ep 185
+  [skip] Ian Carroll Unleashed! | Private Equity, Big Pharma, And The Diddy Trial | Candace Ep 184
+  [skip] Farewell Show: LIVE With Ian Carroll | Candace Ep 183
+  [skip] Shannon Sharpe Out At ESPN. I Taylor Swift Subpoena Incoming. | Candace Ep 182
+  [skip] ENOUGH! It’s Time For Jordan Peterson To Clean His Own Room | Candace Ep 181
+  [skip] WOAH! Shannon Sharpe Names His ‘Jane Doe’ Accuser. Is This The End Of #Metoo? | Candace Ep 180
+  [skip] Blake Lively Filed A Sham Lawsuit. Is This Now A Criminal Case? | Candace Ep 179
+  [skip] Blake Lively Is Time's Most Influential | Katy Perry Goes To Space | Candace Ep 178
+  [skip] CAUGHT RED HANDED: Harley Pasternak | Ryan Reynolds’ Subpoena | Candace Ep 177
+  [skip] The Justin Bieber Plot Thickens! | Candace Ep 176
+  [skip] BREAKING NEWS: I Know The Truth About Justin Bieber. | Candace Ep 175
+  [skip] Harvey Weinstein Calls Out Justin Baldoni | #MAHA Gaslighting Begins | Candace Ep 174
+  [skip] COMPROMISED: RFK Jr. And Hollywood Exposed | Candace Ep 173
+  [skip] Russell Brand Charged | Ryan Reynolds Caught | Candace Ep 172
+  [skip] Candace Owens x Ian Carroll | Candace Ep 171
+  [skip] HYPOCRISY: Blake Lively Improvised Grabbing Her Co-Star's Private Parts | Candace Ep 170
+  [skip] BREAKING NEWS: I Got Served For ANOTHER Lawsuit | Candace Ep 169
+  [skip] RFK Jr. & Those Pesky CIA Rumors | Candace Ep 168
+  [skip] Who Is Controlling RFK Jr.? | Candace Ep 167
+  [skip] The JFK Files + A ‘House In Habit’ Divided | Candace Ep 166
+  [skip] TRULY SICK: Ryan Reynolds Forced His 7-Year-Old Daughter To Say WHAT?! | Candace Ep 165
+  [skip] So… The “Conspiracy Theorists” Were Right About JFK | Candace Ep 164
+  [skip] Ryan Reynolds Wants to COME OUT… Of The Lawsuit | Candace Ep 163
+  [skip] BREAKING NEWS: Jeremy Boreing Out As CEO Of The Daily Wire | Candace Ep 162
+  [skip] Straight Husbands vs Ryan Reynolds | Tucker Carlson vs Brigitte Macron | Candace Ep 161
+  [skip] Uh Oh, Ryan Reynolds! Hugh Jackman WILL Be Deposed. | Candace Ep 160
+  [skip] I’m “Just Asking Questions” About The Daily Wire | Candace Ep 159
+  [skip] Mahmoud Khalil’s Detainment: Fighting Terrorism Or Speech? | Candace Ep 158
+  [skip] Should We Feel Bad For Blake Lively? | Candace Ep 157
+  [skip] Harvey Speaks: Jessica Mann & The Five Year Affair | Ep 3
+  [skip] LeBron James ATTACKS Stephen A. Smith | Candace Ep 156
+  [skip] BREAKING: Judge Makes Statement Regarding Taylor Swift's Text Messages. | Candace Ep 155
+  [skip] Harvey Speaks: Shocking Emails Revealed | Ep 2
+  [skip] Harvey Speaks: The Project Runway Production | Ep 1
+  [skip] WHAT?! Blake Lively Hires Former CIA Agents For Public Relations. | Candace Ep 154
+  [skip] BREAKING: My FIRST Prison Phone Call With Harvey Weinstein | Candace Ep 153
+  [skip] STOP EVERYTHING. They FINALLY Mentioned ME In The Blake Lively Lawsuit! | Candace Ep 152
+  [skip] Announcing My Next Investigative Series… | Candace Ep 151
+  [skip] EXCLUSIVE: Taylor Swift Will Be Deposed. | Candace Ep 150
+  [skip] Becoming Brigitte: The Epilogue
+  [skip] Blake Lively's BOMBSHELL Legal Filing | Candace Ep 149
+  [skip] Saturday Night Lively: What Were They Thinking? | Candace Ep 148
+  [skip] Becoming Brigitte: Candace Owens x Xavier Poussard | Ep 6
+  [skip] EXCLUSIVE: Blake & Ryan’s Desperate Legal Strategy Exposed! | Candace Ep 147
+  [skip] Becoming Brigitte: Who Created Emmanuel Jean-Michel Macron? | Ep 5
+  [skip] Judge Slaps Down Blake Lively. Colleen Hoover Returns. | Candace Ep 146
+  [skip] Becoming Brigitte: Jean-Michel Trogneux | Ep 4
+  [skip] Taylor Swift Booed. I Blame Ryan Reynolds. | Candace Ep 145
+  [skip] Becoming Brigitte: One Coincidence Too Many | Ep 3
+  [skip] UPDATE! Taylor Swift Goes Full Dragon Against Blake Lively | Candace Ep 144
+  [skip] Becoming Brigitte: An Inaccessible Past | Ep 2
+  [skip] Becoming Brigitte: Gaslighting The Public | Ep 1
+  [skip] EXCLUSIVE! Did Ryan Reynolds Extort Hollywood Execs? | Candace Ep 143
+  [skip] Becoming Brigitte: An Introduction
+  [skip] The Taylor Swift Plot Thickens | Candace Ep 142
+  [skip] BREAKING! Taylor Swift Turns Against Blake Lively & Ryan Reynolds | Candace Ep 141
+  [skip] BACKSTABBED: Justin Baldoni’s Leaked Voicemail, RFK Jr’s Betrayal | Candace Ep 140
+  [skip] Selena Gomez Cries & More Ryan Reynolds' Lies | Candace Ep 139
+  [skip] WOAH! Daily Wire CEO Shares HARSH Feelings About Brett Cooper | Candace Ep 138
+  [skip] LEAKED Footage Of Blake Lively's alleged “Sexual Harassment” | Candace Ep 137
+  [skip] UH-OH! Elon’s Viral Salute Steals The Inauguration Show | Candace Ep 136
+  [skip] INAUGURATION SPECIAL LIVE! Donald Trump Becomes The 47th President | Ep 135
+  [skip] OH SNAP! Justin Baldoni Is Now Suing Blake Lively and Ryan Reynolds PERSONALLY | Candace Ep 134
+  [skip] HILARIOUS! TikTok Ban Backfires | Candace Ep 133
+  [skip] IT’S OFFICIAL: Justin Bieber Unfollows Usher | Candace Ep 132
+  [skip] I Respond To Mr. And Mr. Macron | Candace Ep 131
+  [skip] Jimmy Carter's Funeral Is Going Viral For All The Wrong Reasons | Candace Ep 129
+  [skip] I Got A Legal Threat From A Sitting President… | Candace Ep 130
+  [skip] Blake Lively VS Justin Baldoni: The Revenge of #MeToo | Candace Ep 128
+  [skip] BREAKING NEWS: Justin Bieber Is Exposing Hollywood. | Candace Ep 127
+  [skip] Yes, Internet. I Am Pregnant...AGAIN. | Candace Ep 126
+
+NPR News Now — 0 episode(s) in 2025
+
+The Journal. — 243 episode(s) in 2025
+  [skip] Goodbye 2025, Hello 2026!
+  [skip] Camp Swamp Road Ep. 5: Jacksonville
+  [skip] Drug Cartels' New Weapon: Chinese Money Launderers
+  [skip] It's Almost 2026. How’s the Economy?
+  [skip] The Battle Over a Church Worth Millions
+  [skip] How the ‘Chemtrails’ Conspiracy Theory Is Sabotaging One Company
+  [skip] How Robinhood’s CEO Became a Cult Hero
+  [skip] Compass vs. Zillow: The Real Estate Wars
+  [skip] AI Has Come for Advertising
+  [skip] OpenAI's 'Code Red' Problem
+  [skip] Investment Accounts for Babies Are Coming. Wall Street Can’t Wait.
+  [skip] The Tech CEO Leading Nvidia's Main Rival
+  [skip] Netflix’s Fight for Warner Just Got Harder
+  [skip] Make Money Not War: Trump’s Plan for Peace in Ukraine
+  [skip] California's Wine Industry Is in Crisis
+  [skip] Is America on Too Many Psychiatric Drugs?
+  [skip] China and the U.S. Are in a Race for AI Supremacy
+  [skip] Inside Quince’s Quest to Sell Luxury Goods for Less
+  [skip] The Case of the Missing $15 Billion Fortune: Part 2
+  [skip] The Case of the Missing $15 Billion Fortune: Part 1
+  [skip] Is the Hottest Investment Pokémon Cards?
+  [skip] KFC Got Fried in the Chicken Wars. Can It Come Back?
+  [skip] The Era of AI Layoffs Has Begun
+  [skip] Marjorie Taylor Greene, the Epstein Files and a MAGA Feud
+  [skip] Can Nike Make Its Shoes Cool Again?
+  [skip] Why French Museums Keep Getting Robbed
+  [skip] The Repo Man Is Busier Than Ever
+  [skip] How Tariffs Could End Italian Pasta in the U.S.
+  [skip] CoreWeave, the Company Riding the AI Boom
+  [skip] Hollywood Jobs Are Disappearing
+  [skip] Tesla Gives Elon Musk a $1 Trillion Pay Package
+  [skip] Will Trump’s Tariffs Survive the Supreme Court?
+  [skip] The Man Leading Trump’s AI Charge Against China
+  [skip] The Healthcare Fight at the Heart of the Longest Ever Shutdown
+  [skip] The Waldorf Renovation: Over Budget, Past Deadlines, a Man Imprisoned
+  [skip] The Witch Economy Is Booming
+  [skip] Is the Economy Getting Better or Worse? The Fed Says It's Hard to Tell
+  [skip] Why GM Is Slamming the Brakes on EV Ambitions
+  [skip] Smucker, Trader Joe's and a Battle Over PB&Js
+  [skip] Missing Billions and a Secretive CEO: The First Brands Bankruptcy
+  [skip] Why Is the U.S. Giving Billions to Argentina?
+  [skip] Financial Influencers on Wealth and Work
+  [skip] No, Your Toll Payment Is Not Overdue
+  [skip] ‘Exmo’ Influencers Are Taking On Mormonism
+  [skip] Are Conservatives Being 'Debanked'?
+  [skip] The Pentagon's UFO Coverup
+  [skip] The Government Shutdown: Who Will Blink First?
+  [skip] Mexico's New Cocaine Kingpin is Cashing In
+  [skip] Is the AI Boom… a Bubble?
+  [skip] The Botched Software Update That Cost $600 Million
+  [skip] Kathy Hochul on Mamdani, Trump and Where Democrats Went Wrong
+  [skip] Israel and Hamas Take a Big Step Towards Peace
+  [skip] She Swore Off Legacy Media. Now She's Running CBS News.
+  [skip] They Won Millions for Life. Until They Didn't.
+  [skip] Ben & Jerry's Co-Founder Wants to Be Set Free
+  [skip] Camp Swamp Road Ep. 4: That’s What Heaven Is For
+  [skip] The $55 Billion Deal to Take EA Private
+  [skip] Student-Loan Debt Is Strangling Gen X
+  [skip] Why This Government Shutdown Is Different
+  [skip] Inside the Crisis at Tylenol
+  [skip] Trump's Case Against James Comey
+  [skip] Camp Swamp Road Ep. 3: A Friend in the Shadows
+  [skip] Is Jane Goodall Fighting a Losing Battle?
+  [skip] The Bean at the Center of the Trade War
+  [skip] A $100,000 Work Visa Could Rock the Tech Industry
+  [skip] The Airline Industry Has a Toxic Fume Problem
+  [skip] The Florida Cops Who Act as ICE Agents
+  [skip] Camp Swamp Road Ep. 2: A Game of Telephone
+  [skip] Jimmy Kimmel’s Suspension and Trump’s FCC
+  [skip] How Larry Ellison (Briefly) Became the World's Richest Person
+  [skip] Is the TikTok Saga Finally Over?
+  [skip] The Drama at the Fed as It Debates Cutting Rates
+  [skip] Camp Swamp Road Ep. 1: Mess Around, Find Out
+  [skip] The Bad Bunny Economy in Puerto Rico
+  [skip] The Killing of Charlie Kirk and the Rise of Political Violence
+  [skip] How a $1.5 Billion Settlement Could Alter the Course of AI
+  [skip] Introducing: Camp Swamp Road
+  [skip] The FDA Commissioner on Vaccines and Public Trust
+  [skip] The Hyundai Plant Raided By Immigration Authorities
+  [skip] A Troubled Man and His Chatbot
+  [skip] Private Equity Took Over a Hospital. Then It Shuttered.
+  [skip] Kraft Heinz's Big Breakup
+  [skip] Inside the ICE Hiring Blitz
+  [skip] The Corporate Grudge Fueling Cracker Barrel's Logo Fiasco
+  [skip] Breakfast Battle: The Cereal Industry vs MAHA
+  [skip] Inside Intel's Deal With the U.S. Government
+  [skip] The Federal Reserve Under Siege
+  [skip] How Scotts Miracle-Gro's Weed Business Went Up in Smoke
+  [skip] Can a Farming Community Resist a Development Boom?
+  [skip] Private Equity and Crypto Could Be Coming for Your 401k
+  [skip] How an NYC Suburb Is Keeping Rents Down
+  [skip] Is American Capitalism in Retreat?
+  [skip] The Nvidia CEO’s Quest to Sell Chips in China
+  [skip] The Mystery of the Mansion Filled With Surrogate Children
+  [skip] Is an Algorithm Blocking Your Job Search? One Man Is Trying to Find Out.
+  [skip] How Intel’s CEO Became a Political Liability
+  [skip] The Drug You’ve Never Heard of Wreaking Havoc Across Europe
+  [skip] Palantir: Pariah to Power Player
+  [skip] The Game Making Baseball Fans Go Bananas
+  [skip] Why Is Everyone Obsessed With Labubus?
+  [skip] Disney’s Big AI Dilemma
+  [skip] The FDA Boss on the Agency’s MAHA Makeover
+  [skip] Trump vs. the Bureau of Labor Statistics
+  [skip] Is Trump Winning His Trade War?
+  [skip] Why Coke Isn't Getting Rid of High-Fructose Corn Syrup
+  [skip] The Chinese Coffee Giant Taking on Starbucks
+  [skip] How Volkswagen's Electric Bus Lost Its Charge
+  [skip] A Pharmaceutical Executive on Trump’s Tariff Strategy
+  [skip] What Killed 'The Late Show'?
+  [skip] Are Diamonds Even a Luxury Anymore?
+  [skip] The Wall Street Craze Jamie Dimon Can’t Resist. Even If It Blows Up.
+  [skip] A Fight Over Buc-ee’s and for the Soul of the American West
+  [skip] One American Company Taking on China's Rare-Earth Dominance
+  [skip] Trump’s Letter to Jeffrey Epstein 
+  [skip] How 1 Million Robots Are Taking Over Amazon Warehouses
+  [skip] Why Trump Is Ready to Send Missiles to Ukraine
+  [skip] The Uncertain Future of Renewable Energy
+  [skip] Why Elon Musk’s AI Chatbot Went Rogue
+  [skip] Can Superman Save Warner?
+  [skip] Who Will Be the Next Fed Chair? Maybe Kevin
+  [skip]  The Healthcare Costs of Trump’s Big Beautiful Bill
+  [skip] Why Trump Pushed His Tariff Deadline
+  [skip] AI Is Coming for Entry-Level Jobs
+  [skip] Why Meta Is Offering $100 Million for AI Geniuses
+  [skip] How Trump's Megabill Squeaked Through the Senate
+  [skip] Swipe, Spend, Repeat: The Perks Arms Race in Your Wallet
+  [skip] The Supreme Court’s Season Finale, Explained
+  [skip] Rick Steves Is Tired of Hearing 'Have a Safe Trip'
+  [skip] Is NYC’s Mayoral Race All About Rent?
+  [skip] "I'm Thinking I'm 100% Legal." Then ICE Raided His Company.
+  [skip] Why the New Pope Is Taking on AI
+  [skip] NCAA President on a New Era for College Sports
+  [skip] Iran Retaliates After U.S. Strike. How Could This End?
+  [skip] Severed Fingers and Wrench Attacks: A New Era in Crypto Crime
+  [skip] Why Latino Consumers Are Spending Less
+  [skip] Iran May Be Running Out of Options
+  [skip] D.C. Mayor Talks DOGE, Trump and Budget
+  [skip] Iran and the U.S. Were Set To Negotiate. Then Israel Attacked.
+  [skip] The Conservative Trying to Shift America Rightward... One Movie at a Time
+  [skip] Inside UnitedHealth’s Dramatic Faltering
+  [skip] Inside ICE’s Aggressive Approach to Arresting Migrants
+  [skip] Are Trump and Musk Done for Good?
+  [skip] Medicare, Inc. Part 2: Taxpayers Paid for Care Denied by Insurers
+  [skip] Medicare, Inc. Part 1: How Insurers Make Billions From Medicare
+  [skip] Deportations Could Upend This Parachute Factory
+  [skip] The Struggle to Get Aid Into Gaza
+  [skip] The Everyday American Who Hustled for North Korea
+  [skip] Stop Making Cents: The End of the Penny
+  [skip] Ron Howard and Brian Grazer on Longevity in Hollywood
+  [skip] Trump's Plan B After Trade Court Setback
+  [skip] NPR’s CEO on the Fight Over Public Media
+  [skip] For Millions of Student-Loan Borrowers It's Time to Pay
+  [skip] The Battle Within Meta Over Chatbot Safety
+  [skip] Readers Can’t Get Enough of BookTok. Publishers Are Cashing In.
+  [skip] Lady Gaga, Low-Rise Jeans, and the Next Recession
+  [skip] Eggs Are Still Expensive. Is This Company to Blame?
+  [skip] Ozempic Is a Hit. So Why Is the Drugmaker’s CEO Out?
+  [skip] Can the GOP Unite Around Trump’s ‘Big, Beautiful Bill’?
+  [skip] The Giant Bust Rocking the Art Market
+  [skip] How ‘The Joker’ Rigged the Texas Lottery
+  [skip] An Air Traffic Controller Speaks Out About Newark Airport 
+  [skip] A Life-or-Death Insurance Denial
+  [skip] Inside the Surprise U.S.-China Trade Deal
+  [skip] MAHA Influencers Go to Washington
+  [skip] Why Sam Altman Wants to Scan Your Eyeball
+  [skip] Made in America? Shoe Companies Already Tried That.
+  [skip] The Financial Mess Facing the Vatican
+  [skip] Is the Economy… OK?
+  [skip] There Will Never Be Another Warren Buffett
+  [skip] A Tariff Loophole Just Closed. What That Means for Online Shopping.
+  [skip] Trump 2.0: The First 100 Days
+  [skip] In Crypto’s Darkest Corner, A Suicide Became a Meme Coin
+  [skip] Behind the Scenes at Davos, Claims of a Toxic Boss
+  [skip] Canada’s New Leader Is Ready To Take on Trump
+  [skip] A Syrian Father’s Journey to Find His Son
+  [skip] Neom, Pt 2: The Emperor’s New Clothes
+  [skip] Neom, Pt 1: Skiing in the Desert
+  [skip] Trump 2.0: Where Is The Economy Headed?
+  [skip] Taking Stock of the ‘Sell America’ Trade
+  [skip] Inside the Harvard vs. Trump Battle
+  [skip] How Frog Embryos Landed a Scientist in ICE Detention
+  [skip] Pope Francis Has Died. What’s Next for the Catholic Church?
+  [skip] How the 'Napa Valley of Cannabis' Dried Up
+  [skip] Does Meta Have a Social Media Monopoly?
+  [skip] How Elon Musk Pulled X Back From the Brink
+  [skip] The Billionaire Caught Between Trump and China
+  [skip] A Quick Fix for Hair Loss Is Making Some Men Sick
+  [skip] Can Pepsi Make a Comeback? 
+  [skip] Trump 2.0: Tariff Turnaround
+  [skip] China Unleashes a Trade War Arsenal
+  [skip] The Head of the EPA on the Future of the Agency
+  [skip] The Tariff Trade Off: Jobs vs. Higher Prices
+  [skip] Wall Street Speaks Out Against Tariffs
+  [skip] The Fight Over Fluoride
+  [skip] Trump 2.0: Trade Wars and Deportation Battles
+  [skip] Trump’s Tariffs Force a New Era in Global Trade
+  [skip] The Fraud Trial That Became JPMorgan's Headache
+  [skip] He Revived Barbie. Now He’s Turning Around Gap
+  [skip] Why Utah Is Regulating Mom Influencers
+  [skip] Inside the Hunt for Putin’s Sleeper Agents 
+  [skip] Trump 2.0: Group Chat Fallout
+  [skip] Three Federal Workers Hit by DOGE
+  [skip] Trump's Attack on Big Law
+  [skip] Arrivederci, Donatella Versace
+  [skip] Trump's College Crackdown
+  [skip] The New Hit Depression Treatment? A Ketamine-Derived Nasal Spray
+  [skip] Trump 2.0: A Showdown With the Judiciary
+  [skip] Greenland Has Tons of Minerals. So Where Are All the Miners?
+  [skip] A New Phase in Trump's Immigration Fight
+  [skip] The Battle to Be the King of Retail: Walmart vs. Amazon
+  [skip] The Download That Led to a Massive Hack at Disney
+  [skip] The High Pressure Tactics Gloria Allred Uses On Her Own Clients
+  [skip] Trump 2.0: The Uncertainty Economy
+  [skip] Trump Family Has Explored Deal with Binance
+  [skip] What's Going On With the Economy?
+  [skip] Tesla Has a Problem: Elon Musk
+  [skip] The Collapse of Walgreens
+  [skip] The Fight to Kick Soda Out of Food Stamps
+  [skip] Trump 2.0: ‘Just Getting Started’
+  [skip] The Botched Software Update That Cost $600 Million
+  [skip] The Trade War With China Is On
+  [skip] Trump's Tariffs Cause Chaos in Auto Industry
+  [skip] The Killing Spree Tied to a Silicon Valley Intellectual Movement
+  [skip] Inside DOGE's Campaign of Secrecy
+  [skip] Trump 2.0: A Big, Beautiful Bill
+  [skip] Will Paramount Settle With Trump?
+  [skip] Why Gold Bars Are Flying Over the Atlantic
+  [skip] An Eggspensive Dilemma
+  [skip] Why Trump Wants Ukrainian Minerals
+  [skip] Germany's Economy Is Broken. There's No Plan B.
+  [skip] Trump 2.0: Shaking Up Europe
+  [skip] Why Influencers Say Honey Is Stealing Their Money
+  [skip] State Farm Cut Policies. Then the Fires Hit.
+  [skip] The Life and Death of a Boeing Whistleblower
+  [skip] The 20,000 Steps to a Walmart Manager's Six-Figure Salary
+  [skip] The U.S. Spent Billions Fighting AIDS. What Now?
+  [skip] Trump 2.0: The Musk-Trump Bromance
+  [skip] Grindr Makes a Date With AI 
+  [skip] ‘Love Is Blind’ Is Back. Not All the Drama Is On-Screen. 
+  [skip] R.I.P. CFPB?
+  [skip]  Women's Soccer Is Getting a Big Upgrade
+  [skip] How Parlays Became the Biggest Bet in Sports
+  [skip] Trump 2.0: Less Foreign Aid, More Tariffs
+
+Pod Save America — 139 episode(s) in 2025
+  [skip] Is JD Vance the Republican Front-Runner?
+  [skip] The 2025 Pundies: Highs & Lows from a Long Year
+  [skip] Rahm Emanuel is Not NOT Running for President
+  [skip] Trump White House Secrets Revealed
+  [skip] Donald Trump, Empath in Chief
+  [skip] Can Democrats Fight Trump Without Being Defined by Him? (with Gov. JB Pritzker)
+  [skip] Trump's A+++++ Affordability Message
+  [skip] Trump Joins the Streaming Wars
+  [skip] The Making of America's Most Prominent Anti-Vaxxer
+  [skip] Two Strikes. Is Hegseth Out?
+  [skip] Department of War (Crimes)
+  [skip] Will There Be a Blue Wave in 2026?
+  [skip] Terminally Online: Live from Crooked Con (Subscription Preview)
+  [skip] How Many Republicans Will Follow MTG?
+  [skip] What Will Democratic Governance Look Like? + Lina Khan (Crooked Con)
+  [skip] Trump Calls for Democrats' Executions
+  [skip] What’s the Story We’re Telling? + Sen. Ruben Gallego (Crooked Con)
+  [skip] Did Trump Blow It on the Epstein Files?
+  [skip] What Is the Polling Telling Us About 2026? + Gov. Andy Beshear (Crooked Con)
+  [skip] Trump's Ballroom Reno Derailed by Epstein
+  [skip] Can Democrats Lose the Downer Image? + Chris Murphy in Conversation (Crooked Con)
+  [skip] Shutdown for What? (Schumer's Version)
+  [skip] How Do We Push Back on Authoritarianism? (Crooked Con)
+  [skip] Live from Occupied D.C. with Barack Obama
+  [skip] Revenge of the Libs
+  [skip] Don't Poo — Vote!
+  [skip] Debating the Trump Era with Abby Phillip
+  [skip] Noem Won't Rule Out Tear-Gassing Trick-or-Treaters
+  [skip] Trump's Secret Plan for a 3rd Term
+  [skip] Trump (Literally) Destroys White House
+  [skip] Trump Unloads on No Kings
+  [skip] Why is Big Business Caving to Trump? (with Andrew Ross Sorkin)
+  [skip] JD Vance Defends Hitler-Loving Racists
+  [skip] Trump's Gaza Ceasefire Takes Hold
+  [skip] President of Peace Invades Chicago (feat. JB Pritzker)
+  [skip] Trump's War on Blue America
+  [skip] Roxane Gay on the Myth of Civility
+  [skip] Affordable Healthcare is Worth Fighting For
+  [skip] Can Democrats Win a Shutdown Fight?
+  [skip] Trump Has James Comey Indicted
+  [skip] Kimmel Wins, Tylenol Loses
+  [skip] The Roots of Political Violence and How We Prevent It
+  [skip] Trump Cancels Kimmel
+  [skip] Trump Promises Free Speech Crackdown
+  [skip] The Assassination of Charlie Kirk
+  [skip] Trump's Epstein Doodle Grosser than Expected
+  [skip] Heather Cox Richardson on Donald Trump, MAGA and How We Fight Back
+  [skip] Trump's Very Convincing Body Double
+  [skip] Why is JD Vance so Annoying?
+  [skip] RFK Jr. Decapitates the CDC
+  [skip] First They Came for John Bolton
+  [skip] Marc Maron on Brainf*cked Trolls and Liberal Scolds
+  [skip] Officer Trump Patrols Washington
+  [skip] Blessed are the Peacemakers (Trump and Putin)
+  [skip] Can Newsom Stop Trump's Steal?
+  [skip] Trump’s Made for TV Occupation of D.C.
+  [skip] Pete Buttigieg Thinks Democrats Can't Go Back
+  [skip] Trump Goes Bananas
+  [skip] Texas Democrats Working Remote
+  [skip] How Many Nobel Prizes Can Trump Win?
+  [skip] Will Trump & Netanyahu Let Gaza Starve?
+  [skip] Stephen Colbert, South Park, and Donald Trump’s War Against the Media
+  [skip] CTRL-F 'Trump' in the Epstein Files
+  [skip] An Obama Arrest a Day Keeps the Epstein Files Away
+  [skip] Trump's Secret Epstein Letter Revealed
+  [skip] Trump Wants You To Stop Talking About Epstein
+  [skip] Mark Cuban Wants Democrats to Stop Whining and Do Something
+  [skip] Trump's Flailing Goon Squad
+  [skip] MAGA Revolts Over Epstein List Reversal
+  [skip] GOP Passes Megabill, Betrays Its Own Voters
+  [skip] Can the Big Beautiful Bill Be Stopped?
+  [skip] Are RFK Jr. & MAHA Coming for Your Vaccine?
+  [skip] Hot Zohran Summer
+  [skip] How Trump Learned to Stop Worrying and Love Bombing Iran
+  [skip] The MAGA Rift Over War in Iran
+  [skip] Protests Rain on Trump's Parade
+  [skip] The 3.5% Protest Rule That Could Bring Down Trump
+  [skip] Trump Agents Handcuff U.S. Senator
+  [skip] Greetings from Occupied LA!
+  [skip] Gay for Due Process: Live at WorldPride
+  [skip] Trump v. Musk: Choose Your Daddy
+  [skip] Can Trump's Health Care Cuts Be Stopped?
+  [skip] High Crimes and Piss-demeanors
+  [skip] Trump Always Chickens Out
+  [skip] Trump Targets School JUST Outside Boston
+  [skip] Did Republicans Just Lose the House?
+  [skip] D.C. Reacts to Biden's Cancer News
+  [skip] Why are Fundraising Texts SO Annoying?
+  [skip] Trump's Petro-Fascist Sugar Daddies
+  [skip] Mile High Bribe Club
+  [skip] Pope Save America
+  [skip] Trump's Trade War Hits Hollywood
+  [skip] Has the Media Surrendered to Trump? (feat. Chuck Todd)
+  [skip] Trump's War on Your Kids' Toys
+  [skip] 100 Perfect Days
+  [skip] Elon Gets DOGE'd
+  [skip] Trump's Justices Turn On Him
+  [skip] Sarah McBride's Challenge to Democrats
+  [skip] This Is the Fight Democrats Need To Have
+  [skip] Will Trump Send Americans to Foreign Prisons?
+  [skip] Trump's Art of the Fold
+  [skip] Just Another Orange Monday
+  [skip] Michael Lewis on Bravery in Politics and Why Elon Musk Seems so "Disturbed"
+  [skip] Trump's "Liberation Day" Crashes the Stock Market
+  [skip] Trump “Not Joking” About 3rd Term
+  [skip] Ezra Klein and Derek Thompson on How Democrats Can Build Their Way Back to Power
+  [skip] Trump 2.0's Biggest Scandal Yet
+  [skip] War in the Group Chat
+  [skip] A Democrat’s Tough Love for His Party
+  [skip] Trump Comes for the Judges
+  [skip] A Lawless Trump and Aimless Dems
+  [skip] Trump's All Pain, No Gain Economy
+  [skip] Trump's Crackdown on Dissent
+  [skip] How a Political Party Can Rise from the Dead
+  [skip] The DOGE Who Caught the Car
+  [skip] The State Of the Union Is ... Long
+  [skip] Trump’s Ukraine Fallout and Crypto Grift
+  [skip] Trump and Zelensky's Disastrous Meeting
+  [skip] Will Elon Find the Epstein Files Before It's Too Late?
+  [skip] Finally, a Podcaster at the Top of the FBI!
+  [skip] Bill Maher on Hating Donald Trump, the Far Left and 69ing
+  [skip] Is Trump's Honeymoon Over?
+  [skip] Trump's Shocking Cuts to Air Safety and Nuke Inspection
+  [skip] Is Elon a Drag on Trump?
+  [skip] Will Trump Defy the Courts?
+  [skip] How the Right Took Over the Media
+  [skip] Trump's War on the U.S. Government
+  [skip] Elon Musk's Nerd Coup
+  [skip] Trump Heals Grieving Nation
+  [skip] Has Anyone Seen the Democrats?
+  [skip] Rachel Maddow on Surviving Trump 2.0
+  [skip] Trump's Indefensible Pardons
+  [skip] Well ... he's back.
+  [skip] Biden’s Final Warning
+  [skip] Will the GOP Hold Disaster Relief Hostage?
+  [skip] Breaking: Gavin Newsom On the LA Fires
+  [skip] As LA Burns, Trump Plays Politics
+  [skip] Kamala Didn't Have the Courage!
+  [skip] Introducing: Assembly Required with Stacey Abrams
+
+[rss error] The Ben Shapiro Show: HTTP Error 404: Not Found
+
+Today, Explained — 291 episode(s) in 2025
+  Downloading: The cocaine comeback
+  Transcribing...
+  Saved: Today,_Explained_The_cocaine_comeback.txt
+  Downloading:  A sit-down with Zohran Mamdani
+  Transcribing...
+  Saved: Today,_Explained_A_sit-down_with_Zohran_Mamdani.txt
+  Downloading: The rise of baby Botox
+  Transcribing...
+  Saved: Today,_Explained_The_rise_of_baby_Botox.txt
+  Downloading: How to fix blue cities
+  Transcribing...
+  Saved: Today,_Explained_How_to_fix_blue_cities.txt
+  Downloading: The Epstein Files are still a "cover-up"
+  Transcribing...
+  Saved: Today,_Explained_The_Epstein_Files_are_still_a_cover-up.txt
+  Downloading: Is your brain lying to you?
+  Transcribing...
+  Saved: Today,_Explained_Is_your_brain_lying_to_you.txt
+  Downloading: Your pop music is influenced by God
+  Transcribing...
+  Saved: Today,_Explained_Your_pop_music_is_influenced_by_God.txt
+  Downloading: JD Vance is just getting started
+  Transcribing...
+  Saved: Today,_Explained_JD_Vance_is_just_getting_started.txt
+  Downloading: AI: 1 — Humanity: 0
+  Transcribing...
+  Saved: Today,_Explained_AI_1_—_Humanity_0.txt
+  Downloading: The Price is Rigged
+  Transcribing...
+  Saved: Today,_Explained_The_Price_is_Rigged.txt
+  Downloading: GOP women are over it
+  Transcribing...
+  Saved: Today,_Explained_GOP_women_are_over_it.txt
+  Downloading: Let AI replace you
+  Transcribing...
+  Saved: Today,_Explained_Let_AI_replace_you.txt
+  Downloading: Pop culture is conservative now
+  Transcribing...
+  Saved: Today,_Explained_Pop_culture_is_conservative_now.txt
+  Downloading: The ¯\_(ツ)_/¯ economy
+  Transcribing...
+  Saved: Today,_Explained_The_¯_(ツ)_¯_economy.txt
+  Downloading: Everyone’s fired now
+  Transcribing...
+  Saved: Today,_Explained_Everyone’s_fired_now.txt
+  Downloading: The Republicans bucking Trump
+  Transcribing...
+  Saved: Today,_Explained_The_Republicans_bucking_Trump.txt
+  Downloading: Fear and uncertainty in Venezuela
+  Transcribing...
+  Saved: Today,_Explained_Fear_and_uncertainty_in_Venezuela.txt
+  Downloading:  The rise of the introverts
+  Transcribing...
+  Saved: Today,_Explained_The_rise_of_the_introverts.txt
+  Downloading: I fell in love with my AI
+  Transcribing...
+  Saved: Today,_Explained_I_fell_in_love_with_my_AI.txt
+  Downloading: Fishy business
+  Transcribing...
+  Saved: Today,_Explained_Fishy_business.txt
+  Downloading: Bettor living through Polymarket
+  Transcribing...
+  Saved: Today,_Explained_Bettor_living_through_Polymarket.txt
+  Downloading: Can Rubio end the Ukraine war?
+  Transcribing...
+  Saved: Today,_Explained_Can_Rubio_end_the_Ukraine_war.txt
+  Downloading: Data center backlash!
+  Transcribing...
+  Saved: Today,_Explained_Data_center_backlash!.txt
+  Downloading: The DOJ's revenge agenda
+  Transcribing...
+  Saved: Today,_Explained_The_DOJ's_revenge_agenda.txt
+  Downloading: MAGA’s other immigration battle
+  Transcribing...
+  Saved: Today,_Explained_MAGA’s_other_immigration_battle.txt
+  Downloading: Trump's new billionaire bestie
+  Transcribing...
+  Saved: Today,_Explained_Trump's_new_billionaire_bestie.txt
+  Downloading:  Talk turkey to me
+  Transcribing...
+  Saved: Today,_Explained_Talk_turkey_to_me.txt
+  Downloading: Attention deficit television
+  Transcribing...
+  Saved: Today,_Explained_Attention_deficit_television.txt
+  Downloading: How antidepressants got political
+  Transcribing...
+  Saved: Today,_Explained_How_antidepressants_got_political.txt
+  Downloading: Can Trump help Sudan?
+  Transcribing...
+  Saved: Today,_Explained_Can_Trump_help_Sudan.txt
+  Downloading: Trump's Epstein flip
+  Transcribing...
+  Saved: Today,_Explained_Trump's_Epstein_flip.txt
+  Downloading: Trump can't bring prices down
+  Transcribing...
+  Saved: Today,_Explained_Trump_can't_bring_prices_down.txt
+  Downloading: The case for renting forever
+  Transcribing...
+  Saved: Today,_Explained_The_case_for_renting_forever.txt
+  Downloading: The billionaire backlash
+  Transcribing...
+  Saved: Today,_Explained_The_billionaire_backlash.txt
+  Downloading: The bet that's ruining sports
+  Transcribing...
+  Saved: Today,_Explained_The_bet_that's_ruining_sports.txt
+  Downloading: Republicans have a Nazi problem
+  Transcribing...
+  Saved: Today,_Explained_Republicans_have_a_Nazi_problem.txt
+  Downloading: The end of dieting
+  Transcribing...
+  Saved: Today,_Explained_The_end_of_dieting.txt
+  Downloading: Why Democrats caved
+  Transcribing...
+  Saved: Today,_Explained_Why_Democrats_caved.txt
+  Downloading: Why your health insurance is so expensive
+    Truncated at 60MB
+  Transcribing...
+  Saved: Today,_Explained_Why_your_health_insurance_is_so_expensive.txt
+  Downloading: The art of the breakup album
+  Transcribing...
+  Saved: Today,_Explained_The_art_of_the_breakup_album.txt
+  Downloading: Your flights will be canceled
+  Transcribing...
+  Saved: Today,_Explained_Your_flights_will_be_canceled.txt
+  Downloading: The Mamdani moment
+  Transcribing...
+  Saved: Today,_Explained_The_Mamdani_moment.txt
+  Downloading: Trump’s ICE shakeup
+  Transcribing...
+  Saved: Today,_Explained_Trump’s_ICE_shakeup.txt
+  Downloading: AI and nuclear doomsday
+  Transcribing...
+  Saved: Today,_Explained_AI_and_nuclear_doomsday.txt
+  Downloading: That text is a scam 
+  Transcribing...
+  Saved: Today,_Explained_That_text_is_a_scam.txt
+  Downloading: Everyone is on testosterone
+  Transcribing...
+  Saved: Today,_Explained_Everyone_is_on_testosterone.txt
+  Downloading: Food stamp rage bait
+  Transcribing...
+  Saved: Today,_Explained_Food_stamp_rage_bait.txt
+  Downloading: Are we going to invade Venezuela?
+  Transcribing...
+  Saved: Today,_Explained_Are_we_going_to_invade_Venezuela.txt
+  Downloading: The AI bubble
+  Transcribing...
+  Saved: Today,_Explained_The_AI_bubble.txt
+  Downloading: Extreme Makeover: White House Edition
+  Transcribing...
+  Saved: Today,_Explained_Extreme_Makeover_White_House_Edition.txt
+  Downloading: Paging Dr. ChatBot
+  Transcribing...
+  Saved: Today,_Explained_Paging_Dr._ChatBot.txt
+  Downloading: Capitalism (Taylor’s Version)
+  Transcribing...
+  Saved: Today,_Explained_Capitalism_(Taylor’s_Version).txt
+  Downloading: Can you sue ICE?
+  Transcribing...
+  Saved: Today,_Explained_Can_you_sue_ICE.txt
+  Downloading: A test of Trump's coalition
+  Transcribing...
+  Saved: Today,_Explained_A_test_of_Trump's_coalition.txt
+  Downloading: The "I love Hitler" group chat
+  Transcribing...
+  Saved: Today,_Explained_The_I_love_Hitler_group_chat.txt
+  Downloading: The Americans with their bags packed
+  Transcribing...
+  Saved: Today,_Explained_The_Americans_with_their_bags_packed.txt
+  Downloading: Why (some) food tastes better abroad 
+  Transcribing...
+  Saved: Today,_Explained_Why_(some)_food_tastes_better_abroad.txt
+  Downloading: Victoria’s Secret wants you back
+  Transcribing...
+  Saved: Today,_Explained_Victoria’s_Secret_wants_you_back.txt
+  Downloading: Marjorie Taylor Greene gone rogue
+  Transcribing...
+  Saved: Today,_Explained_Marjorie_Taylor_Greene_gone_rogue.txt
+  Downloading: Is voting doomed?
+  Transcribing...
+  Saved: Today,_Explained_Is_voting_doomed.txt
+  Downloading: What the Gaza ceasefire really means
+  Transcribing...
+  Saved: Today,_Explained_What_the_Gaza_ceasefire_really_means.txt
+  Downloading: When young adults get cancer
+  Transcribing...
+  Saved: Today,_Explained_When_young_adults_get_cancer.txt
+  Downloading: Should we give toddlers phones?
+  Transcribing...
+  Saved: Today,_Explained_Should_we_give_toddlers_phones.txt
+  Downloading: The campus resistance
+    Truncated at 60MB
+  Transcribing...
+  Saved: Today,_Explained_The_campus_resistance.txt
+  Downloading: Saudi Arabia is no joke
+  Transcribing...
+  Saved: Today,_Explained_Saudi_Arabia_is_no_joke.txt
+  Downloading: Trump deploys the National Guard
+  Transcribing...
+  Saved: Today,_Explained_Trump_deploys_the_National_Guard.txt
+  Downloading: We're in our AI slop era
+  Transcribing...
+  Saved: Today,_Explained_We're_in_our_AI_slop_era.txt
+  Downloading: TrumpRx
+  Transcribing...
+  Saved: Today,_Explained_TrumpRx.txt
+  Downloading: Is empathy toxic?
+  Transcribing...
+  Saved: Today,_Explained_Is_empathy_toxic.txt
+  Downloading: KPop Demon Hunters keeps slaying
+  Transcribing...
+  Saved: Today,_Explained_KPop_Demon_Hunters_keeps_slaying.txt
+  Downloading: Hegseth’s hectic military
+  Transcribing...
+  Saved: Today,_Explained_Hegseth’s_hectic_military.txt
+  Downloading: Shutdown for what?
+  Transcribing...
+  Saved: Today,_Explained_Shutdown_for_what.txt
+  Downloading: Rupert Murdoch presents: Succession
+  Transcribing...
+  Saved: Today,_Explained_Rupert_Murdoch_presents_Succession.txt
+  Downloading: How Rupert Murdoch remade the world
+  Transcribing...
+  Saved: Today,_Explained_How_Rupert_Murdoch_remade_the_world.txt
+  Downloading: Who is the modern American dad?
+  Transcribing...
+  Saved: Today,_Explained_Who_is_the_modern_American_dad.txt
+  Downloading: labubu matcha dubai chocolate
+  Transcribing...
+  Saved: Today,_Explained_labubu_matcha_dubai_chocolate.txt
+  Downloading: $100,000 for a visa
+  Transcribing...
+  Saved: Today,_Explained_$100,000_for_a_visa.txt
+  Downloading: A Palestinian state
+  Transcribing...
+  Saved: Today,_Explained_A_Palestinian_state.txt
+  Downloading: TikTok’s new owners
+  Transcribing...
+  Saved: Today,_Explained_TikTok’s_new_owners.txt
+  Downloading: RFK Jr.'s vaccine dream team
+  Transcribing...
+  Saved: Today,_Explained_RFK_Jr.'s_vaccine_dream_team.txt
+  Downloading: A nation of jerks
+  Transcribing...
+  Saved: Today,_Explained_A_nation_of_jerks.txt
+  Downloading: Silencing Kimmel
+  Transcribing...
+  Saved: Today,_Explained_Silencing_Kimmel.txt
+  Downloading: Kash Patel is posting through it
+  Transcribing...
+  Saved: Today,_Explained_Kash_Patel_is_posting_through_it.txt
+  Downloading: The Charlie Kirk revenge plot
+  Transcribing...
+  Saved: Today,_Explained_The_Charlie_Kirk_revenge_plot.txt
+  Downloading: Debate or rage-bait?
+  Transcribing...
+  Saved: Today,_Explained_Debate_or_rage-bait.txt
+  Downloading: Should Democrats shut it down?
+  Transcribing...
+  Saved: Today,_Explained_Should_Democrats_shut_it_down.txt
+  Downloading: Why horror kills at the box office
+    Truncated at 60MB
+  Transcribing...
+  Saved: Today,_Explained_Why_horror_kills_at_the_box_office.txt
+  Downloading: What the right gets wrong about Tolkien
+  Transcribing...
+  Saved: Today,_Explained_What_the_right_gets_wrong_about_Tolkien.txt
+  Downloading: Charlie Kirk's America
+  Transcribing...
+  Saved: Today,_Explained_Charlie_Kirk's_America.txt
+  Downloading: Trump's chief culture warrior
+  Transcribing...
+  Saved: Today,_Explained_Trump's_chief_culture_warrior.txt
+  Downloading: The report RFK Jr. buried
+  Transcribing...
+  Saved: Today,_Explained_The_report_RFK_Jr._buried.txt
+  Downloading: Trump’s new war on drugs
+  Transcribing...
+  Saved: Today,_Explained_Trump’s_new_war_on_drugs.txt
+  Downloading: The United States is Southern now
+  Transcribing...
+  Saved: Today,_Explained_The_United_States_is_Southern_now.txt
+  Downloading: Hamilton and Obamacore cringe
+  Transcribing...
+  Saved: Today,_Explained_Hamilton_and_Obamacore_cringe.txt
+  Downloading: Trump and Modi’s broken bromance
+  Transcribing...
+  Saved: Today,_Explained_Trump_and_Modi’s_broken_bromance.txt
+  Downloading: Deporting Kilmar Abrego Garcia (to Uganda)
+  Transcribing...
+  Saved: Today,_Explained_Deporting_Kilmar_Abrego_Garcia_(to_Uganda).txt
+  Downloading: Trump's "tough on crime" spree
+  Transcribing...
+  Saved: Today,_Explained_Trump's_tough_on_crime_spree.txt
+  Downloading: The Made in the USA myth
+  Transcribing...
+  Saved: Today,_Explained_The_Made_in_the_USA_myth.txt
+  Downloading: $250 million to work for Meta
+  Transcribing...
+  Saved: Today,_Explained_$250_million_to_work_for_Meta.txt
+  Downloading: Fed up
+  Transcribing...
+  Saved: Today,_Explained_Fed_up.txt
+  Downloading: The future of vaccines
+  Transcribing...
+  Saved: Today,_Explained_The_future_of_vaccines.txt
+  Downloading: AI took your job
+  Transcribing...
+  Saved: Today,_Explained_AI_took_your_job.txt
+  Downloading: The golden age of exercise
+    Truncated at 60MB
+  Transcribing...
+  Saved: Today,_Explained_The_golden_age_of_exercise.txt
+  Downloading:  Good Bunny
+  Transcribing...
+  Saved: Today,_Explained_Good_Bunny.txt
+  Downloading: Trump evicts homeless people
+  Transcribing...
+  Saved: Today,_Explained_Trump_evicts_homeless_people.txt
+  Downloading: South Park is not your friend
+  Transcribing...
+  Saved: Today,_Explained_South_Park_is_not_your_friend.txt
+  Downloading: Is America still capitalist? 
+  Transcribing...
+  Saved: Today,_Explained_Is_America_still_capitalist.txt
+  Downloading: Trump meets with Europe
+  Transcribing...
+  Saved: Today,_Explained_Trump_meets_with_Europe.txt
+  Downloading: Hacking our health
+    Truncated at 60MB
+  Transcribing...
+  Saved: Today,_Explained_Hacking_our_health.txt
+  Downloading: Living on Mars
+  Transcribing...
+  Saved: Today,_Explained_Living_on_Mars.txt
+  Downloading: A soccer mom takes on ICE
+  Transcribing...
+  Saved: Today,_Explained_A_soccer_mom_takes_on_ICE.txt
+  Downloading: "Roving mobs of wild youth"
+  Transcribing...
+  Saved: Today,_Explained_Roving_mobs_of_wild_youth.txt
+  Downloading: What Trump really wants from colleges
+  Transcribing...
+  Saved: Today,_Explained_What_Trump_really_wants_from_colleges.txt
+  Downloading: Drilling for clean energy
+  Transcribing...
+  Saved: Today,_Explained_Drilling_for_clean_energy.txt
+  Downloading: What wellness costs us
+  Transcribing...
+  Saved: Today,_Explained_What_wellness_costs_us.txt
+  Downloading: Going to Mars
+  Transcribing...
+  Saved: Today,_Explained_Going_to_Mars.txt
+  Downloading: TEXAS HOLD DEMS
+  Transcribing...
+  Saved: Today,_Explained_TEXAS_HOLD_DEMS.txt
+  Downloading: Can China save our climate?
+  Transcribing...
+  Saved: Today,_Explained_Can_China_save_our_climate.txt
+  Downloading: The deal with Trump's deals
+  Transcribing...
+  Saved: Today,_Explained_The_deal_with_Trump's_deals.txt
+  Downloading: Schooling kids at PragerU
+  Transcribing...
+  Saved: Today,_Explained_Schooling_kids_at_PragerU.txt
+  Downloading: America’s high-speed rail fail
+  Transcribing...
+  Saved: Today,_Explained_America’s_high-speed_rail_fail.txt
+  Downloading: This is your brain off books
+  Transcribing...
+  Saved: Today,_Explained_This_is_your_brain_off_books.txt
+  Downloading: The Trumpiest judge yet
+  Transcribing...
+  Saved: Today,_Explained_The_Trumpiest_judge_yet.txt
+  Downloading: AI is killing the internet
+  Transcribing...
+  Saved: Today,_Explained_AI_is_killing_the_internet.txt
+  Downloading: Gaza's breaking point
+  Transcribing...
+  Saved: Today,_Explained_Gaza's_breaking_point.txt
+  Downloading: The mother of all conspiracies
+  Transcribing...
+  Saved: Today,_Explained_The_mother_of_all_conspiracies.txt
+  Downloading:  Is tipping fair?
+  Transcribing...
+  Saved: Today,_Explained_Is_tipping_fair.txt
+  Downloading: Crashing out
+  Transcribing...
+  Saved: Today,_Explained_Crashing_out.txt
+  Downloading: Revoking US citizenship
+  Transcribing...
+  Saved: Today,_Explained_Revoking_US_citizenship.txt
+  Downloading: America’s miraculous murder decline
+  Transcribing...
+  Saved: Today,_Explained_America’s_miraculous_murder_decline.txt
+  Downloading: Stop the press!
+  Transcribing...
+  Saved: Today,_Explained_Stop_the_press!.txt
+  Downloading: We’re setting fire to food aid
+  Transcribing...
+  Saved: Today,_Explained_We’re_setting_fire_to_food_aid.txt
+  Downloading: The summer I turned into a bookworm
+  Transcribing...
+  Saved: Today,_Explained_The_summer_I_turned_into_a_bookworm.txt
+  Downloading: Super mad about Superman
+  Transcribing...
+  Saved: Today,_Explained_Super_mad_about_Superman.txt
+  Downloading: How the YIMBYs won
+  Transcribing...
+  Saved: Today,_Explained_How_the_YIMBYs_won.txt
+  Downloading: Trump's Epstein problem
+  Transcribing...
+  Saved: Today,_Explained_Trump's_Epstein_problem.txt
+  Downloading: Trump’s dork philosopher
+  Transcribing...
+  Saved: Today,_Explained_Trump’s_dork_philosopher.txt
+  Downloading: Elon's party in the USA
+  Transcribing...
+  Saved: Today,_Explained_Elon's_party_in_the_USA.txt
+  Downloading: Chat BFF
+  Transcribing...
+  Saved: Today,_Explained_Chat_BFF.txt
+  Downloading: Plastic rain
+  Transcribing...
+  Saved: Today,_Explained_Plastic_rain.txt
+  Downloading: From Alligator Alcatraz to South Sudan
+  Transcribing...
+  Saved: Today,_Explained_From_Alligator_Alcatraz_to_South_Sudan.txt
+  Downloading:  I was told there would be deals
+  Transcribing...
+  Saved: Today,_Explained_I_was_told_there_would_be_deals.txt
+  Downloading: Trump's Nobel Peace Prize
+  Transcribing...
+  Saved: Today,_Explained_Trump's_Nobel_Peace_Prize.txt
+  Downloading: Texas blame game
+  Transcribing...
+  Saved: Today,_Explained_Texas_blame_game.txt
+  Downloading: Our complicated relationship with the flag
+  Transcribing...
+  Saved: Today,_Explained_Our_complicated_relationship_with_the_flag.txt
+  Downloading: Disney's America
+  Transcribing...
+  Saved: Today,_Explained_Disney's_America.txt
+  Downloading: Make America Uninsured Again
+  Transcribing...
+  Saved: Today,_Explained_Make_America_Uninsured_Again.txt
+  Downloading: Unmasking ICE
+  Transcribing...
+  Saved: Today,_Explained_Unmasking_ICE.txt
+  Downloading: Porn on the docket
+  Transcribing...
+  Saved: Today,_Explained_Porn_on_the_docket.txt
+  Downloading: Can we ever know our dogs?
+  Transcribing...
+  Saved: Today,_Explained_Can_we_ever_know_our_dogs.txt
+  Downloading: Swole Girl Summer
+  Transcribing...
+  Saved: Today,_Explained_Swole_Girl_Summer.txt
+  Downloading: Wars have rules
+  Transcribing...
+  Saved: Today,_Explained_Wars_have_rules.txt
+  Downloading: Burrito now, pay later
+  Transcribing...
+  Saved: Today,_Explained_Burrito_now,_pay_later.txt
+  Downloading: Elon Musk presents: Taxis
+  Transcribing...
+  Saved: Today,_Explained_Elon_Musk_presents_Taxis.txt
+  Downloading: America First (unless Iran...)
+  Transcribing...
+  Saved: Today,_Explained_America_First_(unless_Iran...).txt
+  Downloading: Sleepaway camp's nostalgia economy
+  Transcribing...
+  Saved: Today,_Explained_Sleepaway_camp's_nostalgia_economy.txt
+  Downloading: Elon’s Boring town
+  Transcribing...
+  Saved: Today,_Explained_Elon’s_Boring_town.txt
+  Downloading: Five boroughs. One mayor. Mad drama.
+  Transcribing...
+  Saved: Today,_Explained_Five_boroughs._One_mayor._Mad_drama.txt
+  Downloading: Iran, Israel, and Trump
+  Transcribing...
+  Saved: Today,_Explained_Iran,_Israel,_and_Trump.txt
+  Downloading: America the extreme 
+  Transcribing...
+  Saved: Today,_Explained_America_the_extreme.txt
+  Downloading: Let's fight over bike lanes
+  Transcribing...
+  Saved: Today,_Explained_Let's_fight_over_bike_lanes.txt
+  Downloading: The big business of small streamers
+  Transcribing...
+  Saved: Today,_Explained_The_big_business_of_small_streamers.txt
+  Downloading: Palantir has your info
+  Transcribing...
+  Saved: Today,_Explained_Palantir_has_your_info.txt
+  Downloading:  Elon and Trump need space
+  Transcribing...
+  Saved: Today,_Explained_Elon_and_Trump_need_space.txt
+  Downloading: Trump's other big breakup
+  Transcribing...
+  Saved: Today,_Explained_Trump's_other_big_breakup.txt
+  Downloading: Fire and ICE in Los Angeles
+  Transcribing...
+  Saved: Today,_Explained_Fire_and_ICE_in_Los_Angeles.txt
+  Downloading: The recession indicator game
+  Transcribing...
+  Saved: Today,_Explained_The_recession_indicator_game.txt
+  Downloading: AI Video Killed the Video Star
+  Transcribing...
+  Saved: Today,_Explained_AI_Video_Killed_the_Video_Star.txt
+  Downloading: Baby’s first gene edit
+  Transcribing...
+  Saved: Today,_Explained_Baby’s_first_gene_edit.txt
+  Downloading: Black schools, red states
+  Transcribing...
+  Saved: Today,_Explained_Black_schools,_red_states.txt
+  Downloading: Donald Trump's "Golden Dome"
+  Transcribing...
+  Saved: Today,_Explained_Donald_Trump's_Golden_Dome.txt
+  Downloading: The white gold rush
+  Transcribing...
+  Saved: Today,_Explained_The_white_gold_rush.txt
+  Downloading: How Gen Z found religion
+  Transcribing...
+  Saved: Today,_Explained_How_Gen_Z_found_religion.txt
+  Downloading: What Bill Belichick’s relationship tells us
+  Transcribing...
+  Saved: Today,_Explained_What_Bill_Belichick’s_relationship_tells_us.txt
+  Downloading:  All eyes back on Gaza
+  Transcribing...
+  Saved: Today,_Explained_All_eyes_back_on_Gaza.txt
+  Downloading: A comedian tries to fix aviation
+  Transcribing...
+  Saved: Today,_Explained_A_comedian_tries_to_fix_aviation.txt
+  Downloading: The minerals that rule our world
+  Transcribing...
+  Saved: Today,_Explained_The_minerals_that_rule_our_world.txt
+  Downloading: Methamphetamine: The most misunderstood drug? 
+  Transcribing...
+  Saved: Today,_Explained_Methamphetamine_The_most_misunderstood_drug.txt
+  Downloading: All the sad young literary men
+  Transcribing...
+  Saved: Today,_Explained_All_the_sad_young_literary_men.txt
+  Downloading: Should women be in combat?
+  Transcribing...
+  Saved: Today,_Explained_Should_women_be_in_combat.txt
+  Downloading:  Donald Trump’s “Big, Beautiful Bill”
+  Transcribing...
+  Saved: Today,_Explained_Donald_Trump’s_“Big,_Beautiful_Bill”.txt
+  Downloading: White genocide Grok
+  Transcribing...
+  Saved: Today,_Explained_White_genocide_Grok.txt
+  Downloading: My colleague, the scammer
+  Transcribing...
+  Saved: Today,_Explained_My_colleague,_the_scammer.txt
+  Downloading: Why are my allergies getting worse?
+  Transcribing...
+  Saved: Today,_Explained_Why_are_my_allergies_getting_worse.txt
+  Downloading: How to "fix" your face
+  Transcribing...
+  Saved: Today,_Explained_How_to_fix_your_face.txt
+  Downloading: All the president’s side hustles
+  Transcribing...
+  Saved: Today,_Explained_All_the_president’s_side_hustles.txt
+  Downloading: Trump’s emergency powers grab
+  Transcribing...
+  Saved: Today,_Explained_Trump’s_emergency_powers_grab.txt
+  Downloading: Oops!... I voted for Trump
+  Transcribing...
+  Saved: Today,_Explained_Oops!..._I_voted_for_Trump.txt
+  Downloading: Is John Fetterman ok?
+  Transcribing...
+  Saved: Today,_Explained_Is_John_Fetterman_ok.txt
+  Downloading: The drama and trauma of 23andMe 
+  Transcribing...
+  Saved: Today,_Explained_The_drama_and_trauma_of_23andMe.txt
+  Downloading: Chicago Pope
+  Transcribing...
+  Saved: Today,_Explained_Chicago_Pope.txt
+  Downloading: What did Wikipedia do?
+  Transcribing...
+  Saved: Today,_Explained_What_did_Wikipedia_do.txt
+  Downloading: Little Marco’s big portfolio
+  Transcribing...
+  Saved: Today,_Explained_Little_Marco’s_big_portfolio.txt
+  Downloading: The two dolls economy
+  Transcribing...
+  Saved: Today,_Explained_The_two_dolls_economy.txt
+  Downloading: The Harvey Weinstein apologist
+  Transcribing...
+  Saved: Today,_Explained_The_Harvey_Weinstein_apologist.txt
+  Downloading: Why is personal style so hard?
+  Transcribing...
+  Saved: Today,_Explained_Why_is_personal_style_so_hard.txt
+  Downloading:  Prepping for doomsday
+  Transcribing...
+  Saved: Today,_Explained_Prepping_for_doomsday.txt
+  Downloading: No love (on the spectrum) for RFK Jr.
+  Transcribing...
+  Saved: Today,_Explained_No_love_(on_the_spectrum)_for_RFK_Jr.txt
+  Downloading: Tariffs hit like a Mack truck
+  Transcribing...
+  Saved: Today,_Explained_Tariffs_hit_like_a_Mack_truck.txt
+  Downloading: 100 days of payback
+  Transcribing...
+  Saved: Today,_Explained_100_days_of_payback.txt
+  Downloading: How Trump saved Canada’s libs
+  Transcribing...
+  Saved: Today,_Explained_How_Trump_saved_Canada’s_libs.txt
+  Downloading: Retire? In this economy?!
+  Transcribing...
+  Saved: Today,_Explained_Retire_In_this_economy_!.txt
+  Downloading: The most dangerous award
+  Transcribing...
+  Saved: Today,_Explained_The_most_dangerous_award.txt
+  Downloading: The startup that cried dire wolf
+  Transcribing...
+  Saved: Today,_Explained_The_startup_that_cried_dire_wolf.txt
+  Downloading: How the Abrego Garcia standoff ends
+  Transcribing...
+  Saved: Today,_Explained_How_the_Abrego_Garcia_standoff_ends.txt
+  Downloading: Conclave (2025)
+  Transcribing...
+  Saved: Today,_Explained_Conclave_(2025).txt
+  Downloading: American_history_v9_final_FINAL_THIS ONE
+  Transcribing...
+  Saved: Today,_Explained_American_history_v9_final_FINAL_THIS_ONE.txt
+  Downloading: Is climate progress doomed?
+  Transcribing...
+  Saved: Today,_Explained_Is_climate_progress_doomed.txt
+  Downloading: Mar-a-Lago makeover
+  Transcribing...
+  Saved: Today,_Explained_Mar-a-Lago_makeover.txt
+  Downloading: Trump v. Mangione
+  Transcribing...
+  Saved: Today,_Explained_Trump_v._Mangione.txt
+  Downloading: Why Harvard is fighting back
+  Transcribing...
+  Saved: Today,_Explained_Why_Harvard_is_fighting_back.txt
+  Downloading:  Art of the (Iran) deal
+  Transcribing...
+  Saved: Today,_Explained_Art_of_the_(Iran)_deal.txt
+  Downloading:  It’s China’s turn
+  Transcribing...
+  Saved: Today,_Explained_It’s_China’s_turn.txt
+  Downloading: What if college isn't for everyone?
+  Transcribing...
+  Saved: Today,_Explained_What_if_college_isn't_for_everyone.txt
+  Downloading: Watercooler TV is back
+  Transcribing...
+  Saved: Today,_Explained_Watercooler_TV_is_back.txt
+  Downloading: Laura Loomered the NSA
+  Transcribing...
+  Saved: Today,_Explained_Laura_Loomered_the_NSA.txt
+  Downloading: Plastic rain, plastic rain
+  Transcribing...
+  Saved: Today,_Explained_Plastic_rain,_plastic_rain.txt
+  Downloading: The nostalgia economy
+  Transcribing...
+  Saved: Today,_Explained_The_nostalgia_economy.txt
+  Downloading: Project 2025’s next chapter
+  Transcribing...
+  Saved: Today,_Explained_Project_2025’s_next_chapter.txt
+  Downloading: Is a house still a good investment?
+  Transcribing...
+  Saved: Today,_Explained_Is_a_house_still_a_good_investment.txt
+  Downloading: Pray for Hooters
+  Transcribing...
+  Saved: Today,_Explained_Pray_for_Hooters.txt
+  Downloading: The day after "Liberation Day"
+  Transcribing...
+  Saved: Today,_Explained_The_day_after_Liberation_Day.txt
+  Downloading: Why young people are getting cancer
+  Transcribing...
+  Saved: Today,_Explained_Why_young_people_are_getting_cancer.txt
+  Downloading: Hasan Piker explains himself 
+  Transcribing...
+  Saved: Today,_Explained_Hasan_Piker_explains_himself.txt
+  Downloading: Not Coming to America
+  Transcribing...
+  Saved: Today,_Explained_Not_Coming_to_America.txt
+  Downloading: Blinded by the headlights
+  Transcribing...
+  Saved: Today,_Explained_Blinded_by_the_headlights.txt
+  Downloading: Huge week for the group chat
+  Transcribing...
+  Saved: Today,_Explained_Huge_week_for_the_group_chat.txt
+  Downloading: Fear is the economy killer
+  Transcribing...
+  Saved: Today,_Explained_Fear_is_the_economy_killer.txt
+  Downloading: The “Joe Rogan of the left”
+  Transcribing...
+  Saved: Today,_Explained_The_“Joe_Rogan_of_the_left”.txt
+  Downloading: Trump's judge grudge
+  Transcribing...
+  Saved: Today,_Explained_Trump's_judge_grudge.txt
+  Downloading: Make America Measles Again (MAMA)
+  Transcribing...
+  Saved: Today,_Explained_Make_America_Measles_Again_(MAMA).txt
+  Downloading: Gen Sex
+  Transcribing...
+  Saved: Today,_Explained_Gen_Sex.txt
+  Downloading: Snow White and the Seven Controversies
+  Transcribing...
+  Saved: Today,_Explained_Snow_White_and_the_Seven_Controversies.txt
+  Downloading: No kids on the block
+  Transcribing...
+  Saved: Today,_Explained_No_kids_on_the_block.txt
+  Downloading: The autocrat's prison
+  Transcribing...
+  Saved: Today,_Explained_The_autocrat's_prison.txt
+  Downloading: Silencing the Voice of America
+  Transcribing...
+  Saved: Today,_Explained_Silencing_the_Voice_of_America.txt
+  Downloading: An America First trap
+  Transcribing...
+  Saved: Today,_Explained_An_America_First_trap.txt
+  Downloading: Did diversity ever work ... at work?
+  Transcribing...
+  Saved: Today,_Explained_Did_diversity_ever_work_..._at_work.txt
+  Downloading: What if we stopped shopping?
+  Transcribing...
+  Saved: Today,_Explained_What_if_we_stopped_shopping.txt
+  Downloading: The man who helped kill DEI
+  Transcribing...
+  Saved: Today,_Explained_The_man_who_helped_kill_DEI.txt
+  Downloading:  Deporting Mahmoud Khalil
+  Transcribing...
+  Saved: Today,_Explained_Deporting_Mahmoud_Khalil.txt
+  Downloading: Teslump
+  Transcribing...
+  Saved: Today,_Explained_Teslump.txt
+  Downloading: A Walz to Remember
+  Transcribing...
+  Saved: Today,_Explained_A_Walz_to_Remember.txt
+  Downloading: Why does dating suck for guys?
+  Transcribing...
+  Saved: Today,_Explained_Why_does_dating_suck_for_guys.txt
+  Downloading: Whey too much protein
+  Transcribing...
+  Saved: Today,_Explained_Whey_too_much_protein.txt
+  Downloading: The Zizian "death cult"
+  Transcribing...
+  Saved: Today,_Explained_The_Zizian_death_cult.txt
+  Downloading: Serving your country while trans
+  Transcribing...
+  Saved: Today,_Explained_Serving_your_country_while_trans.txt
+  Downloading: Breaking up with Ukraine
+  Transcribing...
+  Saved: Today,_Explained_Breaking_up_with_Ukraine.txt
+  Downloading: The Gulf of America?
+  Transcribing...
+  Saved: Today,_Explained_The_Gulf_of_America.txt
+  Downloading: The messiest Oscars category
+  Transcribing...
+  Saved: Today,_Explained_The_messiest_Oscars_category.txt
+  Downloading: Is flying still safe?
+  Transcribing...
+  Saved: Today,_Explained_Is_flying_still_safe.txt
+  Downloading: Eggs aren't expensive enough
+  Transcribing...
+  Saved: Today,_Explained_Eggs_aren't_expensive_enough.txt
+  Downloading: Quid pro bros
+  [download error] Quid pro bros: 504 Server Error: Gateway Time-out for url: https://dcs-spotify.megaphone.fm/VMP8527670737.mp3?key=f56290333769edbe246200312069b5f2&request_event_id=9e6f6fd1-80bb-4140-b684-1571f350da9d&session_id=9e6f6fd1-80bb-4140-b684-1571f350da9d&timetoken=1774204532_B0B0651DF4380F748D51825CFD7C8BBF
+  Downloading: Germany's rightward march
+  Transcribing...
+  Saved: Today,_Explained_Germany's_rightward_march.txt
+  Downloading: Sugar daddies and mommies
+  Transcribing...
+  Saved: Today,_Explained_Sugar_daddies_and_mommies.txt
+  Downloading: Vatever you vant, Vladimir
+  Transcribing...
+  Saved: Today,_Explained_Vatever_you_vant,_Vladimir.txt
+  Downloading: Breaking the internet
+  Transcribing...
+  Saved: Today,_Explained_Breaking_the_internet.txt
+  Downloading: Mr. Project 2025
+  Transcribing...
+  Saved: Today,_Explained_Mr._Project_2025.txt
+  Downloading: Is science in danger? 
+  Transcribing...
+  Saved: Today,_Explained_Is_science_in_danger.txt
+  Downloading: The making of a beauty king
+  Transcribing...
+  Saved: Today,_Explained_The_making_of_a_beauty_king.txt
+  Downloading: Elon's African roots
+  Transcribing...
+  Saved: Today,_Explained_Elon's_African_roots.txt
+  Downloading: Tater bot
+  Transcribing...
+  Saved: Today,_Explained_Tater_bot.txt
+  Downloading: DOGE-y behavior
+  Transcribing...
+  Saved: Today,_Explained_DOGE-y_behavior.txt
+  Downloading: Guantanamo’s other history
+  Transcribing...
+  Saved: Today,_Explained_Guantanamo’s_other_history.txt
+  Downloading: Super Bowl GNX
+  Transcribing...
+  Saved: Today,_Explained_Super_Bowl_GNX.txt
+  Downloading: Chaos in Congo 
+  Transcribing...
+  Saved: Today,_Explained_Chaos_in_Congo.txt
+  Downloading: Democrats, where you at?
+  Transcribing...
+  Saved: Today,_Explained_Democrats,_where_you_at.txt
+  Downloading: Tariffied
+  Transcribing...
+  Saved: Today,_Explained_Tariffied.txt
+  Downloading:  Rebuilding Los Angeles
+  Transcribing...
+  Saved: Today,_Explained_Rebuilding_Los_Angeles.txt
+  Downloading: Turkey with the good hair
+  Transcribing...
+  Saved: Today,_Explained_Turkey_with_the_good_hair.txt
+  Downloading: DeepSeek deepdive
+  Transcribing...
+  Saved: Today,_Explained_DeepSeek_deepdive.txt
+  Downloading: How America went MAHA
+  Transcribing...
+  Saved: Today,_Explained_How_America_went_MAHA.txt
+  Downloading: Trump’s government purge
+  Transcribing...
+  Saved: Today,_Explained_Trump’s_government_purge.txt
+  Downloading: The Silk Road pardon
+  Transcribing...
+  Saved: Today,_Explained_The_Silk_Road_pardon.txt
+  Downloading: From TikTok to 小红书
+  Transcribing...
+  Saved: Today,_Explained_From_TikTok_to_小红书.txt
+  Downloading: It’s not easy being Greenland
+  Transcribing...
+  Saved: Today,_Explained_It’s_not_easy_being_Greenland.txt
+  Downloading: Cafeteria wars
+  Transcribing...
+  Saved: Today,_Explained_Cafeteria_wars.txt
+  Downloading: Back in (executive) action
+  Transcribing...
+  Saved: Today,_Explained_Back_in_(executive)_action.txt
+  Downloading: 47
+  Transcribing...
+  Saved: Today,_Explained_47.txt
+  Downloading: Generation Gentle Parent
+  Transcribing...
+  Saved: Today,_Explained_Generation_Gentle_Parent.txt
+  Downloading: Zuck your feelings
+  Transcribing...
+  Saved: Today,_Explained_Zuck_your_feelings.txt
+  Downloading: Life after Ozempic
+  Transcribing...
+  Saved: Today,_Explained_Life_after_Ozempic.txt
+  Downloading: The politics of fire
+  Transcribing...
+  Saved: Today,_Explained_The_politics_of_fire.txt
+  Downloading: The Good, the Bad, and the Biden
+  Transcribing...
+  Saved: Today,_Explained_The_Good,_the_Bad,_and_the_Biden.txt
+  Downloading: Beige, don't kill my vibe
+  Transcribing...
+  Saved: Today,_Explained_Beige,_don't_kill_my_vibe.txt
+  Downloading: TikTok on the dock(et)
+  Transcribing...
+  Saved: Today,_Explained_TikTok_on_the_dock(et).txt
+  Downloading: Seoul searching
+  Transcribing...
+  Saved: Today,_Explained_Seoul_searching.txt
+  Downloading: MAGA meltdown
+  Transcribing...
+  Saved: Today,_Explained_MAGA_meltdown.txt
+  Downloading: "Happy Sixthmas"
+  Transcribing...
+  Saved: Today,_Explained_Happy_Sixthmas.txt
+  Downloading: Canadian bakin’
+  Transcribing...
+  Saved: Today,_Explained_Canadian_bakin’.txt
+  Downloading: Elon's company town
+  Transcribing...
+  Saved: Today,_Explained_Elon's_company_town.txt
+
+The Megyn Kelly Show — 481 episode(s) in 2025
+  Downloading: Mysterious Disappearance of TV News Anchor Jodi Huisentruit 30 Years Ago - Crime Week Continues  |  Ep. 1220
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Mysterious_Disappearance_of_TV_News_Anchor_Jodi_Huisentruit_30_Years_Ago_-_Crime_Week_Continues_Ep..txt
+  Downloading: How Deranged Serial Killer Israel Keyes Finally Got Caught - Crime Week Continues with Maureen Callahan  |  Ep. 1219
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_How_Deranged_Serial_Killer_Israel_Keyes_Finally_Got_Caught_-_Crime_Week_Continues_with_Maureen_Calla.txt
+  Downloading: Breaking Down Every Angle of the Karen Read Case and Trials: Crime Week Begins, with Peter Tragos  |  Ep. 1218
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Breaking_Down_Every_Angle_of_the_Karen_Read_Case_and_Trials_Crime_Week_Begins,_with_Peter_Tragos_Ep..txt
+  Downloading: Megyn Kelly is Joined By Doug Brunt To Talk About His New Book,  and the Importance of Laughter in Marriage
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Megyn_Kelly_is_Joined_By_Doug_Brunt_To_Talk_About_His_New_Book,_and_the_Importance_of_Laughter_in_Ma.txt
+  Downloading: Rob Reiner Son's Alarming Court Appearance, “Burn Cage” Found in D4vd’s Home, and Hope for JonBenét Case
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Rob_Reiner_Son's_Alarming_Court_Appearance,_“Burn_Cage”_Found_in_D4vd’s_Home,_and_Hope_for_JonBenét.txt
+  Downloading: 2025 Memorable Moments: Matthew McConaughey, Charlie Kirk, Tulsi Gabbard, Andrew Schulz, Dave Portnoy, Tim Dillon
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_2025_Memorable_Moments_Matthew_McConaughey,_Charlie_Kirk,_Tulsi_Gabbard,_Andrew_Schulz,_Dave_Portnoy.txt
+  Downloading: The Minaj Moment, Vance vs Crockett, Creepy New Epstein Photos, and Charles Murray's Faith Journey
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_The_Minaj_Moment,_Vance_vs_Crockett,_Creepy_New_Epstein_Photos,_and_Charles_Murray's_Faith_Journey.txt
+  Downloading: Meghan Markle, Ryan Reynolds, Oprah and Others Compete with Fellow Offenders at The Nerve Awards!
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Meghan_Markle,_Ryan_Reynolds,_Oprah_and_Others_Compete_with_Fellow_Offenders_at_The_Nerve_Awards!.txt
+  Downloading: Top Political Soundbites of 2025, Trump's Israel and Tucker Friendships, and Life After a Pardon
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Top_Political_Soundbites_of_2025,_Trump's_Israel_and_Tucker_Friendships,_and_Life_After_a_Pardon.txt
+  Downloading: Megyn Kelly at Turning Point AmFest 2025: What's Really Behind the Rift on the Right, and the Truth About the Candace-Erika Summit
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Megyn_Kelly_at_Turning_Point_AmFest_2025_What's_Really_Behind_the_Rift_on_the_Right,_and_the_Truth_A.txt
+  Downloading: Redditor Helps Solve Brown U. Shooting Case, Tapper's Trump Health Sham, and Leftist Bullying, with Buck Sexton and Payton McNabb  |  Ep. 1217
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Redditor_Helps_Solve_Brown_U._Shooting_Case,_Tapper's_Trump_Health_Sham,_and_Leftist_Bullying,_with.txt
+  Downloading: Brown Shooting and MIT Murder Suspect Dead, HHS Takes on Child "Trans" Procedures: AM Update 12/19
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Brown_Shooting_and_MIT_Murder_Suspect_Dead,_HHS_Takes_on_Child_Trans_Procedures_AM_Update_12_19.txt
+  Downloading: AOC vs. Vance, Bongino Leaving FBI, and Coldplay "Kiss Cam" Woman Speaks Out, with Glenn Greenwald  |  Ep. 1216
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_AOC_vs._Vance,_Bongino_Leaving_FBI,_and_Coldplay_Kiss_Cam_Woman_Speaks_Out,_with_Glenn_Greenwald_Ep..txt
+  Downloading: Clinton Asked to Bring Epstein & Maxwell to Royal Wedding, Why Don't Cops Have Leads In Brown Univ Shooting?
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Clinton_Asked_to_Bring_Epstein_&_Maxwell_to_Royal_Wedding,_Why_Don't_Cops_Have_Leads_In_Brown_Univ_S.txt
+  Downloading: Nick Reiner Appears In Court, MIT Professor Murdered, FCC Chair Carr on the Hill: AM Update 12/18
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Nick_Reiner_Appears_In_Court,_MIT_Professor_Murdered,_FCC_Chair_Carr_on_the_Hill_AM_Update_12_18.txt
+  Downloading: Nick Reiner Defense Ahead, and Brown U. Shooter Inaction, with Arthur Aidala and Matt Murphy, and Leadership Traits with Dakota Meyer  |  Ep. 1215
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Nick_Reiner_Defense_Ahead,_and_Brown_U._Shooter_Inaction,_with_Arthur_Aidala_and_Matt_Murphy,_and_Le.txt
+  Downloading: New Phase of Brown U. Shooter Manhunt, Reiner Son Charged, Aussie Attack ISIS Link: AM Update 12/17
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_New_Phase_of_Brown_U._Shooter_Manhunt,_Reiner_Son_Charged,_Aussie_Attack_ISIS_Link_AM_Update_12_17.txt
+  Downloading: Megyn Reveals Her Candace and Erika Backstory, and Disturbing New Rob Reiner Son Details, with Ruthless  |  Ep. 1214
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Megyn_Reveals_Her_Candace_and_Erika_Backstory,_and_Disturbing_New_Rob_Reiner_Son_Details,_with_Ruthl.txt
+  Downloading: Disturbing Details Emerge After Reiner Son Arrested, New Pics of Brown U. Suspect: AM Update 12/16
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Disturbing_Details_Emerge_After_Reiner_Son_Arrested,_New_Pics_of_Brown_U._Suspect_AM_Update_12_16.txt
+  Downloading: Outrageous Actions After Brown University Shooting, and Rob Reiner's Son Arrested For His Murder, with Emily Jashinsky  |  Ep. 1213
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Outrageous_Actions_After_Brown_University_Shooting,_and_Rob_Reiner's_Son_Arrested_For_His_Murder,_wi.txt
+  Downloading: Rob Reiner Stabbed to Death, Brown "Person of Interest" Released, Aussie Terrorism: AM Update 12/15
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Rob_Reiner_Stabbed_to_Death,_Brown_Person_of_Interest_Released,_Aussie_Terrorism_AM_Update_12_15.txt
+  Downloading: Megyn Kelly on the Truth About the Charlie Kirk Assassination, Plus Dave Smith on Epstein, Israel, and Distrusting the Elites  |  Ep. 1212
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Megyn_Kelly_on_the_Truth_About_the_Charlie_Kirk_Assassination,_Plus_Dave_Smith_on_Epstein,_Israel,_a.txt
+  Downloading: Noem vs. Dems, Abrego Garcia Released For Now, Tyler Robinson Smiles in Court: AM Update 12/12
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Noem_vs._Dems,_Abrego_Garcia_Released_For_Now,_Tyler_Robinson_Smiles_in_Court_AM_Update_12_12.txt
+  Downloading: Time's Absurd "Person of the Year," Newsom's Inauthenticity, and America's Font Changes, with RealClearPolitics and Doug Brunt  |  Ep. 1211
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Time's_Absurd_Person_of_the_Year,_Newsom's_Inauthenticity,_and_America's_Font_Changes,_with_RealClea.txt
+  Downloading: SBA Fraud Probed, RFK Jr and Hegseth Targeted for Impeachment, In-N-Out Bans “6-7”: AM Update 12/11
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_SBA_Fraud_Probed,_RFK_Jr_and_Hegseth_Targeted_for_Impeachment,_In-N-Out_Bans_“6-7”_AM_Update_12_11.txt
+  Downloading: Hollywood Secrets, GOP Push to Get Crockett to Run, and Keys to Longevity, with Andrew Klavan and Gary Brecka  |  Ep. 1210
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Hollywood_Secrets,_GOP_Push_to_Get_Crockett_to_Run,_and_Keys_to_Longevity,_with_Andrew_Klavan_and_Ga.txt
+  Downloading: Trump Hits Back at MTG, Wind Farm Freeze Blocked, Court Backs Trans Military Ban: AM Update 12/10
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Trump_Hits_Back_at_MTG,_Wind_Farm_Freeze_Blocked,_Court_Backs_Trans_Military_Ban_AM_Update_12_10.txt
+  Downloading: Kamala Celebrates Herself, 1/6 Pipe Bomber Details, and Future of Film Industry, with Stu Burguiere and Zachary Levi  |  Ep. 1209
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Kamala_Celebrates_Herself,_1_6_Pipe_Bomber_Details,_and_Future_of_Film_Industry,_with_Stu_Burguiere.txt
+  Downloading: Jasmine Crockett Enters Senate Race, Paramount's Hostile Takeover, Mamdani's Mansion: AM Update 12/9
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Jasmine_Crockett_Enters_Senate_Race,_Paramount's_Hostile_Takeover,_Mamdani's_Mansion_AM_Update_12_9.txt
+  Downloading: Maddow's Smug Ignorance, Somali Fraud Story Grows, and Kimmel's Wife's Crying Trump Lies, with Walter Kirn  |  Ep. 1208
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Maddow's_Smug_Ignorance,_Somali_Fraud_Story_Grows,_and_Kimmel's_Wife's_Crying_Trump_Lies,_with_Walte.txt
+  Downloading: Somali Fraud Probe Widens, Infant Hep B Vax Guidance Changes, Netflix's WB Mega-Deal: AM Update 12/8
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Somali_Fraud_Probe_Widens,_Infant_Hep_B_Vax_Guidance_Changes,_Netflix's_WB_Mega-Deal_AM_Update_12_8.txt
+  Downloading: FBI Director Kash Patel Reveals NEW Details of Pipe Bomber Arrest, and Ongoing Mysteries, with John Solomon and Jim Fitzgerald  | Ep. 1207
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_FBI_Director_Kash_Patel_Reveals_NEW_Details_of_Pipe_Bomber_Arrest,_and_Ongoing_Mysteries,_with_John.txt
+  Downloading: Details on Alleged DC Pipe Bomber, NYU Assault Suspect's Past, Air India Crash Cause: AM Update 12/5
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Details_on_Alleged_DC_Pipe_Bomber,_NYU_Assault_Suspect's_Past,_Air_India_Crash_Cause_AM_Update_12_5.txt
+  Downloading: BREAKING: Alleged January 6 Pipe Bomber Arrested, and Trump on "Garbage" Somalia, with Michael Knowles and Julie Kelly  | Ep. 1206
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_BREAKING_Alleged_January_6_Pipe_Bomber_Arrested,_and_Trump_on_Garbage_Somalia,_with_Michael_Knowles.txt
+  Downloading: Bessent Slams NYT, DHS Crackdown in New Orleans, Doc Sentenced in Matthew Perry Case: AM Update 12/4
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Bessent_Slams_NYT,_DHS_Crackdown_in_New_Orleans,_Doc_Sentenced_in_Matthew_Perry_Case_AM_Update_12_4.txt
+  Downloading: Fani Willis Trump Case Done, COVID Bombshell, and Attacker Caught, with Chamath Palihapitiya, Dave Aronberg, Phil Holloway, and NYU Students  |  Ep. 1205
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Fani_Willis_Trump_Case_Done,_COVID_Bombshell,_and_Attacker_Caught,_with_Chamath_Palihapitiya,_Dave_A.txt
+  Downloading: Hegseth and Trump Talk Strikes, GOP Wins Seat, Dell’s "Trump Accounts" Billions: AM Update 12/3
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Hegseth_and_Trump_Talk_Strikes,_GOP_Wins_Seat,_Dell’s_Trump_Accounts_Billions_AM_Update_12_3.txt
+  Downloading: "Second Strike" Narrative Falls Apart, Kash Patel Responds, and How To Be a Man, with Rich Lowry, Charles Cooke, Elliot Ackerman, and Bryan Cox  |  Ep. 1204
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Second_Strike_Narrative_Falls_Apart,_Kash_Patel_Responds,_and_How_To_Be_a_Man,_with_Rich_Lowry,_Char.txt
+  Downloading: Kash Patel Responds Exclusively, WH Defends Boat Strike, Luigi Mangione in Court: AM Update 12/2
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Kash_Patel_Responds_Exclusively,_WH_Defends_Boat_Strike,_Luigi_Mangione_in_Court_AM_Update_12_2.txt
+  Downloading: Real Story Behind Hegseth "Double Tap" Reporting, and Katie Miller vs. Abby Phillip Throwdown, with Mark Halperin  |  Ep. 1203
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Real_Story_Behind_Hegseth_Double_Tap_Reporting,_and_Katie_Miller_vs._Abby_Phillip_Throwdown,_with_Ma.txt
+  Downloading: Trump's "Permanent Pause" After DC Attack, Alleged "Second Strike" Under Scrutiny: AM Update 12/1
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Trump's_Permanent_Pause_After_DC_Attack,_Alleged_Second_Strike_Under_Scrutiny_AM_Update_12_1.txt
+  Downloading: Tucker, Shapiro, Don Jr., Erika Kirk and More - Megyn Kelly Looks Back at Memorable Tour Moments
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Tucker,_Shapiro,_Don_Jr.,_Erika_Kirk_and_More_-_Megyn_Kelly_Looks_Back_at_Memorable_Tour_Moments.txt
+  Downloading: MTG Quits, Markle's False Narrative, and Woke Remnants, with Maureen Callahan, Jillian Michaels, and The Fifth Column  |  Ep. 1202
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_MTG_Quits,_Markle's_False_Narrative,_and_Woke_Remnants,_with_Maureen_Callahan,_Jillian_Michaels,_and.txt
+  Downloading: FBI Probes ‘Seditious 6’ Over Military Video, Male Competitor Wins Women’s Title: AM Update 11/26
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_FBI_Probes_‘Seditious_6’_Over_Military_Video,_Male_Competitor_Wins_Women’s_Title_AM_Update_11_26.txt
+  Downloading: What Happens Now with Comey and Letitia, Absurd Couric Comments, and J.Lo’s Revealing Outfit, w/ Aronberg, Davis, and Benny Johnson  |  Ep. 1201
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_What_Happens_Now_with_Comey_and_Letitia,_Absurd_Couric_Comments,_and_J.Lo’s_Revealing_Outfit,_w_Aron.txt
+  Downloading: Judge Dismisses Comey and James Cases, Pentagon Investigating Sen. Mark Kelly: AM Update 11/25
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Judge_Dismisses_Comey_and_James_Cases,_Pentagon_Investigating_Sen._Mark_Kelly_AM_Update_11_25.txt
+  Downloading: Erika Kirk on Continuing Charlie's Mission, Marriage Advice, and Power of Prayer, Plus Walter Kirn on UFOs and TDS  |  Ep. 1200
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Erika_Kirk_on_Continuing_Charlie's_Mission,_Marriage_Advice,_and_Power_of_Prayer,_Plus_Walter_Kirn_o.txt
+  Downloading: Mamdani-Trump WH Bromance, MTG Resigns from Congress, MN Somali Fraud Allegations: AM Update 11/24
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Mamdani-Trump_WH_Bromance,_MTG_Resigns_from_Congress,_MN_Somali_Fraud_Allegations_AM_Update_11_24.txt
+  Downloading: Disaffected Young Men, Michelle Obama's Hair Complaints, and Embracing the Right - Charlie Sheen, VDH, and Jack Posobiec at MK Live  |  Ep. 1199
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Disaffected_Young_Men,_Michelle_Obama's_Hair_Complaints,_and_Embracing_the_Right_-_Charlie_Sheen,_VD.txt
+  Downloading: Democrat Rep Charged with FEMA Fraud, Trump vs Dems on Hypothetical "Illegal Order": AM Update 11/21
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Democrat_Rep_Charged_with_FEMA_Fraud,_Trump_vs_Dems_on_Hypothetical_Illegal_Order_AM_Update_11_21.txt
+  Downloading: Exclusive Comey Case Details, and Cringe Meghan Markle Profile, with Link Lauren, Eiglarsh, Holloway, and Merchant  |  Ep. 1198
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Exclusive_Comey_Case_Details,_and_Cringe_Meghan_Markle_Profile,_with_Link_Lauren,_Eiglarsh,_Holloway.txt
+  Downloading: Trump Signs Epstein Bill, MBS and Elon Visit White House, Comey Case in Jeopardy: AM Update 11/20
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Trump_Signs_Epstein_Bill,_MBS_and_Elon_Visit_White_House,_Comey_Case_in_Jeopardy_AM_Update_11_20.txt
+  Downloading: Dems Urge Military to Ignore Orders, and Couric's Charlie Kirk Smear, with Buck Sexton, Andrew Kolvet, and Blake Neff  |  Ep. 1197
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Dems_Urge_Military_to_Ignore_Orders,_and_Couric's_Charlie_Kirk_Smear,_with_Buck_Sexton,_Andrew_Kolve.txt
+  Downloading: Epstein Files Release Passes Congress, Nicki Minaj at UN Over Christian Persecution: AM Update 11/19
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Epstein_Files_Release_Passes_Congress,_Nicki_Minaj_at_UN_Over_Christian_Persecution_AM_Update_11_19.txt
+  Downloading: The Nuzzi-RFK Drama, Attacking Tucker's Son to Smear Vance, and New Cancel Culture, with Emily Jashinsky  |  Ep. 1196
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_The_Nuzzi-RFK_Drama,_Attacking_Tucker's_Son_to_Smear_Vance,_and_New_Cancel_Culture,_with_Emily_Jashi.txt
+  Downloading: Charlotte Immigration Crackdown, Trump Eyes Venezuela, Major Update in Comey Case: AM Update 11/18
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Charlotte_Immigration_Crackdown,_Trump_Eyes_Venezuela,_Major_Update_in_Comey_Case_AM_Update_11_18.txt
+  Downloading: New Bombshell Would-Be Trump Assassin Reporting, Attacks on Vance, and MTG's CNN Apology, with Glenn Greenwald  |  Ep. 1195
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_New_Bombshell_Would-Be_Trump_Assassin_Reporting,_Attacks_on_Vance,_and_MTG's_CNN_Apology,_with_Glenn.txt
+  Downloading: MAGA Fractures Over Epstein, Fetterman Gets 20 Stitches, Newsom Eyes 2028: AM Update 11/17
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_MAGA_Fractures_Over_Epstein,_Fetterman_Gets_20_Stitches,_Newsom_Eyes_2028_AM_Update_11_17.txt
+  Downloading: Fighting the Establishment in DC, and Why Woke Lost - Piers Morgan, Eric Trump, Calley Means - "Megyn Kelly Live"  |  Ep. 1194
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Fighting_the_Establishment_in_DC,_and_Why_Woke_Lost_-_Piers_Morgan,_Eric_Trump,_Calley_Means_-_Megyn.txt
+  Downloading: Epstein Files Vote Coming, Comey and James Want Dismissal, BBC Apologizes to Trump: AM Update 11/14
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Epstein_Files_Vote_Coming,_Comey_and_James_Want_Dismissal,_BBC_Apologizes_to_Trump_AM_Update_11_14.txt
+  Downloading: New Details About Epstein's REAL Associations, and Meghan Deleted From Kardashian Pics, with Maureen Callahan  |  Ep. 1193
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_New_Details_About_Epstein's_REAL_Associations,_and_Meghan_Deleted_From_Kardashian_Pics,_with_Maureen.txt
+  Downloading: Shutdown Ends and Government Opens, Geomagnetic Storm Danger, JFK Grandson Running: AM Update 11/13
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Shutdown_Ends_and_Government_Opens,_Geomagnetic_Storm_Danger,_JFK_Grandson_Running_AM_Update_11_13.txt
+  Downloading: Dems Try to Smear Trump with Epstein Emails, and Culture Shift Right, with Batya Ungar-Sargon and Barry Morgenstein  |  Ep. 1192
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Dems_Try_to_Smear_Trump_with_Epstein_Emails,_and_Culture_Shift_Right,_with_Batya_Ungar-Sargon_and_Ba.txt
+  Downloading: Real Story Behind Russiagate Subpoenas, 50-Year Mortgage Backlash, Letitia Drama: AM Update 11/12
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Real_Story_Behind_Russiagate_Subpoenas,_50-Year_Mortgage_Backlash,_Letitia_Drama_AM_Update_11_12.txt
+  Downloading: The Truth About Tucker and Charlie Kirk, Egregious BBC Lie, and Violent Antifa vs. Turning Point, with Stu Burguiere  |  Ep. 1191
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_The_Truth_About_Tucker_and_Charlie_Kirk,_Egregious_BBC_Lie,_and_Violent_Antifa_vs._Turning_Point,_wi.txt
+  Downloading: Schumer Facing Dem Revolt, Trump Pardons "Alternate Electors," BBC Edit Fallout: AM Update 11/11
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Schumer_Facing_Dem_Revolt,_Trump_Pardons_Alternate_Electors,_BBC_Edit_Fallout_AM_Update_11_11.txt
+  Downloading: Elitist Colbert, Shutdown Politics, and Epstein and Israel - "Megyn Kelly Live" with Adam Carolla, MTG, John Rich, Lowry and Cooke  |  Ep. 1190
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Elitist_Colbert,_Shutdown_Politics,_and_Epstein_and_Israel_-_Megyn_Kelly_Live_with_Adam_Carolla,_MTG.txt
+  Downloading: Shutdown Nears End Amid Nationwide Airport Chaos, Push to Nuke Filibuster Grows: AM Update 11/10
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Shutdown_Nears_End_Amid_Nationwide_Airport_Chaos,_Push_to_Nuke_Filibuster_Grows_AM_Update_11_10.txt
+  Downloading: Ben Shapiro Responds to Tucker Carlson, Plus Sydney Sweeney and Newsom, with Michael Knowles and Andrew Klavan - "Megyn Kelly Live" in FL  |  Ep. 1189
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Ben_Shapiro_Responds_to_Tucker_Carlson,_Plus_Sydney_Sweeney_and_Newsom,_with_Michael_Knowles_and_And.txt
+  Downloading: 3 Arrests Linked to ISIS-Inspired Plot, FAA Reducing Flights, Pelosi to Retire: AM Update 11/7
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_3_Arrests_Linked_to_ISIS-Inspired_Plot,_FAA_Reducing_Flights,_Pelosi_to_Retire_AM_Update_11_7.txt
+  Downloading: Tucker Carlson on Interviewing Fuentes, America First, and Demons and UFOs - "Megyn Kelly Live" From New York  |  Ep. 1188
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Tucker_Carlson_on_Interviewing_Fuentes,_America_First,_and_Demons_and_UFOs_-_Megyn_Kelly_Live_From_N.txt
+  Downloading: Trump Calls to End Filibuster, Plane Crash Death Toll Rises, SCOTUS Hears Tariffs: AM Update 11/6
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Trump_Calls_to_End_Filibuster,_Plane_Crash_Death_Toll_Rises,_SCOTUS_Hears_Tariffs_AM_Update_11_6.txt
+  Downloading: Lessons For GOP From Crushing Losses, and Mamdani's Alarming Promises, with Sid Rosenberg and RealClearPolitics  |  Ep. 1187
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Lessons_For_GOP_From_Crushing_Losses,_and_Mamdani's_Alarming_Promises,_with_Sid_Rosenberg_and_RealCl.txt
+  Downloading: Mamdani Defeats Cuomo, Sherrill's Big NJ Win, VA Democrats Sweep Gov and AG: AM Update 11/5
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Mamdani_Defeats_Cuomo,_Sherrill's_Big_NJ_Win,_VA_Democrats_Sweep_Gov_and_AG_AM_Update_11_5.txt
+  Downloading: Dangers of Mamdani, Shapiro vs. Tucker, and the Strong Case Against Comey, with Matt Walsh and Victor Davis Hanson  |  Ep. 1186
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Dangers_of_Mamdani,_Shapiro_vs._Tucker,_and_the_Strong_Case_Against_Comey,_with_Matt_Walsh_and_Victo.txt
+  Downloading: Mamdani's Election Lead, Trump Warns Nigeria To Protect Christians From Islamists: AM Update 11/4
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Mamdani's_Election_Lead,_Trump_Warns_Nigeria_To_Protect_Christians_From_Islamists_AM_Update_11_4.txt
+  Downloading: Trump Storms 60, Michelle's Racial Complaints, and Legit Case Against Letitia James, with Walter Kirn and Sam Antar  |  Ep. 1185
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Trump_Storms_60,_Michelle's_Racial_Complaints,_and_Legit_Case_Against_Letitia_James,_with_Walter_Kir.txt
+  Downloading: Obama Hits Trail For Dems in Tight Races, Halloween Terror Plot, Another UK Stabbing: AM Update 11/3
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Obama_Hits_Trail_For_Dems_in_Tight_Races,_Halloween_Terror_Plot,_Another_UK_Stabbing_AM_Update_11_3.txt
+  Downloading: Crockett's Identity Theft, Vance's Dominance, and Death of Legacy Media - Link Lauren, Mark Halperin, and Glenn Beck at "Megyn Kelly Live"  |  Ep. 1184
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Crockett's_Identity_Theft,_Vance's_Dominance,_and_Death_of_Legacy_Media_-_Link_Lauren,_Mark_Halperin.txt
+  Downloading: NJ Gov Race Neck-and-Neck, US Nuclear Testing Resumes, Trump Meets Xi Jinping: AM Update 10/31
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_NJ_Gov_Race_Neck-and-Neck,_US_Nuclear_Testing_Resumes,_Trump_Meets_Xi_Jinping_AM_Update_10_31.txt
+  Downloading: Vance and Erika Shine at TP, Kamala Whiffs, and Turning NJ Red, with Allie Beth Stuckey and Jack Ciattarelli  |  Ep. 1183
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Vance_and_Erika_Shine_at_TP,_Kamala_Whiffs,_and_Turning_NJ_Red,_with_Allie_Beth_Stuckey_and_Jack_Cia.txt
+  Downloading: Shocking Jack Smith Doc Dump as Scandal Grows, CBS News Shakeup, Missing Monkeys: AM Update 10/30
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Shocking_Jack_Smith_Doc_Dump_as_Scandal_Grows,_CBS_News_Shakeup,_Missing_Monkeys_AM_Update_10_30.txt
+  Downloading: Newsom Backtracks on Grace For Charlie Kirk, and Dangers of ChatGPT, with Rich Lowry, and Adam Raine's Parents  |  Ep. 1182
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Newsom_Backtracks_on_Grace_For_Charlie_Kirk,_and_Dangers_of_ChatGPT,_with_Rich_Lowry,_and_Adam_Raine.txt
+  Downloading: Bill Gates' Shocking Climate Change Shift, Autopen Report Drops, Trump Files Appeal: AM Update 10/29
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Bill_Gates'_Shocking_Climate_Change_Shift,_Autopen_Report_Drops,_Trump_Files_Appeal_AM_Update_10_29.txt
+  Downloading: Smoking Gun Biden Cover-Up Admission, Brutal KJP Interview, and Zohran's "Aunt" Lie, with Ruthless Podcast  |  Ep. 1181
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Smoking_Gun_Biden_Cover-Up_Admission,_Brutal_KJP_Interview,_and_Zohran's_Aunt_Lie,_with_Ruthless_Pod.txt
+  Downloading: Man Arrested Over AG Bondi Threat, Jamaica Braces for Storm, Trump on 3rd Term: AM Update 10/28
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Man_Arrested_Over_AG_Bondi_Threat,_Jamaica_Braces_for_Storm,_Trump_on_3rd_Term_AM_Update_10_28.txt
+  Downloading: Glenn Greenwald and Emily Jashinsky - "Megyn Kelly Live" from San Antonio, on No Team Jerseys, Israel, and the Left's Obsession with Race | Ep. 1180
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Glenn_Greenwald_and_Emily_Jashinsky_-_Megyn_Kelly_Live_from_San_Antonio,_on_No_Team_Jerseys,_Israel,.txt
+  Downloading: Trump's Major Asia Trip, Jeffries Finally Endorses Mamdani, Louvre Heist Arrests: AM Update 10/27
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Trump's_Major_Asia_Trip,_Jeffries_Finally_Endorses_Mamdani,_Louvre_Heist_Arrests_AM_Update_10_27.txt
+  Downloading: Donald Trump Jr. and Jesse Kelly - "Megyn Kelly Live" From Texas, on Speaking Truth and Staying in the Fight | Ep 1179
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Donald_Trump_Jr._and_Jesse_Kelly_-_Megyn_Kelly_Live_From_Texas,_on_Speaking_Truth_and_Staying_in_the.txt
+  Downloading: FBI's Shocking NBA Gambling Bust, Trump's Cartel Roundtable, Adams Endorses Cuomo: AM Update 10/24
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_FBI's_Shocking_NBA_Gambling_Bust,_Trump's_Cartel_Roundtable,_Adams_Endorses_Cuomo_AM_Update_10_24.txt
+  Downloading: Megyn Kelly Makes the Reluctant Case For Cuomo, and Winsome Earle-Sears on the Racism and Misogyny of the Left  |  Ep. 1178
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Megyn_Kelly_Makes_the_Reluctant_Case_For_Cuomo,_and_Winsome_Earle-Sears_on_the_Racism_and_Misogyny_o.txt
+  Downloading: Trump Wants Biden-Era Prosecution Damages From DOJ, Ballroom Outrage, Antifa Update: AM Update 10/23
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Trump_Wants_Biden-Era_Prosecution_Damages_From_DOJ,_Ballroom_Outrage,_Antifa_Update_AM_Update_10_23.txt
+  Downloading: Cuomo's Failed Zohran Strategy, Platner Oppo Dump, and KJP's Only Line, with Mark Halperin, Sean Spicer, and Dan Turrentine  |  Ep. 1177
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Cuomo's_Failed_Zohran_Strategy,_Platner_Oppo_Dump,_and_KJP's_Only_Line,_with_Mark_Halperin,_Sean_Spi.txt
+  Downloading: Trump Sets GOP Agenda, DOGE Staffer Assault Arrests, Brennan Referred to DOJ: AM Update 10/22
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Trump_Sets_GOP_Agenda,_DOGE_Staffer_Assault_Arrests,_Brennan_Referred_to_DOJ_AM_Update_10_22.txt
+  Downloading: Karine Jean-Pierre Undermines Her Entire Book, Ghouls at "No Kings," and Wind Farm Danger, with Stu Burguiere and Rep. Van Drew  |  Ep. 1176
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Karine_Jean-Pierre_Undermines_Her_Entire_Book,_Ghouls_at_No_Kings,_and_Wind_Farm_Danger,_with_Stu_Bu.txt
+  Downloading: Trump's National Guard Victory, Real Story Behind Drug Boat Strikes, KJP on Tour: AM Update 10/21
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Trump's_National_Guard_Victory,_Real_Story_Behind_Drug_Boat_Strikes,_KJP_on_Tour_AM_Update_10_21.txt
+  Downloading: Vile "No Kings" Protesters, Hilarious Anti-Trump Boomers, and KJP Begins Book Tour, with Emily Jashinsky  |  Ep. 1175
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Vile_No_Kings_Protesters,_Hilarious_Anti-Trump_Boomers,_and_KJP_Begins_Book_Tour,_with_Emily_Jashins.txt
+  Downloading: "No Kings" Money Trail, Gaza Latest, Wild Louvre Jewelry Heist, Trump Frees Santos: AM Update 10/20
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_No_Kings_Money_Trail,_Gaza_Latest,_Wild_Louvre_Jewelry_Heist,_Trump_Frees_Santos_AM_Update_10_20.txt
+  Downloading: Mamdani vs. Cuomo, Michelle Obama's New Whining, and Bombshell UFO Reporting, with Victor Davis Hanson | Ep 1174
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Mamdani_vs._Cuomo,_Michelle_Obama's_New_Whining,_and_Bombshell_UFO_Reporting,_with_Victor_Davis_Hans.txt
+  Downloading: John Bolton Indicted, Jack Smith Speaks Out, Jay Jones Addresses Violent Texts: AM Update 10/17
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_John_Bolton_Indicted,_Jack_Smith_Speaks_Out,_Jay_Jones_Addresses_Violent_Texts_AM_Update_10_17.txt
+  Downloading: AOC and Bernie's Wild Town Hall, Mamdani Clams Up, and Victoria's Secret is Back, with The Fifth Column  |  Ep. 1173
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_AOC_and_Bernie's_Wild_Town_Hall,_Mamdani_Clams_Up,_and_Victoria's_Secret_is_Back,_with_The_Fifth_Col.txt
+  Downloading: Trump Highlights National Crime Crackdown, SCOTUS Revisits Voting Rights Act: AM Update 10/16
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Trump_Highlights_National_Crime_Crackdown,_SCOTUS_Revisits_Voting_Rights_Act_AM_Update_10_16.txt
+  Downloading: Charlie Kirk's Legacy of Compassion, and Kamala and Katie Porter's Inauthenticity, with Jack Posobiec and Ana Kasparian  |  Ep. 1172
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Charlie_Kirk's_Legacy_of_Compassion,_and_Kamala_and_Katie_Porter's_Inauthenticity,_with_Jack_Posobie.txt
+  Downloading: Perilous Israel-Hamas Deal, Charlie Kirk Awarded Medal of Freedom, Memphis Success: AM Update 10/15
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Perilous_Israel-Hamas_Deal,_Charlie_Kirk_Awarded_Medal_of_Freedom,_Memphis_Success_AM_Update_10_15.txt
+  Downloading: Free Speech Crackdowns, Immigrant Crime, and When Diversity Isn't Our Strength, with Will Kingston  |  Ep. 1171
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Free_Speech_Crackdowns,_Immigrant_Crime,_and_When_Diversity_Isn't_Our_Strength,_with_Will_Kingston_E.txt
+  Downloading: Trump Leads Middle East Peace Summit, VA Governor's Race Tightens, Wild Weather: AM Update 10/14
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Trump_Leads_Middle_East_Peace_Summit,_VA_Governor's_Race_Tightens,_Wild_Weather_AM_Update_10_14.txt
+  Downloading: Trump's Miraculous and Historic Hostage Deal, with Batya Ungar-Sargon, and Cheryl Hines on Smears of RFK Jr.  |  Ep. 1170
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Trump's_Miraculous_and_Historic_Hostage_Deal,_with_Batya_Ungar-Sargon,_and_Cheryl_Hines_on_Smears_of.txt
+  Downloading: Trump's Historic Middle East Summit, National Guard and Chicago, Biden's Cancer: AM Update 10/13
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Trump's_Historic_Middle_East_Summit,_National_Guard_and_Chicago,_Biden's_Cancer_AM_Update_10_13.txt
+  Downloading: Personal Impact of Anti-Trump Lawfare, and New Katie Porter Berating Staff Videos, with Eric Trump and Walter Kirn | Ep 1169
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Personal_Impact_of_Anti-Trump_Lawfare,_and_New_Katie_Porter_Berating_Staff_Videos,_with_Eric_Trump_a.txt
+  Downloading: Letitia James Indicted, Trump Talks Nobel Peace Prize, Memphis Crime Crackdown: AM Update 10/10
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Letitia_James_Indicted,_Trump_Talks_Nobel_Peace_Prize,_Memphis_Crime_Crackdown_AM_Update_10_10.txt
+  Downloading: Trump Brings Peace Between Israel and Hamas, and Potential Cancer Cure, with Buck Sexton and Dr. Patrick Soon-Shiong  |  Ep.1168
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Trump_Brings_Peace_Between_Israel_and_Hamas,_and_Potential_Cancer_Cure,_with_Buck_Sexton_and_Dr._Pat.txt
+  Downloading: Trump Spearheads Israel-Hamas Peace Deal, Comey in Court, CA Arson Suspect Arrested: AM Update 10/9
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Trump_Spearheads_Israel-Hamas_Peace_Deal,_Comey_in_Court,_CA_Arson_Suspect_Arrested_AM_Update_10_9.txt
+  Downloading: Katie Porter's Interview Meltdown, AOC's "Body-Shaming," and the Truth About Biden Corruption, with Link Lauren and Ken Vogel  |  Ep. 1167
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Katie_Porter's_Interview_Meltdown,_AOC's_Body-Shaming,_and_the_Truth_About_Biden_Corruption,_with_Li.txt
+  Downloading: SCOTUS Hears "Affirm Only" Therapy Arguments, AG Bondi Clashes with Dems over DOJ: AM Update 10/8
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_SCOTUS_Hears_Affirm_Only_Therapy_Arguments,_AG_Bondi_Clashes_with_Dems_over_DOJ_AM_Update_10_8.txt
+  Downloading: Left Falsely Blames Right For House Fire, and Data Privacy Issues, with Rich Lowry, Charles C.W. Cooke, Erik Prince, and Joe Weil  |  Ep. 1166
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Left_Falsely_Blames_Right_For_House_Fire,_and_Data_Privacy_Issues,_with_Rich_Lowry,_Charles_C.W._Coo.txt
+  Downloading: Judge Allows National Guard In Chicago for Now, Israel and Hamas Negotiate in Egypt: AM Update 10/7
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Judge_Allows_National_Guard_In_Chicago_for_Now,_Israel_and_Hamas_Negotiate_in_Egypt_AM_Update_10_7.txt
+  Downloading: Disturbing Dem AG Candidate Texts, Soft Sentence For Attempted Kavanaugh Assassin, and the Left's Drift Toward Violence  |  Ep. 1165
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Disturbing_Dem_AG_Candidate_Texts,_Soft_Sentence_For_Attempted_Kavanaugh_Assassin,_and_the_Left's_Dr.txt
+  Downloading: Shocking Dem AG Candidate Texts, Light Sentence For Attempted Kavanaugh Assassin: AM Update 10/6
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Shocking_Dem_AG_Candidate_Texts,_Light_Sentence_For_Attempted_Kavanaugh_Assassin_AM_Update_10_6.txt
+  Downloading: Megyn Kelly Fact-Checks the Unfair and False Attacks on Charlie Kirk's Past Comments About Race and Gender  |  Ep. 1164
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Megyn_Kelly_Fact-Checks_the_Unfair_and_False_Attacks_on_Charlie_Kirk's_Past_Comments_About_Race_and.txt
+  Downloading: Diddy Sentencing, Robinson Death Penalty Potential, and D4vd Trunk Mystery, with MK True Crime Contributors  |  Ep. 1163
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Diddy_Sentencing,_Robinson_Death_Penalty_Potential,_and_D4vd_Trunk_Mystery,_with_MK_True_Crime_Contr.txt
+  Downloading: Trump Weighs Government Shutdown Cuts, Delta Planes Collide, UK Terror Attack: AM Update 10/3
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Trump_Weighs_Government_Shutdown_Cuts,_Delta_Planes_Collide,_UK_Terror_Attack_AM_Update_10_3.txt
+  Downloading: Left Losing Meme War, Chelsea Clinton's Pod, and How AI Helps Scammers, with RealClearPolitics Hosts and Eric O'Neill  |  Ep. 1162
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Left_Losing_Meme_War,_Chelsea_Clinton's_Pod,_and_How_AI_Helps_Scammers,_with_RealClearPolitics_Hosts.txt
+  Downloading: National Guard to Memphis and Portland, SCOTUS Takes Cook Case, Vance on Memes: AM Update 10/2
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_National_Guard_to_Memphis_and_Portland,_SCOTUS_Takes_Cook_Case,_Vance_on_Memes_AM_Update_10_2.txt
+  Downloading: Dems Mad at Memes, Lemon and Reid's Racialized Crime Comments, and Michelle Can't Stand Barack, with Glenn Greenwald  |  Ep. 1161
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Dems_Mad_at_Memes,_Lemon_and_Reid's_Racialized_Crime_Comments,_and_Michelle_Can't_Stand_Barack,_with.txt
+  Downloading: Trump's Major Deal with Pfizer, GOP vs Dems on Crime, YouTube Settles with Trump: AM Update 10/1
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Trump's_Major_Deal_with_Pfizer,_GOP_vs_Dems_on_Crime,_YouTube_Settles_with_Trump_AM_Update_10_1.txt
+  Downloading: Hegseth vs. "Fat" Generals, and Coates' Hateful Lies About Charlie Kirk, with Stu Burguiere, Britt Mayer, and Will Witt  |  Ep. 1160
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Hegseth_vs._Fat_Generals,_and_Coates'_Hateful_Lies_About_Charlie_Kirk,_with_Stu_Burguiere,_Britt_May.txt
+  Downloading: New Details About Mormon Church Suspect, Trump and Netanyahu Unveil Gaza Peace Plan: AM Update 9/30
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_New_Details_About_Mormon_Church_Suspect,_Trump_and_Netanyahu_Unveil_Gaza_Peace_Plan_AM_Update_9_30.txt
+  Downloading: Trump Sends National Guard to Portland, and Unhinged Leftist Reaction, with Michael Shellenberger and Leland Vittert  |  Ep. 1159
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Trump_Sends_National_Guard_to_Portland,_and_Unhinged_Leftist_Reaction,_with_Michael_Shellenberger_an.txt
+  Downloading: New Details on Comey Indictment, Deadly Mormon Church Attack, Mayor Adams Drops Out: AM Update 9/29
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_New_Details_on_Comey_Indictment,_Deadly_Mormon_Church_Attack,_Mayor_Adams_Drops_Out_AM_Update_9_29.txt
+  Downloading: Comey Indicted, Kamala Word Salad, and Hoda Kotb's Inane Book, with Maureen Callahan, Dave Aronberg, Mike Davis, and John Solomon | Ep 1158
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Comey_Indicted,_Kamala_Word_Salad,_and_Hoda_Kotb's_Inane_Book,_with_Maureen_Callahan,_Dave_Aronberg,.txt
+  Downloading: James Comey Indicted, Trump Paves Way for American TikTok Deal, NJ Gov Race Tightens: AM Update 9/26
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_James_Comey_Indicted,_Trump_Paves_Way_for_American_TikTok_Deal,_NJ_Gov_Race_Tightens_AM_Update_9_26.txt
+  Downloading: Kimmel's Smug Double Down, Violent Left Rhetoric, and Free Speech Hypocrisy, with Emily Jashinsky and Eliana Johnson  |  Ep. 1157
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Kimmel's_Smug_Double_Down,_Violent_Left_Rhetoric,_and_Free_Speech_Hypocrisy,_with_Emily_Jashinsky_an.txt
+  Downloading: Deadly Shooting at Dallas ICE Facility, FBI Seized "Classified" Docs in Bolton Raid: AM Update 9/25
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Deadly_Shooting_at_Dallas_ICE_Facility,_FBI_Seized_Classified_Docs_in_Bolton_Raid_AM_Update_9_25.txt
+  Downloading: Matthew McConaughey on Leaving Hollywood, Raising Kids with a Strong Foundation, and the Power of Faith  |  Ep. 1156
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Matthew_McConaughey_on_Leaving_Hollywood,_Raising_Kids_with_a_Strong_Foundation,_and_the_Power_of_Fa.txt
+  Downloading: Trump Torches UN In Front of World Leaders, Routh Guilty, Kamala Back on The View: AM Update 9/24
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Trump_Torches_UN_In_Front_of_World_Leaders,_Routh_Guilty,_Kamala_Back_on_The_View_AM_Update_9_24.txt
+  Downloading: Charlie Kirk "Curse," ABC Affiliates vs. Kimmel, and Kamala's Disastrous Book Tour Begins, with Mark Halperin  |  Ep. 1155
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Charlie_Kirk_Curse,_ABC_Affiliates_vs._Kimmel,_and_Kamala's_Disastrous_Book_Tour_Begins,_with_Mark_H.txt
+  Downloading: Trump's Bombshell Autism Announcement, Kimmel Is Already Back, Kamala Book Backlash: AM Update 9/23
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Trump's_Bombshell_Autism_Announcement,_Kimmel_Is_Already_Back,_Kamala_Book_Backlash_AM_Update_9_23.txt
+  Downloading: Charlie Kirk's Incredibly Moving Memorial, the Power of Forgiveness, and Van Jones' Smear, with Michael Knowles  |  Ep. 1154
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Charlie_Kirk's_Incredibly_Moving_Memorial,_the_Power_of_Forgiveness,_and_Van_Jones'_Smear,_with_Mich.txt
+  Downloading: Charlie Kirk's Powerful Memorial, Ilhan Omar Doubles Down, Shooting at ABC Affiliate: AM Update 9/22
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Charlie_Kirk's_Powerful_Memorial,_Ilhan_Omar_Doubles_Down,_Shooting_at_ABC_Affiliate_AM_Update_9_22.txt
+  Downloading: Jimmy Kimmel and Sore Cultural Losers, and Charlie Kirk's Spiritual Revival, with Steve Bannon and Frank Turek | Ep. 1153
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Jimmy_Kimmel_and_Sore_Cultural_Losers,_and_Charlie_Kirk's_Spiritual_Revival,_with_Steve_Bannon_and_F.txt
+  Downloading: DC Mayor in Hot Seat, Trump Slams Kimmel, VA Boys File Suit in Locker Room Fight: AM Update 9/19
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_DC_Mayor_in_Hot_Seat,_Trump_Slams_Kimmel,_VA_Boys_File_Suit_in_Locker_Room_Fight_AM_Update_9_19.txt
+  Downloading: Megyn Kelly Hosts The Charlie Kirk Show - On Charlie's Legacy, Kimmel Sidelined, and What Comes Next  |  Ep. 1152
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Megyn_Kelly_Hosts_The_Charlie_Kirk_Show_-_On_Charlie's_Legacy,_Kimmel_Sidelined,_and_What_Comes_Next.txt
+  Downloading: Jimmy Kimmel Pulled Indefinitely, Fired CDC Chief Testifies, Trump Honored in UK: AM Update 9/18
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Jimmy_Kimmel_Pulled_Indefinitely,_Fired_CDC_Chief_Testifies,_Trump_Honored_in_UK_AM_Update_9_18.txt
+  Downloading: Media Gaslights on Alleged Shooter's Motivations, and Charlie Kirk's Legacy, with Victor Davis Hanson  |  Ep. 1151
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Media_Gaslights_on_Alleged_Shooter's_Motivations,_and_Charlie_Kirk's_Legacy,_with_Victor_Davis_Hanso.txt
+  Downloading: Alleged Kirk Assassin Charged With Seven Counts, Patel vs. Dems in Combative Hearing: AM Update 9/17
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Alleged_Kirk_Assassin_Charged_With_Seven_Counts,_Patel_vs._Dems_in_Combative_Hearing_AM_Update_9_17.txt
+  Downloading: Cultural Decay Leading to Left Celebrating Violence, and Defining "Hate Speech," with The Fifth Column  |  Ep. 1150
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Cultural_Decay_Leading_to_Left_Celebrating_Violence,_and_Defining_Hate_Speech,_with_The_Fifth_Column.txt
+  Downloading: Alleged Kirk Assassin May Have Confessed Online, National Guard Heading to Memphis: AM Update 9/16
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Alleged_Kirk_Assassin_May_Have_Confessed_Online,_National_Guard_Heading_to_Memphis_AM_Update_9_16.txt
+  Downloading: Dan Bongino on Status of Charlie Kirk Assassin Investigation, Plus, Cultural Decline, with Mark Halperin, Emily Jashinsky, and Peter Navarro  |  Ep. 1149
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Dan_Bongino_on_Status_of_Charlie_Kirk_Assassin_Investigation,_Plus,_Cultural_Decline,_with_Mark_Halp.txt
+  Downloading: Alleged Kirk Assassin's Ideology and Connections, Erika Continuing Charlie's Mission: AM Update 9/15
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Alleged_Kirk_Assassin's_Ideology_and_Connections,_Erika_Continuing_Charlie's_Mission_AM_Update_9_15.txt
+  Downloading: Remembering Charlie Kirk Through His Memorable Appearances on The Megyn Kelly Show Through the Years
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Remembering_Charlie_Kirk_Through_His_Memorable_Appearances_on_The_Megyn_Kelly_Show_Through_the_Years.txt
+  Downloading: Charlie Sheen on Getting Sober, the Highs and Lows of Fame, and Mending Relationships With Family | Ep. 1148
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Charlie_Sheen_on_Getting_Sober,_the_Highs_and_Lows_of_Fame,_and_Mending_Relationships_With_Family_Ep.txt
+  Downloading: Charlie Kirk's Alleged Assassin Taken Into Custody, and Remembering His Incredible Life and Legacy | Ep. 1147
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Charlie_Kirk's_Alleged_Assassin_Taken_Into_Custody,_and_Remembering_His_Incredible_Life_and_Legacy_E.txt
+  Downloading: The Hunt For Charlie Kirk's Assassin, Vance Escorts Kirk Home, 24 Years Since 9/11: AM Update 9/12
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_The_Hunt_For_Charlie_Kirk's_Assassin,_Vance_Escorts_Kirk_Home,_24_Years_Since_9_11_AM_Update_9_12.txt
+  Downloading: Remembering Charlie Kirk, with Tucker Carlson, Donald Trump Jr., and Benny Johnson, and What We Know About the Assassin  |  Ep 1146
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Remembering_Charlie_Kirk,_with_Tucker_Carlson,_Donald_Trump_Jr.,_and_Benny_Johnson,_and_What_We_Know.txt
+  Downloading: Charlie Kirk's Extraordinary Life and Legacy, and What We Know About the Assassin : AM Update 9/11
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Charlie_Kirk's_Extraordinary_Life_and_Legacy,_and_What_We_Know_About_the_Assassin_AM_Update_9_11.txt
+  Downloading: Charlie Kirk Dead at 31 - Assassination on Utah College Campus During Turning Point Event
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Charlie_Kirk_Dead_at_31_-_Assassination_on_Utah_College_Campus_During_Turning_Point_Event.txt
+  Downloading: Reckoning with Horror of Charlotte Stabbing, and Kamala's Complaints, with Megan Basham, Heather Mac Donald, Allie Beth Stuckey, and Mike Solana  |  Ep 1145
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Reckoning_with_Horror_of_Charlotte_Stabbing,_and_Kamala's_Complaints,_with_Megan_Basham,_Heather_Mac.txt
+  Downloading: Feds Charge Charlotte Suspect, Biggest Jobs Revision Ever Exposes Real Biden Economy: AM Update 9/10
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Feds_Charge_Charlotte_Suspect,_Biggest_Jobs_Revision_Ever_Exposes_Real_Biden_Economy_AM_Update_9_10.txt
+  Downloading: Left Covers Up Charlotte Stabbing, and "Non-Binary" Meltdown, with Andrew Klavan, Plus Kevin Hines' Inspiring Survival Story  |  Ep 1144
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Left_Covers_Up_Charlotte_Stabbing,_and_Non-Binary_Meltdown,_with_Andrew_Klavan,_Plus_Kevin_Hines'_In.txt
+  Downloading: SCOTUS Hands Trump ICE Victory, Biden Autopen News, Assassination Attempt Trial Start: AM Update 9/9
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_SCOTUS_Hands_Trump_ICE_Victory,_Biden_Autopen_News,_Assassination_Attempt_Trial_Start_AM_Update_9_9.txt
+  Downloading: Graham Linehan on His Arrest Over "Dangerous" Posts, and Media Refusing to Cover Brutal Charlotte Murder, with Rich Lowry and Charles C.W. Cooke | Ep 1143
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Graham_Linehan_on_His_Arrest_Over_Dangerous_Posts,_and_Media_Refusing_to_Cover_Brutal_Charlotte_Murd.txt
+  Downloading: Immigration Crackdown Coming to Chicago, Trump Backs RFK, CBS Changes Editing Policy: AM Update 9/8
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Immigration_Crackdown_Coming_to_Chicago,_Trump_Backs_RFK,_CBS_Changes_Editing_Policy_AM_Update_9_8.txt
+  Downloading: Fake Theater Kids Booker and Markle, Adelson Guilty and Cardi B Wins, with Link Lauren, Dave Aronberg, and Jonna Spilbor  | Ep 1142
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Fake_Theater_Kids_Booker_and_Markle,_Adelson_Guilty_and_Cardi_B_Wins,_with_Link_Lauren,_Dave_Aronber.txt
+  Downloading: DC Grand Juries Go Political Against Trump, MAGA and AOC Unite, New Space Race Begins: AM Update 9/5
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_DC_Grand_Juries_Go_Political_Against_Trump,_MAGA_and_AOC_Unite,_New_Space_Race_Begins_AM_Update_9_5.txt
+  Downloading: Lisa Cook Investigation Grows, RFK vs. Senators, and Bari Weiss CBS News Rumblings, with Glenn Greenwald
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Lisa_Cook_Investigation_Grows,_RFK_vs._Senators,_and_Bari_Weiss_CBS_News_Rumblings,_with_Glenn_Green.txt
+  Downloading: Epstein Files Drop and Congress Clash, Green Bank Collapse Leads to NBA Questions: AM Update 9/4
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Epstein_Files_Drop_and_Congress_Clash,_Green_Bank_Collapse_Leads_to_NBA_Questions_AM_Update_9_4.txt
+  Downloading: Arrested For Posts, Epstein Victims Speak, and Sick Trump Health Reactions, with Batya Ungar-Sargon and Greg Lukianoff
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Arrested_For_Posts,_Epstein_Victims_Speak,_and_Sick_Trump_Health_Reactions,_with_Batya_Ungar-Sargon.txt
+  Downloading: Trump Responds to Rumors of His Death, EPA Wins in Court, Ilhan Omar's Millions: AM Update 9/3
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Trump_Responds_to_Rumors_of_His_Death,_EPA_Wins_in_Court,_Ilhan_Omar's_Millions_AM_Update_9_3.txt
+  Downloading: Establishment Meltdown Over RFK, New Lisa Cook Questions, and Being a "Lion" Instead of a "Scavenger," with Ben Shapiro
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Establishment_Meltdown_Over_RFK,_New_Lisa_Cook_Questions,_and_Being_a_Lion_Instead_of_a_Scavenger,_w.txt
+  Downloading: Scientific Establishment vs Trump Over CDC, Lisa Cook Fights On, Failing City Schools: AM Update 9/2
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Scientific_Establishment_vs_Trump_Over_CDC,_Lisa_Cook_Fights_On,_Failing_City_Schools_AM_Update_9_2.txt
+  Downloading: Melania Trump, Meghan Markle, Taylor Swift, and the Donna Adelson Trial - MK Media Highlights
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Melania_Trump,_Meghan_Markle,_Taylor_Swift,_and_the_Donna_Adelson_Trial_-_MK_Media_Highlights.txt
+  Downloading: Baby Lisa's Disappearance - Megyn Kelly Investigates: Answering YOUR Questions and Key Updates
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Baby_Lisa's_Disappearance_-_Megyn_Kelly_Investigates_Answering_YOUR_Questions_and_Key_Updates.txt
+  Downloading: Fed Official Sues Over Firing, New Details on Bolton Probe, Newsom's Bizarre Rant: AM Update 8/29
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Fed_Official_Sues_Over_Firing,_New_Details_on_Bolton_Probe,_Newsom's_Bizarre_Rant_AM_Update_8_29.txt
+  Downloading: Media Ignores Shooter Reality, Megyn Reveals Blake Lively Subpoena, and Adelson on Trial, with Matt Walsh, Eiglarsh, Geragos, Holloway
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Media_Ignores_Shooter_Reality,_Megyn_Reveals_Blake_Lively_Subpoena,_and_Adelson_on_Trial,_with_Matt.txt
+  Downloading: Instant Politicization of Tragic Shooting, Investigators Speak Out on Haro Arrest: AM Update 8/28
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Instant_Politicization_of_Tragic_Shooting,_Investigators_Speak_Out_on_Haro_Arrest_AM_Update_8_28.txt
+  Downloading: Horrifying Catholic School Shooting in Minneapolis - What We're Learning About Victims and Perpetrator
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Horrifying_Catholic_School_Shooting_in_Minneapolis_-_What_We're_Learning_About_Victims_and_Perpetrat.txt
+  Downloading: Trump's Marathon Cabinet Meeting, Haro Parents Charged, New Details in Migrant Crash: AM Update 8/27
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Trump's_Marathon_Cabinet_Meeting,_Haro_Parents_Charged,_New_Details_in_Migrant_Crash_AM_Update_8_27.txt
+  Downloading: Chicago Mayor Rejects Crime Help, Trump vs. Fed Gov, and Taylor Swift Engaged, with The Fifth Column
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Chicago_Mayor_Rejects_Crime_Help,_Trump_vs._Fed_Gov,_and_Taylor_Swift_Engaged,_with_The_Fifth_Column.txt
+  Downloading: Trump Attempts to Punish Flag Burners, Cashless Bail Crackdown, Snoop Slams Pixar: AM Update 8/26
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Trump_Attempts_to_Punish_Flag_Burners,_Cashless_Bail_Crackdown,_Snoop_Slams_Pixar_AM_Update_8_26.txt
+  Downloading: Hypocritical Bolton Raid Reaction, Left Lionizes Kilmar Abrego Garcia, and Trump's DC Crime Success, with Emily Jashinsky
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Hypocritical_Bolton_Raid_Reaction,_Left_Lionizes_Kilmar_Abrego_Garcia,_and_Trump's_DC_Crime_Success,.txt
+  Downloading: Trump Eyes Chicago for Crackdown, FBI Raids Bolton, Parents of Missing Baby Arrested: AM Update 8/25
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Trump_Eyes_Chicago_for_Crackdown,_FBI_Raids_Bolton,_Parents_of_Missing_Baby_Arrested_AM_Update_8_25.txt
+  Downloading: Menendez Brothers’ Fate, Dark Past of Baby Emmanuel's Dad, Adelson Trial Takes Shape, Entitled "AG" Arrested - "MK True Crime"
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Menendez_Brothers’_Fate,_Dark_Past_of_Baby_Emmanuel's_Dad,_Adelson_Trial_Takes_Shape,_Entitled_AG_Ar.txt
+  Downloading: Trump's Victory Over Letitia James, DC Crime Spin, Loudoun County Locker Room Battle: AM Update 8/22
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Trump's_Victory_Over_Letitia_James,_DC_Crime_Spin,_Loudoun_County_Locker_Room_Battle_AM_Update_8_22.txt
+  Downloading: Kohberger Claims Harassment, Aniston Whines About Fame, and Trump's Massive Legal Victory, with Maureen Callahan, Holloway, Chamberlain
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Kohberger_Claims_Harassment,_Aniston_Whines_About_Fame,_and_Trump's_Massive_Legal_Victory,_with_Maur.txt
+  Downloading: DC Crime Crackdown Success, Elon Eyes Vance 2028, New Details in Missing Baby Search: AM Update 8/21
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_DC_Crime_Crackdown_Success,_Elon_Eyes_Vance_2028,_New_Details_in_Missing_Baby_Search_AM_Update_8_21.txt
+  Downloading: Dems in Decline, Newsom's Bizarre Trump Troll Attempt, and Truth About DC Crime, with Halperin, Spicer, and Turrentine
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Dems_in_Decline,_Newsom's_Bizarre_Trump_Troll_Attempt,_and_Truth_About_DC_Crime,_with_Halperin,_Spic.txt
+  Downloading: New Details on Illegal Migrant Who Caused Fatal Crash, Barr Testifies on Epstein: AM Update 8/20
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_New_Details_on_Illegal_Migrant_Who_Caused_Fatal_Crash,_Barr_Testifies_on_Epstein_AM_Update_8_20.txt
+  Downloading: Rep. Marjorie Taylor Greene on Secrets of DC, the Israel Lobby, Jasmine Crockett, and the Future of MAGA
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Rep._Marjorie_Taylor_Greene_on_Secrets_of_DC,_the_Israel_Lobby,_Jasmine_Crockett,_and_the_Future_of.txt
+  Downloading: Progress Toward Peace at WH, Trump Mail-In Ballot Crackdown, Missing CA Baby Latest: AM Update 8/19
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Progress_Toward_Peace_at_WH,_Trump_Mail-In_Ballot_Crackdown,_Missing_CA_Baby_Latest_AM_Update_8_19.txt
+  Downloading: Zelensky Comes to DC Again, Fake Media Narratives, and Comey's Weird Taylor Swift Video, with Walter Kirn
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Zelensky_Comes_to_DC_Again,_Fake_Media_Narratives,_and_Comey's_Weird_Taylor_Swift_Video,_with_Walter.txt
+  Downloading: Zelensky and Euro Leaders Visit WH After Trump's Putin Summit, Baby Missing in CA: AM Update 8/18
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Zelensky_and_Euro_Leaders_Visit_WH_After_Trump's_Putin_Summit,_Baby_Missing_in_CA_AM_Update_8_18.txt
+  Downloading: Fact-Checking the New York Times' "Daily" Podcast's Disinformation-Filled Russiagate Episode, with Michael Shellenberger and Aaron Mate
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Fact-Checking_the_New_York_Times'_Daily_Podcast's_Disinformation-Filled_Russiagate_Episode,_with_Mic.txt
+  Downloading: Trump-Putin Summit Today, Newsom Gerrymandering Plan, Biden Trip Scrapped Over Steps: AM Update 8/15
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Trump-Putin_Summit_Today,_Newsom_Gerrymandering_Plan,_Biden_Trip_Scrapped_Over_Steps_AM_Update_8_15.txt
+  Downloading: DOJ Employee Throws Sandwich at Fed Officer, and New Info About Clinton Investigation, with Stu Burguiere and John Solomon
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_DOJ_Employee_Throws_Sandwich_at_Fed_Officer,_and_New_Info_About_Clinton_Investigation,_with_Stu_Burg.txt
+  Downloading: National Guard Arrives in DC, Judge Boasberg Loses Again, Kohberger's Prison Life: AM Update 8/14
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_National_Guard_Arrives_in_DC,_Judge_Boasberg_Loses_Again,_Kohberger's_Prison_Life_AM_Update_8_14.txt
+  Downloading: Did Comey Leak to NYT, Leftists Want More DC Crime, and Fixing CA, with John Solomon, Steve Hilton, Rich Lowry, and Charles Cooke
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Did_Comey_Leak_to_NYT,_Leftists_Want_More_DC_Crime,_and_Fixing_CA,_with_John_Solomon,_Steve_Hilton,.txt
+  Downloading: BLS Nominee Suggests Major Shake-Up, Markets Rally on CPI News, Redistricting Drama: AM Update 8/13
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_BLS_Nominee_Suggests_Major_Shake-Up,_Markets_Rally_on_CPI_News,_Redistricting_Drama_AM_Update_8_13.txt
+  Downloading: Did Schiff Approve Classified Info Leak, and Leftists Melt Down Over Trump's Plan to Fix DC, with Andrew Klavan and John Solomon
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Did_Schiff_Approve_Classified_Info_Leak,_and_Leftists_Melt_Down_Over_Trump's_Plan_to_Fix_DC,_with_An.txt
+  Downloading: Trump's Plan to Fix Crime in D.C, Putin Summit Details, Cuomo Teases "Zohran's Law": AM Update 8/12
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Trump's_Plan_to_Fix_Crime_in_D.C,_Putin_Summit_Details,_Cuomo_Teases_Zohran's_Law_AM_Update_8_12.txt
+  Downloading: Trump's DC Fix, Jimmy Kimmel Whining, and Jasmine Crockett's Working Class "Stolen Valor," with Benny Johnson, Mike Davis, and Alex Marlow
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Trump's_DC_Fix,_Jimmy_Kimmel_Whining,_and_Jasmine_Crockett's_Working_Class_Stolen_Valor,_with_Benny.txt
+  Downloading: Putin Coming to America For Trump Summit, Redistricting Fight Grows, Trump's DC Plan: AM Update 8/11
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Putin_Coming_to_America_For_Trump_Summit,_Redistricting_Fight_Grows,_Trump's_DC_Plan_AM_Update_8_11.txt
+  Downloading: Apple Invests Billions More in US, RFK Cuts mRNA Vax Funding, Staffers Slam Crockett: AM Update 8/8
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Apple_Invests_Billions_More_in_US,_RFK_Cuts_mRNA_Vax_Funding,_Staffers_Slam_Crockett_AM_Update_8_8.txt
+  Downloading: Legacy Media Bias Exposed and Debated, and MAGA Heir Apparent Rumblings, with Tom Bevan and Andrew Walworth
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Legacy_Media_Bias_Exposed_and_Debated,_and_MAGA_Heir_Apparent_Rumblings,_with_Tom_Bevan_and_Andrew_W.txt
+  Downloading: Five Shot at Army Base, Potential Trump-Putin Meeting, Windmill Project Scrapped: AM Update 8/7
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Five_Shot_at_Army_Base,_Potential_Trump-Putin_Meeting,_Windmill_Project_Scrapped_AM_Update_8_7.txt
+  Downloading: Leftist Sydney Sweeney Gaslighting, Beyonce Joins Discourse, and New Russiagate Revelations, with Charlie Kirk and Michael Shellenberger
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Leftist_Sydney_Sweeney_Gaslighting,_Beyonce_Joins_Discourse,_and_New_Russiagate_Revelations,_with_Ch.txt
+  Downloading: DOJ Weighs Releasing Maxwell Transcript, Trump on Third Term, Titan Disaster Report: AM Update 8/6
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_DOJ_Weighs_Releasing_Maxwell_Transcript,_Trump_on_Third_Term,_Titan_Disaster_Report_AM_Update_8_6.txt
+  Downloading: Epstein and Ghislaine, Possible Diddy Pardon, and Trump Suing WSJ, with MK True Crime Contributors
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Epstein_and_Ghislaine,_Possible_Diddy_Pardon,_and_Trump_Suing_WSJ,_with_MK_True_Crime_Contributors.txt
+  Downloading: DOJ Opens Russiagate Grand Jury Investigation, TX Dems Flee, Secrets of Dem PAC Cash: AM Update 8/5
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_DOJ_Opens_Russiagate_Grand_Jury_Investigation,_TX_Dems_Flee,_Secrets_of_Dem_PAC_Cash_AM_Update_8_5.txt
+  Downloading: Trump Praises Sydney Sweeney as Natural Beauty Defeats Woke, and Incoherent Kamala is Back, with Michael Knowles
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Trump_Praises_Sydney_Sweeney_as_Natural_Beauty_Defeats_Woke,_and_Incoherent_Kamala_is_Back,_with_Mic.txt
+  Downloading: Trump Fires BLS Chief, American Eagle Defends Sweeney Ads, LA Wildfires Funds Stalled: AM Update 8/4
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Trump_Fires_BLS_Chief,_American_Eagle_Defends_Sweeney_Ads,_LA_Wildfires_Funds_Stalled_AM_Update_8_4.txt
+  Downloading: Carolla on Ellen, End of Woke Brands, Dems in Denial, and Paltrow's Bland Bio - MK Media Highlights
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Carolla_on_Ellen,_End_of_Woke_Brands,_Dems_in_Denial,_and_Paltrow's_Bland_Bio_-_MK_Media_Highlights.txt
+  Downloading: Buried Intel Bombshell Released, Athletes Sue over Trans Dispute, Harris’s 2028 Hints: AM Update 8/1
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Buried_Intel_Bombshell_Released,_Athletes_Sue_over_Trans_Dispute,_Harris’s_2028_Hints_AM_Update_8_1.txt
+  Downloading: Newly Declassified Appendix CONFIRMS Hillary Clinton's Plan to RUIN Trump's Candidacy, Martha Stewart Burns Meghan Markle, with Greenwald & Mate | Ep. 1120
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Newly_Declassified_Appendix_CONFIRMS_Hillary_Clinton's_Plan_to_RUIN_Trump's_Candidacy,_Martha_Stewar.txt
+  Downloading: Fed Holds Rates Steady Despite Trump's Wishes and GDP Rebound, Khalil Legal Showdown: AM Update 7/31
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Fed_Holds_Rates_Steady_Despite_Trump's_Wishes_and_GDP_Rebound,_Khalil_Legal_Showdown_AM_Update_7_31.txt
+  Downloading: Sydney Sweeney's Return to Cultural Normalcy, Possible Diddy Pardon, and Epstein Media Drama, with Walter Kirn and Alexis Wilkins
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Sydney_Sweeney's_Return_to_Cultural_Normalcy,_Possible_Diddy_Pardon,_and_Epstein_Media_Drama,_with_W.txt
+  Downloading: NYC Shooting Victims Identified, DOJ vs. Boasberg, EPA to Kill Climate Rule: AM Update 7/30
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_NYC_Shooting_Victims_Identified,_DOJ_vs._Boasberg,_EPA_to_Kill_Climate_Rule_AM_Update_7_30.txt
+  Downloading: Who Was NYC Shooter Target, and New Reporting on Russiagate Hoax Collusion, with Buck Sexton and Aaron Mate
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Who_Was_NYC_Shooter_Target,_and_New_Reporting_on_Russiagate_Hoax_Collusion,_with_Buck_Sexton_and_Aar.txt
+  Downloading: NYC Shooting Leaves Five Dead Including NYPD Officer, Trump Fires Back Over Epstein: AM Update 7/29
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_NYC_Shooting_Leaves_Five_Dead_Including_NYPD_Officer,_Trump_Fires_Back_Over_Epstein_AM_Update_7_29.txt
+  Downloading: Trump's Tariff Victory Lap, Massive EU Trade Deal, and Insane Leftist Sydney Sweeney Backlash, with Victor Davis Hanson
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Trump's_Tariff_Victory_Lap,_Massive_EU_Trade_Deal,_and_Insane_Leftist_Sydney_Sweeney_Backlash,_with.txt
+  Downloading: Will Ghislaine Maxwell Speak Publicly, Next Russiagate Docs, Mamdani's Wedding Bash: AM Update 7/28
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Will_Ghislaine_Maxwell_Speak_Publicly,_Next_Russiagate_Docs,_Mamdani's_Wedding_Bash_AM_Update_7_28.txt
+  Downloading: Megyn Kelly Breaks Down the Kohberger Sentencing Fallout - From Bombshell Police Documents to Press Conference | Ep. 1116
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Megyn_Kelly_Breaks_Down_the_Kohberger_Sentencing_Fallout_-_From_Bombshell_Police_Documents_to_Press.txt
+  Downloading: Trump vs. Fed Chair Powell, Clintons Subpoenaed on Epstein, Hulk Hogan Passes Away: AM Update 7/25
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Trump_vs._Fed_Chair_Powell,_Clintons_Subpoenaed_on_Epstein,_Hulk_Hogan_Passes_Away_AM_Update_7_25.txt
+  Downloading: Bombshell Russiagate Docs Explained, and the Truth About Putin and Hillary, with Matt Taibbi and Ruthless | Ep. 1115
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Bombshell_Russiagate_Docs_Explained,_and_the_Truth_About_Putin_and_Hillary,_with_Matt_Taibbi_and_Rut.txt
+  Downloading: Bombshell Report Debunks 2016 Russia Narratives, Trump vs. Dems on DOJ Nominees: AM Update 7/24
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Bombshell_Report_Debunks_2016_Russia_Narratives,_Trump_vs._Dems_on_DOJ_Nominees_AM_Update_7_24.txt
+  Downloading: Bryan Kohberger's Explosive Sentencing: Roommates Speak Out, Families Give Victim Statements, with Howard Blum, Phil Holloway, and Matt Murphy | Ep. 1114
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Bryan_Kohberger's_Explosive_Sentencing_Roommates_Speak_Out,_Families_Give_Victim_Statements,_with_Ho.txt
+  Downloading: Trump Calls for DOJ to Investigate Obama, Epstein Files Showdown, Ozzy Osbourne Dies: AM Update 7/23
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Trump_Calls_for_DOJ_to_Investigate_Obama,_Epstein_Files_Showdown,_Ozzy_Osbourne_Dies_AM_Update_7_23.txt
+  Downloading: New Revelations Connect Obama to Russiagate Hoax, and Hunter Biden Starts Dem Civil War, with Matt Taibbi and Emily Jashinsky | Ep. 1113
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_New_Revelations_Connect_Obama_to_Russiagate_Hoax,_and_Hunter_Biden_Starts_Dem_Civil_War,_with_Matt_T.txt
+  Downloading: Illegal Migrant Shoots CBP Officer, Bizarre Hunter Biden Interview, Trump on Sports: AM Update 7/22
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Illegal_Migrant_Shoots_CBP_Officer,_Bizarre_Hunter_Biden_Interview,_Trump_on_Sports_AM_Update_7_22.txt
+  Downloading: Rahm Emanuel on How the Dems Lost Their Way and Trump's Immigration Successes, Plus, Mark Halperin, Link Lauren and Dan Turrentine | Ep. 1112
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Rahm_Emanuel_on_How_the_Dems_Lost_Their_Way_and_Trump's_Immigration_Successes,_Plus,_Mark_Halperin,.txt
+  Downloading: Obama-Era Intel Plot Exposed, DOJ Seeks Epstein Transcripts, Dems Mourn Colbert: AM Update 7/21
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Obama-Era_Intel_Plot_Exposed,_DOJ_Seeks_Epstein_Transcripts,_Dems_Mourn_Colbert_AM_Update_7_21.txt
+  Downloading: Truth About Benefits of HRT For Women, and COVID Lies Uncovered, with FDA Commissioner Dr. Marty Makary
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Truth_About_Benefits_of_HRT_For_Women,_and_COVID_Lies_Uncovered,_with_FDA_Commissioner_Dr._Marty_Mak.txt
+  Downloading: Dem Establishment Failures, with Ana Kasparian, and if Bieber Launched the Trad Movement, with Evita Duffy-Alfonso - "After Party with Emily Jashinsky"
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Dem_Establishment_Failures,_with_Ana_Kasparian,_and_if_Bieber_Launched_the_Trad_Movement,_with_Evita.txt
+  Downloading: CBS Cancels Colbert, WSJ's Epstein-Trump Nothingburger, and Barbara Walters' Complicated Legacy, with Maureen Callahan | Ep. 1111
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_CBS_Cancels_Colbert,_WSJ's_Epstein-Trump_Nothingburger,_and_Barbara_Walters'_Complicated_Legacy,_wit.txt
+  Downloading: WH Shuts Down Amnesty Bill, Mamdani Snubbed in DC, Leaked Memo on Anti-Trump Bias: AM Update 7/18
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_WH_Shuts_Down_Amnesty_Bill,_Mamdani_Snubbed_in_DC,_Leaked_Memo_on_Anti-Trump_Bias_AM_Update_7_18.txt
+  Downloading: Was Air India Crash Deliberate, and Previewing Next Epstein Shoe to Drop, with Fifth Column and Aviation Experts | Ep. 1110
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Was_Air_India_Crash_Deliberate,_and_Previewing_Next_Epstein_Shoe_to_Drop,_with_Fifth_Column_and_Avia.txt
+  Downloading: Schiff Accused of Fraud, Top Jill Biden Aide Pleads the Fifth, Border NGOs Exposed: AM Update 7/17
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Schiff_Accused_of_Fraud,_Top_Jill_Biden_Aide_Pleads_the_Fifth,_Border_NGOs_Exposed_AM_Update_7_17.txt
+  Downloading: Biden Cover-Up Continues, Gavin Newsom's Terrible Answer, and Trump's New Epstein Hoax Framing, with Rich Lowry | Ep. 1109
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Biden_Cover-Up_Continues,_Gavin_Newsom's_Terrible_Answer,_and_Trump's_New_Epstein_Hoax_Framing,_with.txt
+  Downloading: Waltz Grilled at UN Hearing, Cornell Civil Rights Complaint, NBC's Autopen Scoop: AM Update 7/16
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Waltz_Grilled_at_UN_Hearing,_Cornell_Civil_Rights_Complaint,_NBC's_Autopen_Scoop_AM_Update_7_16.txt
+  Downloading: Jeffrey Epstein's Past Threats, Intel Associations, and How He Really Got So Rich, with Vicky Ward | Ep. 1108
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Jeffrey_Epstein's_Past_Threats,_Intel_Associations,_and_How_He_Really_Got_So_Rich,_with_Vicky_Ward_E.txt
+  Downloading: Biden Autopen Scandal Deepens, New Epstein Disclosures Possible, Trump's NATO Plan: AM Update 7/15
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Biden_Autopen_Scandal_Deepens,_New_Epstein_Disclosures_Possible,_Trump's_NATO_Plan_AM_Update_7_15.txt
+  Downloading: MAGA Demands More Epstein Transparency, and Epstein's Potential Intel Ties, with Ben Shapiro and Michael Shellenberger | Ep. 1107
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_MAGA_Demands_More_Epstein_Transparency,_and_Epstein's_Potential_Intel_Ties,_with_Ben_Shapiro_and_Mic.txt
+  Downloading: Trump Backs Bondi Over Epstein Actions, Shocking New Butler Report, Noem vs CA Judge: AM Update 7/14
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Trump_Backs_Bondi_Over_Epstein_Actions,_Shocking_New_Butler_Report,_Noem_vs_CA_Judge_AM_Update_7_14.txt
+  Downloading: Rumblings on Epstein "Client List," Kohberger Inspiration, and Grandma on Trial For Son-in-Law's Murder, with Dave Aronberg and Viva Frei | Ep. 1106
+    Truncated at 60MB
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Rumblings_on_Epstein_Client_List,_Kohberger_Inspiration,_and_Grandma_on_Trial_For_Son-in-Law's_Murde.txt
+  Downloading: Butler Secret Service Agents Disciplined, Crockett Eyes Senate, Why Walz Was Picked: AM Update 7/11
+  Transcribing...
+  Saved: The_Megyn_Kelly_Show_Butler_Secret_Service_Agents_Disciplined,_Crockett_Eyes_Senate,_Why_Walz_Was_Picked_AM_Update_7_11.txt
+  Downloading: Inside Story of Bondi's Epstein Files Fail, and the Secret to Solving Cancer, with Liz Wheeler and Dr. Patrick Soon-Shiong | Ep. 1105
+    Truncated at 60MB
+  Transcribing...
