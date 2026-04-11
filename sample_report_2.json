@@ -1,0 +1,318 @@
+{
+  "task_id": "7bf8d78b-37b5-46ef-b3ba-2a8c9d1ac10d",
+  "metadata": {
+    "finished_time": "2026-01-13T05:56:48.042022+00:00",
+    "file_name": "Reuters World News",
+    "openai_model": "gpt-5-mini",
+    "temprature": "1",
+    "perplexity_model": "Sonar",
+    "source": "local",
+    "record_count": 22
+  },
+  "data": [
+    {
+      "num": 1,
+      "extracted_claim": "Chris Minns is the premier of New South Wales and announced tougher gun laws.",
+      "label": "true",
+      "sources": [
+        "https://www.nsw.gov.au/ministerial-releases/from-sunrise-to-sunset-australia-day-2026-bigger-and-better-than-ever",
+        "https://www.nsw.gov.au/ministerial-releases/nsw-government-to-shut-down-illegal-hate-preaching-venues",
+        "https://en.wikipedia.org/wiki/Chris_Minns",
+        "https://www.youtube.com/watch?v=La9wNBFdJ94",
+        "https://www.nsw.gov.au/nsw-government/premier-of-nsw",
+        "https://www.nsw.gov.au/ministerial-releases/nsw-government-to-introduce-toughest-gun-law-reforms-a-generation",
+        "https://www.youtube.com/watch?v=tYb2-8oxexQ",
+        "https://www.nsw.gov.au/ministerial-releases/tighter-gun-laws-reforms-to-bolster-community-safety-pass-nsw-parliament",
+        "* https://www.theaustraliatoday.com.au/factories-of-hate-new-nsw-laws-allow-councils-to-shut-down-illegal-premises-hosting-hate-preachers/",
+        "https://www.nraila.org/articles/20260112/crisis-management-in-the-land-down-under-all-roads-lead-to-gun-control-buybacks",
+        "https://www.sydneycriminallawyers.com.au/blog/nsw-governments-proposal-to-criminalise-the-public-display-of-political-slogans-is-concerning/",
+        "https://www.thelawyermag.com/au/practice-areas/public-sector/nsw-passes-strict-gun-reforms-aiming-to-improve-community-safety/560998"
+      ]
+    },
+    {
+      "num": 2,
+      "extracted_claim": "The new gun laws were passed in an emergency sitting following the mass shooting at Bondi Beach.",
+      "label": "true",
+      "sources": [
+        "https://www.youtube.com/watch?v=La9wNBFdJ94",
+        "https://en.wikipedia.org/wiki/2025_Bondi_Beach_shooting",
+        "https://www.nsw.gov.au/ministerial-releases/nsw-government-to-introduce-toughest-gun-law-reforms-a-generation",
+        "* https://www.cbsnews.com/news/bondi-beach-hero-ahmed-al-ahmed/",
+        "https://www.nsw.gov.au/ministerial-releases/tighter-gun-laws-reforms-to-bolster-community-safety-pass-nsw-parliament",
+        "https://www.youtube.com/watch?v=0NjCZ_o5YvU",
+        "https://www.nraila.org/articles/20260112/crisis-management-in-the-land-down-under-all-roads-lead-to-gun-control-buybacks",
+        "https://abc7.com/post/bondi-beach-paddle-sunrise-crowd-gathers-solace-defiance-deadly-australia-shooting/18300405/",
+        "https://www.thelawyermag.com/au/practice-areas/public-sector/nsw-passes-strict-gun-reforms-aiming-to-improve-community-safety/560998"
+      ]
+    },
+    {
+      "num": 3,
+      "extracted_claim": "The emergency sitting occurred on Christmas Eve.",
+      "label": "true",
+      "sources": [
+        "https://dcj.nsw.gov.au/news-and-media/media-releases/2025/tighter-gun-laws--reforms-to-bolster-community-safety-pass-nsw-p.html",
+        "https://www.nsw.gov.au/ministerial-releases/nsw-government-to-act-to-protect-community-safety-following-terrorist-attack",
+        "https://www.pm.gov.au/media/press-conference-sydney-16-dec-2025",
+        "https://www.forbes.nsw.gov.au/news/december-2025/12-days-of-double-demerits-for-the-christmas-holidays"
+      ]
+    },
+    {
+      "num": 4,
+      "extracted_claim": "Police said one of the Bondi shooters legally owned six firearms.",
+      "label": "unverifiable",
+      "sources": [
+        "https://en.wikipedia.org/wiki/2025_Bondi_Beach_shooting",
+        "https://www.youtube.com/watch?v=0wdu0paEtDI",
+        "https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIyNTA0Lmh0bWwmYWxsPTE%3D",
+        "https://www.youtube.com/watch?v=sqPWgJPq3Qw"
+      ]
+    },
+    {
+      "num": 5,
+      "extracted_claim": "The legislation limits the number of guns an individual can own in New South Wales to four.",
+      "label": "true",
+      "sources": [
+        "https://www.youtube.com/watch?v=2EHohjr-ocE",
+        "https://www.miragenews.com/nsw-ses-volunteers-ready-to-respond-this-1594654/",
+        "https://www.nsw.gov.au/ministerial-releases/nsw-government-to-introduce-toughest-gun-law-reforms-a-generation",
+        "https://www.nsw.gov.au/ministerial-releases/nsw-government-to-act-to-protect-community-safety-following-terrorist-attack",
+        "https://www.gotocourt.com.au/changes-to-gun-and-protest-laws-nsw/",
+        "https://www.sydneycriminallawyers.com.au/blog/nsw-police-commissioner-bans-protests-suppressing-fundamental-democratic-rights/",
+        "https://en.wikipedia.org/wiki/Gun_laws_of_Australia",
+        "https://www.forbes.nsw.gov.au/news/december-2025/12-days-of-double-demerits-for-the-christmas-holidays",
+        "https://greens.org.au/news/media-release/media-release-time-new-gun-laws-limit-gun-numbers-and-keep-australians-safe",
+        "https://www.pm.gov.au/media/albanese-labor-government-will-establish-national-gun-buyback-scheme"
+      ]
+    },
+    {
+      "num": 6,
+      "extracted_claim": "Farmers and sporting shooters can own up to 10 guns under the new limit.",
+      "label": "true",
+      "sources": [
+        "https://www.youtube.com/watch?v=2EHohjr-ocE",
+        "https://www.nsw.gov.au/ministerial-releases/nsw-government-to-introduce-toughest-gun-law-reforms-a-generation",
+        "https://en.wikipedia.org/wiki/Gun_laws_of_Australia",
+        "https://greens.org.au/news/media-release/media-release-time-new-gun-laws-limit-gun-numbers-and-keep-australians-safe",
+        "https://www.pm.gov.au/media/albanese-labor-government-will-establish-national-gun-buyback-scheme",
+        "https://www.thelawyermag.com/au/practice-areas/public-sector/nsw-passes-strict-gun-reforms-aiming-to-improve-community-safety/560998"
+      ]
+    },
+    {
+      "num": 7,
+      "extracted_claim": "The laws place restrictions on the types of guns people can own.",
+      "label": "true",
+      "sources": [
+        "https://www.nsw.gov.au/ministerial-releases/nsw-government-to-introduce-toughest-gun-law-reforms-a-generation",
+        "https://www.nraila.org/articles/20260112/crisis-management-in-the-land-down-under-all-roads-lead-to-gun-control-buybacks",
+        "https://en.wikipedia.org/wiki/Gun_laws_of_Australia",
+        "https://www.pm.gov.au/media/albanese-labor-government-will-establish-national-gun-buyback-scheme"
+      ]
+    },
+    {
+      "num": 8,
+      "extracted_claim": "High-powered guns will not be available to general license holders.",
+      "label": "true",
+      "sources": [
+        "https://www.nsw.gov.au/ministerial-releases/nsw-government-to-introduce-toughest-gun-law-reforms-a-generation",
+        "https://www.youtube.com/watch?v=2EHohjr-ocE",
+        "https://www.nraila.org/articles/20260112/crisis-management-in-the-land-down-under-all-roads-lead-to-gun-control-buybacks",
+        "https://lsj.com.au/articles/nsw-toughens-stance-on-hate-and-firearms/",
+        "https://en.wikipedia.org/wiki/Gun_laws_of_Australia",
+        "https://www.police.nsw.gov.au/online_services/firearms/firearms_and_ammunition",
+        "https://greens.org.au/news/media-release/media-release-time-new-gun-laws-limit-gun-numbers-and-keep-australians-safe",
+        "* https://www.lemonde.fr/en/international/article/2025/12/22/australian-state-pushes-tough-gun-laws-and-implements-ban-on-terror-symbols-after-mass-shooting_6748741_4.html",
+        "https://www.pm.gov.au/media/albanese-labor-government-will-establish-national-gun-buyback-scheme"
+      ]
+    },
+    {
+      "num": 9,
+      "extracted_claim": "Rapid-fire guns will not be available to general license holders.",
+      "label": "misleading/partially true",
+      "sources": [
+        "https://www.nsw.gov.au/ministerial-releases/nsw-government-to-introduce-toughest-gun-law-reforms-a-generation",
+        "https://greens.org.au/news/media-release/media-release-time-new-gun-laws-limit-gun-numbers-and-keep-australians-safe",
+        "https://en.wikipedia.org/wiki/Gun_laws_of_Australia"
+      ]
+    },
+    {
+      "num": 10,
+      "extracted_claim": "Rapid-reload guns will not be available to general license holders.",
+      "label": "unverifiable",
+      "sources": [
+        "https://www.nsw.gov.au/ministerial-releases/nsw-government-to-introduce-toughest-gun-law-reforms-a-generation",
+        "https://www.nraila.org/articles/20260112/crisis-management-in-the-land-down-under-all-roads-lead-to-gun-control-buybacks",
+        "https://en.wikipedia.org/wiki/Gun_laws_of_Australia",
+        "https://greens.org.au/news/media-release/media-release-time-new-gun-laws-limit-gun-numbers-and-keep-australians-safe",
+        "* https://www.lemonde.fr/en/international/article/2025/12/22/australian-state-pushes-tough-gun-laws-and-implements-ban-on-terror-symbols-after-mass-shooting_6748741_4.html",
+        "https://www.pm.gov.au/media/albanese-labor-government-will-establish-national-gun-buyback-scheme"
+      ]
+    },
+    {
+      "num": 11,
+      "extracted_claim": "High-powered, rapid-fire, and rapid-reload guns will be available only to people with a particular need, such as farmers.",
+      "label": "true",
+      "sources": [
+        "https://www.nraila.org/articles/20260112/crisis-management-in-the-land-down-under-all-roads-lead-to-gun-control-buybacks",
+        "https://en.wikipedia.org/wiki/Gun_laws_of_Australia",
+        "https://www.nsw.gov.au/ministerial-releases/nsw-government-to-introduce-toughest-gun-law-reforms-a-generation",
+        "https://www.rnz.co.nz/news/on-the-inside/582391/how-bondi-shooters-gained-access-to-now-banned-guns",
+        "* https://www.sbs.com.au/news/article/labor-hate-speech-gun-laws-explained/kad8c071a",
+        "https://www.pm.gov.au/media/albanese-labor-government-will-establish-national-gun-buyback-scheme",
+        "https://www.dss.gov.au/national-plan-end-violence-against-women-and-children/progress/first-action-plan-progress/first-action-plan-activities-addendum/critical-law-reforms-include-stronger-gps-monitoring-and-reforms-firearms-act"
+      ]
+    },
+    {
+      "num": 12,
+      "extracted_claim": "Australia does not have a right to bear arms comparable to the United States.",
+      "label": "true",
+      "sources": [
+        "https://redbackone.com/blogs/news/failure-of-gun-control-an-australian-perspective",
+        "https://en.wikipedia.org/wiki/Gun_laws_of_Australia",
+        "https://www.nraila.org/articles/20260112/crisis-management-in-the-land-down-under-all-roads-lead-to-gun-control-buybacks",
+        "https://www.humanrights.unsw.edu.au/research/commentary/gun-ownership-not-right",
+        "https://www.parliament.nsw.gov.au/bills/Pages/bill-details.aspx?pk=18755"
+      ]
+    },
+    {
+      "num": 13,
+      "extracted_claim": "The right to bear arms is not widely seen in the Australian community as a right.",
+      "label": "true",
+      "sources": [
+        "https://au.yougov.com/politics/articles/53777-australians-overwhelmingly-support-stronger-gun-laws-following-bondi-attack",
+        "https://en.wikipedia.org/wiki/Gun_laws_of_Australia",
+        "https://australiainstitute.org.au/post/australias-gun-ownership-scorecard-a-growing-problem-in-need-of-reform/",
+        "https://www.humanrights.unsw.edu.au/research/commentary/gun-ownership-not-right"
+      ]
+    },
+    {
+      "num": 14,
+      "extracted_claim": "Supporters argue the new restrictions on number and type of guns could reduce deaths and casualties in incidents like the Bondi attack.",
+      "label": "true",
+      "sources": [
+        "https://www.visionofhumanity.org/gun-ownership-and-peacefulness-what-the-data-tell-us-after-bondi-beach/",
+        "https://en.wikipedia.org/wiki/2025_Bondi_Beach_shooting",
+        "https://www.nraila.org/articles/20250602/australia-s-gun-laws-failing-in-different-ways",
+        "* https://www.fairobserver.com/politics/americans-arent-traumatized-enough-by-gun-violence/",
+        "https://australiainstitute.org.au/post/the-stark-reality-we-need-to-face-about-guns-in-australia/",
+        "https://en.wikipedia.org/wiki/Gun_laws_of_Australia"
+      ]
+    },
+    {
+      "num": 15,
+      "extracted_claim": "Fifteen people were killed in the Bondi Beach attack.",
+      "label": "true",
+      "sources": [
+        "https://en.wikipedia.org/wiki/2025_Bondi_Beach_shooting",
+        "https://www.nsw.gov.au/nsw-government/bondi-beach-attack",
+        "* https://abcnews.go.com/International/wireStory/families-bondi-beach-victims-demand-federal-action-antisemitism-128744170"
+      ]
+    },
+    {
+      "num": 16,
+      "extracted_claim": "Forty people were injured in the Bondi Beach attack, with many hospitalized in a matter of minutes.",
+      "label": "true",
+      "sources": [
+        "https://en.wikipedia.org/wiki/2025_Bondi_Beach_shooting",
+        "https://www.nsw.gov.au/nsw-government/bondi-beach-attack",
+        "https://www.youtube.com/watch?v=Y1CQQ1JyxQ8",
+        "https://www.youtube.com/watch?v=gh3gYwDNliE",
+        "https://thedailyaus.com.au/news/day-of-mourning-announced-for-bondi-terror-attack-victims-12-01-2026"
+      ]
+    },
+    {
+      "num": 17,
+      "extracted_claim": "The emergency measures include a ban on the display of terrorist symbols.",
+      "label": "false",
+      "sources": [
+        "https://www.nsw.gov.au/ministerial-releases/nsw-government-to-introduce-toughest-gun-law-reforms-a-generation",
+        "https://www.wa.gov.au/government/media-statements/Cook%20Labor%20Government/Additional-support-for-licensed-firearm-owners-under-new-gun-laws-20250401",
+        "https://en.wikipedia.org/wiki/Gun_laws_of_Australia",
+        "https://www.premier.vic.gov.au/five-next-steps-combat-anti-semitism-and-keep-people-safe",
+        "* https://www.cfr.org/backgrounder/us-gun-policy-global-comparisons",
+        "https://mcc-covid.crc.pitt.edu/COVID19_official_websites/Mozambique/moh_situation_reports/2020-05-10_08031589112229.html"
+      ]
+    },
+    {
+      "num": 18,
+      "extracted_claim": "The emergency measures include curbing protests.",
+      "label": "false",
+      "sources": [
+        "https://www.nsw.gov.au/nsw-government/bondi-beach-attack",
+        "https://www.crisis24.com/articles/australia-bondi-beach-attack-to-heighten-security-concerns-community-tensions-in-near-term",
+        "https://en.wikipedia.org/wiki/2025_Bondi_Beach_shooting",
+        "https://www.pm.gov.au/media/press-conference-canberra-12-january-2026",
+        "https://www.nraila.org/articles/20260112/crisis-management-in-the-land-down-under-all-roads-lead-to-gun-control-buybacks",
+        "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/bondi-beach-incident-wellbeing-support-guide",
+        "https://ejewishphilanthropy.com/from-bondi-beach-to-the-next-crisis-why-the-first-hour-matters/"
+      ]
+    },
+    {
+      "num": 19,
+      "extracted_claim": "Australia is a multicultural society with large communities of migrants from the Middle East in Sydney.",
+      "label": "true",
+      "sources": [
+        "https://australiantranslationservices.com.au/cultural-diversity-in-australia/",
+        "https://www.abs.gov.au/ausstats/abs@.nsf/lookup/3416.0main+features42008",
+        "https://en.wikipedia.org/wiki/Sydney",
+        "https://en.wikipedia.org/wiki/Demographics_of_Sydney",
+        "https://www.westernsydney.edu.au/news-centre/stories/2022/census-data-shows-were-more-culturally-diverse-than-ever-our-institutions-must-reflect-this",
+        "https://en.wikipedia.org/wiki/North_African_and_Middle_Eastern_Australians",
+        "https://mccrindle.com.au/article/topic/demographics/australias-future-demographic-identity/",
+        "* https://www.middleeasteye.net/discover/australia-lebanon-inside-community-diverse-longstanding",
+        "https://www.abs.gov.au/articles/cultural-diversity-australia",
+        "https://www.cancer.nsw.gov.au/getmedia/f0b92b83-e055-4db6-8016-1a0ecd969d14/SCTASK2593010-Multicultural-comm-profile-report-PopulationSummary-FA.pdf",
+        "https://en.wikipedia.org/wiki/Demographics_of_Australia",
+        "https://www.aph.gov.au/parliamentary_business/committees/house_of_representatives_committees?url=jfadt%2Fmideast%2Fmechapter_8.pdf",
+        "https://multicultural.nsw.gov.au/discover-your-community/",
+        "* https://tapri.org.au/wp-content/uploads/2016/02/v14n1_3bettshealy.pdf",
+        "https://www.ceh.org.au/demographic-data-find-specific-communities/"
+      ]
+    },
+    {
+      "num": 20,
+      "extracted_claim": "Since 2023, almost every week there has been an authorized protest in Sydney by people wanting to express anger about Israel's war in Gaza.",
+      "label": "unverifiable",
+      "sources": [
+        "https://en.wikipedia.org/wiki/2025_Bondi_Beach_shooting",
+        "https://www.nsw.gov.au/nsw-government/bondi-beach-attack",
+        "https://www.youtube.com/watch?v=DfowX1sMcyY",
+        "https://aijac.org.au/op-ed/the-bondi-massacre-one-month-later/"
+      ]
+    },
+    {
+      "num": 21,
+      "extracted_claim": "Under the new laws, if there is a terrorism incident, the government can ban protests and mass assemblies.",
+      "label": "true",
+      "sources": [
+        "https://www.nsw.gov.au/ministerial-releases/nsw-government-to-act-to-protect-community-safety-following-terrorist-attack",
+        "https://www.sydneycriminallawyers.com.au/blog/legal-challenge-launched-against-draconian-blanket-ban-on-protests/",
+        "* https://www.lemonde.fr/en/international/article/2025/12/22/australian-state-pushes-tough-gun-laws-and-implements-ban-on-terror-symbols-after-mass-shooting_6748741_4.html",
+        "https://www.ms.now/opinion/bondi-beach-australia-antisemitism-hate-speech-crackdown",
+        "* https://www.timesofisrael.com/australian-parliament-to-meet-early-to-pass-hate-speech-laws-after-bondi-terror-attack/",
+        "https://www.pm.gov.au/media/press-conference-canberra-12-january-2026",
+        "* https://www.france24.com/en/live-news/20260112-australia-recalls-parliament-early-to-pass-hate-speech-gun-laws",
+        "https://lsj.com.au/articles/australia-to-introduce-toughest-ever-hate-laws/"
+      ]
+    },
+    {
+      "num": 22,
+      "extracted_claim": "The government says these powers are needed to 'bring the temperature down' after incidents like the Bondi attack.",
+      "label": "misleading/partially true",
+      "sources": [
+        "https://www.nsw.gov.au/ministerial-releases/nsw-government-to-act-to-protect-community-safety-following-terrorist-attack",
+        "https://en.wikipedia.org/wiki/North_African_and_Middle_Eastern_Australians",
+        "https://www.premier.vic.gov.au/five-next-steps-combat-anti-semitism-and-keep-people-safe",
+        "* https://www.middleeasteye.net/discover/australia-lebanon-inside-community-diverse-longstanding",
+        "https://www.pm.gov.au/media/press-conference-canberra-12-january-2026",
+        "https://www.aph.gov.au/parliamentary_business/committees/house_of_representatives_committees?url=jfadt%2Fmideast%2Fmechapter_8.pdf",
+        "https://www.smartraveller.gov.au/before-you-go/safety/protests-civil-unrest",
+        "https://www.ciee.org/go-abroad/college-study-abroad/blog/embracing-diversity-exploring-intercultural-world-sydney",
+        "* https://www.hrw.org",
+        "https://c4israel.com.au/articles/the-middle-east-conflict-is-disrupting-australias-multicultural-harmony/",
+        "https://www.rainbowcultures.org.au/directory/middle-east-social",
+        "https://www.sydneymcs.org.au"
+      ]
+    }
+  ],
+  "status": "done"
+}
