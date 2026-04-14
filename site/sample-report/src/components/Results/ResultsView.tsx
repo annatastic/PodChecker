@@ -108,7 +108,7 @@ const ResultsView: React.FC<ResultsProps> = ({ result, elapsed, showSampleBadge,
             // /sample-report/1 -> public/sample_report_1.json
             const sampleId = window.location.pathname.split("/").pop();
             if (!sampleId) return;
-            url = `/sample_report_${sampleId}.json`;
+            url = `${import.meta.env.BASE_URL}sample_report_${sampleId}.json`;
         } else {
             if (!result?.task_id) return;
             url = `http://127.0.0.1:8000/download/${result.task_id}`;
