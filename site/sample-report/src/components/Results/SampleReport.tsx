@@ -17,8 +17,8 @@ const SampleReport = () => {
 
   useEffect(() => {
     if (!id) return;
-
-    fetch(`/sample_report_${id}.json`)
+    console.log("fetching:", `/sample_report_${id}.json`);
+    fetch(`${import.meta.env.BASE_URL}sample_report_${id}.json`)
       .then(r => {
         if (!r.ok) throw new Error("Failed to fetch JSON");
         return r.json();
