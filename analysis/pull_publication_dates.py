@@ -114,6 +114,8 @@ def fill_dates(df: pd.DataFrame, api_key: str, api_secret: str) -> pd.DataFrame:
     for col in ["duration_s", "transcript_url", "pi_persons", "pi_episode_num", "pi_season_num"]:
         if col not in df.columns:
             df[col] = None
+    if "date_source" not in df.columns:
+        df["date_source"] = df["date"].apply(lambda d: "rss" if pd.notna(d) else None)
 
     podcasts_with_missing = (
         df[df["date"].isna()]["podcast_name"].unique()
@@ -163,6 +165,7 @@ def fill_dates(df: pd.DataFrame, api_key: str, api_secret: str) -> pd.DataFrame:
             pub_ts = ep.get("datePublished")
             if pub_ts:
                 df.at[idx, "date"] = pd.to_datetime(pub_ts, unit="s", utc=True).strftime("%Y-%m-%d")
+                df.at[idx, "date_source"] = "podcastindex"
 
             df.at[idx, "duration_s"] = ep.get("duration")
             df.at[idx, "transcript_url"] = ep.get("transcriptUrl") or (
@@ -210,9 +213,8 @@ def main() -> None:
 
     df, summaries = fill_dates(df, api_key, api_secret)
 
-    n_missing_after = df["date"].isna().sum()
-    print(f"\nFilled {n_missing_before - n_missing_after}/{n_missing_before} missing dates.")
-    print(f"Still missing: {n_missing_after}")
+    n_after_pi = df["date"].isna().sum()
+    print(f"\nPodcastIndex filled {n_missing_before - n_after_pi}/{n_missing_before}. Still missing: {n_after_pi}")
 
     df.to_csv(args.output, index=False)
     print(f"Saved {len(df)} rows to {args.output}")
