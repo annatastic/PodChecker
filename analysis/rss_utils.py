@@ -2,24 +2,10 @@
 Utility functions for parsing podcast RSS feeds and computing credibility metrics.
 """
 
-import xml.etree.ElementTree as ET
+import feedparser
 from datetime import datetime, timezone
-from email.utils import parsedate_to_datetime
-from typing import Optional, Union
+from typing import Optional
 from dataclasses import dataclass
-import urllib.request
-
-
-def _parse_rss_tree(rss_source: str) -> ET.Element:
-    """
-    Parse an RSS source (file path or URL) into an ElementTree root.
-    """
-    if rss_source.startswith("http://") or rss_source.startswith("https://"):
-        with urllib.request.urlopen(rss_source) as response:
-            content = response.read()
-        return ET.fromstring(content)
-    else:
-        return ET.parse(rss_source).getroot()
 
 
 @dataclass
@@ -33,6 +19,16 @@ class Episode:
     duration: Optional[int]  # in seconds
 
 
+def _parse_feed(rss_source: str) -> feedparser.FeedParserDict:
+    """Parse an RSS source (file path or URL) using feedparser."""
+    if rss_source.startswith("http://") or rss_source.startswith("https://"):
+        import requests
+        response = requests.get(rss_source, headers={"Accept-Encoding": "identity"})
+        response.raise_for_status()
+        return feedparser.parse(response.content)
+    return feedparser.parse(rss_source)
+
+
 def get_podcast_name(rss_source: str) -> str:
     """
     Extract the podcast name from an RSS feed (file path or URL).
@@ -43,16 +39,8 @@ def get_podcast_name(rss_source: str) -> str:
     Returns:
         The podcast title, or "podcast" if not found
     """
-    root = _parse_rss_tree(rss_source)
-
-    # Try to find the channel title
-    channel = root.find('.//channel')
-    if channel is not None:
-        title_elem = channel.find('title')
-        if title_elem is not None and title_elem.text:
-            return title_elem.text.strip()
-
-    return "podcast"
+    feed = _parse_feed(rss_source)
+    return feed.feed.get("title", "podcast").strip()
 
 
 def parse_rss_file(rss_source: str) -> list[Episode]:
@@ -65,53 +53,52 @@ def parse_rss_file(rss_source: str) -> list[Episode]:
     Returns:
         List of Episode objects sorted by publication date (newest first)
     """
-    root = _parse_rss_tree(rss_source)
-
-    # Define namespaces used in podcast RSS feeds
-    namespaces = {
-        'itunes': 'http://www.itunes.com/dtds/podcast-1.0.dtd',
-        'content': 'http://purl.org/rss/1.0/modules/content/',
-    }
-
+    feed = _parse_feed(rss_source)
     episodes = []
 
-    for item in root.findall('.//item'):
-        # Get title
-        title_elem = item.find('title')
-        title = title_elem.text if title_elem is not None else ""
+    for entry in feed.entries:
+        title = entry.get("title", "")
+        description = entry.get("summary", "")
 
-        # Get description
-        desc_elem = item.find('description')
-        description = desc_elem.text if desc_elem is not None else ""
-
-        # Get publication date
-        pub_date_elem = item.find('pubDate')
-        if pub_date_elem is not None and pub_date_elem.text:
-            pub_date = parsedate_to_datetime(pub_date_elem.text)
+        # Publication date
+        if entry.get("published_parsed"):
+            pub_date = datetime(*entry.published_parsed[:6], tzinfo=timezone.utc)
         else:
             pub_date = datetime.min.replace(tzinfo=timezone.utc)
 
-        # Get episode number (iTunes namespace)
-        episode_num_elem = item.find('itunes:episode', namespaces)
-        episode_number = int(episode_num_elem.text) if episode_num_elem is not None and episode_num_elem.text else None
-
-        # Get audio URL from enclosure
-        enclosure_elem = item.find('enclosure')
-        audio_url = enclosure_elem.get('url') if enclosure_elem is not None else None
-
-        # Get duration (iTunes namespace)
-        duration_elem = item.find('itunes:duration', namespaces)
-        duration = None
-        if duration_elem is not None and duration_elem.text:
+        # iTunes episode number
+        episode_number = None
+        raw_ep = entry.get("itunes_episode")
+        if raw_ep:
             try:
-                duration = int(duration_elem.text)
+                episode_number = int(raw_ep)
             except ValueError:
-                # Duration might be in HH:MM:SS format
-                parts = duration_elem.text.split(':')
-                if len(parts) == 3:
-                    duration = int(parts[0]) * 3600 + int(parts[1]) * 60 + int(parts[2])
-                elif len(parts) == 2:
-                    duration = int(parts[0]) * 60 + int(parts[1])
+                pass
+
+        # Audio URL from enclosures
+        audio_url = None
+        for enc in entry.get("enclosures", []):
+            if enc.get("type", "").startswith("audio"):
+                audio_url = enc.get("href")
+                break
+        if audio_url is None and entry.get("enclosures"):
+            audio_url = entry["enclosures"][0].get("href")
+
+        # Duration
+        duration = None
+        raw_dur = entry.get("itunes_duration")
+        if raw_dur:
+            try:
+                duration = int(raw_dur)
+            except ValueError:
+                parts = str(raw_dur).split(":")
+                try:
+                    if len(parts) == 3:
+                        duration = int(parts[0]) * 3600 + int(parts[1]) * 60 + int(parts[2])
+                    elif len(parts) == 2:
+                        duration = int(parts[0]) * 60 + int(parts[1])
+                except ValueError:
+                    pass
 
         episodes.append(Episode(
             title=title,
@@ -122,7 +109,6 @@ def parse_rss_file(rss_source: str) -> list[Episode]:
             duration=duration,
         ))
 
-    # Sort by publication date, newest first
     episodes.sort(key=lambda e: e.pub_date, reverse=True)
     return episodes
 

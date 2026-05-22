@@ -1,4 +1,6 @@
 spotify_rank,name,network,rss_feed,host
+0, Breitbart News Daily, Mike Slater, https://feeds.simplecast.com/3QFDvuKE, Simplecast
+0, 5 Things CNN, CNN, https://feeds.megaphone.fm/WMHY2007701094, Megaphone
 1,The Tucker Carlson Show,Tucker Carlson Network,https://feeds.megaphone.fm/RSV1597324942,Megaphone
 2,The Daily,The New York Times,https://feeds.simplecast.com/Sl5CSM3S,Simplecast
 3,Up First from NPR,NPR,https://feeds.npr.org/510318/podcast.xml,NPR
@@ -6,7 +8,7 @@ spotify_rank,name,network,rss_feed,host
 5,NPR News Now,NPR,https://feeds.npr.org/500005/podcast.xml,NPR
 6,The Journal.,The Wall Street Journal & Spotify Studios,https://video-api.wsj.com/podcast/rss/wsj/the-journal,WSJ
 7,Pod Save America,Crooked Media,https://audioboom.com/channels/5166624.rss,Audioboom
-8,The Ben Shapiro Show,The Daily Wire,https://feeds.megaphone.fm/BVDWV3121293641,Megaphone
+8,The Ben Shapiro Show,The Daily Wire,https://feeds.megaphone.fm/BVDWV5370667266,Megaphone
 9,"Today, Explained",Vox,https://feeds.megaphone.fm/VMP5705694065,Megaphone
 10,The Megyn Kelly Show,SiriusXM,https://feeds.simplecast.com/RV1USAfC,Simplecast
 11,The President's Daily Brief,PDB Media,https://feeds.megaphone.fm/THFD6217271651,Megaphone
@@ -17,7 +19,7 @@ spotify_rank,name,network,rss_feed,host
 16,The Matt Walsh Show,The Daily Wire,https://feeds.megaphone.fm/BVDWV7762869899,Megaphone
 17,The Dan Bongino Show,Bongino Inc.,https://feeds.megaphone.fm/WWO3519750118,Megaphone
 18,Morning Wire,The Daily Wire,https://feeds.megaphone.fm/BVDWV8747925072,Megaphone
-19,WSJ What's News,The Wall Street Journal,https://video-api.wsj.com/podcast/rss/wsj/whats-news,WSJ
+19,WSJ What's News,The Wall Street Journal,https://feeds.megaphone.fm/WSJ4886593505,WSJ
 20,Pivot,Vox Media,https://feeds.megaphone.fm/pivot,Megaphone
 21,Piers Morgan Uncensored,News UK Podcasts,https://feeds.megaphone.fm/RSV2152356740,Megaphone
 22,The Bulwark Podcast,The Bulwark,https://audioboom.com/channels/5114286.rss,Audioboom

@@ -101,6 +101,27 @@ def download_audio(
     return output_path, was_truncated
 
 
+def download_audio_ffmpeg(url: str, output_path: str, max_duration_seconds: int = 3600) -> str:
+    """
+    Download and transcode audio from a URL via ffmpeg, limited to max_duration_seconds.
+
+    Unlike download_audio, this handles container formats (MP4/M4A) correctly by
+    streaming through ffmpeg rather than truncating raw bytes.
+    """
+    import subprocess
+    cmd = [
+        "ffmpeg", "-nostdin",
+        "-t", str(max_duration_seconds),
+        "-i", url,
+        "-acodec", "libmp3lame", "-q:a", "4",
+        "-y", output_path,
+    ]
+    result = subprocess.run(cmd, capture_output=True)
+    if result.returncode != 0:
+        raise RuntimeError(f"ffmpeg failed: {result.stderr.decode()}")
+    return output_path
+
+
 class PodCheckerClient:
     """
     Client for PodChecker fact-checking analysis.

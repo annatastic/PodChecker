@@ -63,8 +63,10 @@ def prepare_feeds(
     data_dir.mkdir(parents=True, exist_ok=True)
 
     print("Loading Whisper model...")
+    import torch
     import whisper
-    model = whisper.load_model("small.en")
+    device = "cuda" if torch.cuda.is_available() else "cpu"
+    model = whisper.load_model("small.en", device=device)
 
     for feed in feeds:
         rss_url = feed["rss_feed"]
@@ -101,12 +103,19 @@ def prepare_feeds(
                     print(f"  [download error] {episode.title}: {e}")
                     continue
                 if truncated:
-                    print(f"    Truncated at {max_audio_size_mb}MB")
+                    print(f"    Truncated at {max_audio_size_mb}MB — skipping (container format requires full file)")
+                    audio_path.unlink(missing_ok=True)
+                    continue
             else:
                 print(f"  [cached audio] {episode.title}")
 
             print(f"  Transcribing...")
-            transcript = model.transcribe(str(audio_path))["text"]
+            try:
+                transcript = model.transcribe(str(audio_path))["text"]
+            except Exception as e:
+                print(f"  [transcribe error] {episode.title}: {e}")
+                audio_path.unlink(missing_ok=True)
+                continue
             transcript_path.write_text(transcript, encoding="utf-8")
             print(f"  Saved: {transcript_path.name}")
 
