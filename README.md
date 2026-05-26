@@ -2,6 +2,10 @@
 ## Overview
 PodChecker is a user-facing automated fact-checking companion for podcasts. It ingests podcast episode audio and uses LLMs to extract and fact-check the claims made within. This tool provides claim-level factuality assessments with supporting source URLs as well as an aggregated overview.
 
+This code accompanies our paper ["PodChecker: An Interpretable Fact-Checking Companion for Podcasts"](https://workshop-proceedings.icwsm.org/pdf/2026_42.pdf).
+
+A demo with pre-processed samples is available at https://annatastic.github.io/PodChecker/
+
 ![PodChecker system flowchart](assets/systemflowchart2.png)
 
 ## Quickstart
